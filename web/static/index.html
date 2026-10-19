@@ -1,0 +1,614 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Metropolitan Crime Data Analytics Platform</title>
+  
+  <!-- Institutional Typography: Inter & JetBrains Mono -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
+  
+  <!-- Leaflet GIS Map CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  
+  <!-- Enterprise Light Theme CSS -->
+  <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+
+  <!-- Top Institutional Header -->
+  <header class="official-header">
+    <div class="official-top-stripe"></div>
+    <div class="header-container">
+      <div class="agency-identity">
+        <div class="agency-crest">
+          <svg viewBox="0 0 24 24"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+        </div>
+        <div class="agency-titles">
+          <h1>Metropolitan Crime Data Analytics</h1>
+          <p>Public Safety Intelligence Platform &bull; HDFS &bull; YARN &bull; Hive &bull; Pig &bull; MongoDB</p>
+        </div>
+      </div>
+      <div class="system-telemetry">
+        <div class="telemetry-node"><span class="status-dot pulse"></span> HDFS: ONLINE</div>
+        <div class="telemetry-node"><span class="status-dot pulse"></span> YARN: READY</div>
+        <div class="telemetry-node"><span class="status-dot"></span> PIG: v0.18</div>
+        <div class="telemetry-node"><span class="status-dot"></span> HIVE: v4.2</div>
+        <div class="telemetry-node"><span class="status-dot"></span> MONGODB: ACTIVE</div>
+      </div>
+    </div>
+  </header>
+
+  <main class="app-layout">
+
+    <!-- Executive Metrics Strip (CompStat Model) -->
+    <section class="metrics-strip">
+      <div class="metric-tile">
+        <div class="metric-meta">
+          <span>HDFS Ingested Corpus</span>
+          <span>Verified Cases</span>
+        </div>
+        <div class="metric-value" id="kpi-total-crimes">20,000</div>
+        <div class="metric-context">Historical Police Incident Records</div>
+      </div>
+      <div class="metric-tile">
+        <div class="metric-meta">
+          <span>Identified Sectors</span>
+          <span>Active GIS</span>
+        </div>
+        <div class="metric-value" id="kpi-hotspots">10</div>
+        <div class="metric-context">High-Incident Hotspot Patrol Zones</div>
+      </div>
+      <div class="metric-tile">
+        <div class="metric-meta">
+          <span>Citizen Intake</span>
+          <span>MongoDB NoSQL</span>
+        </div>
+        <div class="metric-value" id="kpi-complaints">500</div>
+        <div class="metric-context">Isolated Public Incident Submissions</div>
+      </div>
+      <div class="metric-tile">
+        <div class="metric-meta">
+          <span>Distributed Filesystem</span>
+          <span>HDFS Namespace</span>
+        </div>
+        <div class="metric-value" id="kpi-hdfs-files">13 Files</div>
+        <div class="metric-context">Raw Ingestion, Cleaned & Parquet/CSV Artifacts</div>
+      </div>
+    </section>
+
+    <!-- LANDING VIEW: Geospatial Incident Density Map & Hotspots -->
+    <section class="gis-module">
+      <div class="module-header">
+        <div class="module-title">
+          <h2>Geospatial Incident Density & Patrol Sector Allocation</h2>
+          <p>Spatial clustering generated from HDFS warehouse aggregations. Select sector to inspect incident concentration.</p>
+        </div>
+        <div class="gis-controls">
+          <span class="control-label">Classification:</span>
+          <select id="map-filter-type" class="select-filter">
+            <option value="ALL">All Recorded Classifications</option>
+            <option value="THEFT">Theft</option>
+            <option value="ASSAULT">Assault</option>
+            <option value="BURGLARY">Burglary</option>
+            <option value="ROBBERY">Robbery</option>
+            <option value="FRAUD">Fraud</option>
+            <option value="VANDALISM">Vandalism</option>
+          </select>
+
+          <span class="control-label" style="margin-left: 0.5rem;">Reporting Period:</span>
+          <select id="map-filter-year" class="select-filter">
+            <option value="ALL">All Reporting Years (2021&ndash;2025)</option>
+            <option value="2025">Year 2025</option>
+            <option value="2024">Year 2024</option>
+            <option value="2023">Year 2023</option>
+            <option value="2022">Year 2022</option>
+            <option value="2021">Year 2021</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="gis-viewport-grid">
+        <div id="landing-map"></div>
+        <div class="sectors-sidebar">
+          <div class="sidebar-heading">
+            <span>Ranked Patrol Sectors</span>
+            <span>Pig Aggregations</span>
+          </div>
+          <ul id="hotspot-rank-list" class="sectors-list">
+            <!-- Dynamic hotspot rankings populated by JS -->
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <!-- Enterprise Portal Navigation Tabs -->
+    <nav class="portal-tabs">
+      <button class="portal-tab-btn active" data-tab="tab-landing">Patrol Sector Map</button>
+      <button class="portal-tab-btn" data-tab="tab-safe-route">Transit Risk Model</button>
+      <button class="portal-tab-btn" data-tab="tab-complaints">Citizen Intake (MongoDB)</button>
+      <button class="portal-tab-btn" data-tab="tab-reports">Executive Reports</button>
+      <button class="portal-tab-btn" data-tab="tab-trends">Longitudinal Trends</button>
+      <button class="portal-tab-btn" data-tab="tab-time">Temporal Dynamics</button>
+      <button class="portal-tab-btn" data-tab="tab-areas">District Demographics</button>
+      <button class="portal-tab-btn" data-tab="tab-integration">Data Integration</button>
+      <button class="portal-tab-btn" data-tab="tab-forecast">Statistical Projection</button>
+      <button class="portal-tab-btn" data-tab="tab-benchmark">YARN Scalability</button>
+      <button class="portal-tab-btn" data-tab="tab-pipelines">Hadoop Console</button>
+    </nav>
+
+    <!-- TAB 1: LANDING OVERVIEW -->
+    <div id="tab-landing" class="portal-pane active">
+      <div class="editorial-module">
+        <div class="editorial-header">
+          <h3>Big Data Distributed Spatial Clustering</h3>
+          <p>Metropolitan patrol sector clustering powered by Apache Pig relational groupings and Hive external warehouse tables.</p>
+        </div>
+        <div class="regulatory-notice">
+          <strong>Official Analytical Guidance:</strong> Spatial density metrics are calculated from historical reported incident aggregates. They are utilized for patrol routing, resource allocation, and situational awareness. These metrics do not constitute an operational guarantee of individual safety.
+        </div>
+      </div>
+    </div>
+
+    <!-- TAB 2: SAFE-ROUTE SUGGESTION (Feature 1) -->
+    <div id="tab-safe-route" class="portal-pane">
+      <div class="editorial-module">
+        <div class="editorial-header">
+          <h3>Transit Exposure Risk Model</h3>
+          <p>Evaluates candidate topological paths across the metropolitan road network graph, penalizing segments by historical incident density and time-of-day exposure.</p>
+        </div>
+
+        <div class="regulatory-notice">
+          <strong>Risk-Aware Travel Advisory:</strong> Evaluated candidate paths compare historical incident frequencies across traversed sectors and network distances. This model presents a risk-aware path comparison for administrative and research planning, <strong>not a guarantee of safety</strong>.
+        </div>
+
+        <form id="safe-route-form">
+          <div class="input-grid">
+            <div class="field-group">
+              <label>Origin Sector (A)</label>
+              <select id="route-from-area" class="field-input" required></select>
+            </div>
+            <div class="field-group">
+              <label>Destination Sector (B)</label>
+              <select id="route-to-area" class="field-input" required></select>
+            </div>
+            <div class="field-group">
+              <label>Transit Hour (24-Hour Cycle)</label>
+              <select id="route-hour" class="field-input">
+                <option value="8">08:00 (Morning Rush Hour)</option>
+                <option value="14">14:00 (Mid-Day)</option>
+                <option value="19">19:00 (Evening Transit)</option>
+                <option value="22" selected>22:00 (Nighttime &bull; Heightened Exposure)</option>
+                <option value="2">02:00 (Late Night Patrol Window)</option>
+              </select>
+            </div>
+          </div>
+          <button type="submit" class="btn-action btn-primary">Evaluate Candidate Paths</button>
+        </form>
+
+        <div id="routes-cards-container" class="routes-matrix-grid">
+          <!-- Populated by JS -->
+        </div>
+      </div>
+    </div>
+
+    <!-- TAB 3: ADD COMPLAINT (Feature 2) -->
+    <div id="tab-complaints" class="portal-pane">
+      <div class="editorial-module">
+        <div class="editorial-header" style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+          <div>
+            <h3>Citizen Complaint Intake & NoSQL Registry</h3>
+            <p>Direct document intake stored in MongoDB collection <code>crime_db.complaints</code>. Submissions are strictly separated from verified police history.</p>
+          </div>
+          <button id="btn-sync-hdfs" class="btn-action btn-secondary">Sync MongoDB Batch to HDFS</button>
+        </div>
+
+        <div id="complaint-status-msg"></div>
+
+        <form id="complaint-form" style="margin-top: 1rem;">
+          <div class="input-grid">
+            <div class="field-group">
+              <label>Date of Occurrence</label>
+              <input type="date" id="complaint-date" class="field-input" value="2026-10-13" required>
+            </div>
+            <div class="field-group">
+              <label>Time of Occurrence</label>
+              <input type="time" id="complaint-time" class="field-input" value="18:30" required>
+            </div>
+            <div class="field-group">
+              <label>Incident Classification</label>
+              <select id="complaint-type" class="field-input">
+                <option>Theft</option>
+                <option>Assault</option>
+                <option>Burglary</option>
+                <option>Vehicle Theft</option>
+                <option>Fraud</option>
+                <option>Vandalism</option>
+                <option>Robbery</option>
+                <option>Cybercrime</option>
+              </select>
+            </div>
+            <div class="field-group">
+              <label>Patrol Sector</label>
+              <select id="complaint-area" class="field-input" required></select>
+            </div>
+          </div>
+          <div class="field-group" style="margin-bottom: 1rem;">
+            <label>Factual Narrative Summary (Personal identifiers excluded for compliance)</label>
+            <textarea id="complaint-desc" class="field-input" placeholder="Provide factual incident summary..." required></textarea>
+          </div>
+          <button type="submit" class="btn-action btn-emerald">Submit Incident Dossier</button>
+        </form>
+
+        <div class="editorial-header" style="margin-top: 2rem;">
+          <h3>MongoDB Intake Ledger (Latest Submissions)</h3>
+        </div>
+        <div class="table-wrap">
+          <table class="dense-table">
+            <thead>
+              <tr>
+                <th>Dossier Reference</th>
+                <th>Incident Timestamp</th>
+                <th>Classification</th>
+                <th>Sector</th>
+                <th>Intake Status</th>
+                <th>Narrative Extract</th>
+              </tr>
+            </thead>
+            <tbody id="complaints-table-body">
+              <!-- Dynamically loaded complaints -->
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+
+    <!-- TAB 4: EXECUTIVE REPORTS (Feature 3) -->
+    <div id="tab-reports" class="portal-pane">
+      <div class="editorial-module">
+        <div class="editorial-header" style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+          <div>
+            <h3>Official Analytical Reports & Data Export</h3>
+            <p>Execute filtered queries over HDFS tables. Export certified statistical reports to CSV or formal PDF.</p>
+          </div>
+          <div style="display: flex; gap: 0.5rem;">
+            <button id="btn-export-csv" class="btn-action btn-secondary">Download CSV Dataset</button>
+            <button id="btn-export-pdf" class="btn-action btn-primary">Generate PDF Report</button>
+          </div>
+        </div>
+
+        <form id="report-filter-form" style="margin-top: 1rem;">
+          <div class="input-grid">
+            <div class="field-group">
+              <label>Incident Classification</label>
+              <select id="report-type" class="field-input">
+                <option value="ALL">All Classifications</option>
+                <option value="THEFT">Theft</option>
+                <option value="ASSAULT">Assault</option>
+                <option value="BURGLARY">Burglary</option>
+                <option value="ROBBERY">Robbery</option>
+                <option value="FRAUD">Fraud</option>
+              </select>
+            </div>
+            <div class="field-group">
+              <label>Target Sector</label>
+              <select id="report-area" class="field-input"></select>
+            </div>
+            <div class="field-group">
+              <label>Reporting Year</label>
+              <select id="report-year" class="field-input">
+                <option value="ALL">All Reporting Years (2021&ndash;2025)</option>
+                <option value="2025">2025</option>
+                <option value="2024">2024</option>
+                <option value="2023">2023</option>
+                <option value="2022">2022</option>
+                <option value="2021">2021</option>
+              </select>
+            </div>
+          </div>
+          <button type="submit" class="btn-action btn-primary">Compile Report Query</button>
+        </form>
+
+        <div id="report-results-container" style="margin-top: 1.25rem;"></div>
+      </div>
+    </div>
+
+    <!-- TAB 5: LONGITUDINAL TRENDS (Feature 4) -->
+    <div id="tab-trends" class="portal-pane">
+      <div class="editorial-module">
+        <div class="editorial-header">
+          <h3>Longitudinal Crime Trends (Monthly & Annual Growth)</h3>
+          <p>Chronological incident counts grouped via HiveQL queries over HDFS external tables. Computes Month-over-Month (MoM) and Year-over-Year (YoY) percentage delta.</p>
+        </div>
+
+        <div class="chart-frame">
+          <canvas id="trend-chart"></canvas>
+        </div>
+
+        <div class="editorial-header" style="margin-top: 2rem;">
+          <h3>Annual Comparison Matrix & YoY Variation</h3>
+        </div>
+        <div class="table-wrap">
+          <table class="dense-table">
+            <thead>
+              <tr>
+                <th>Reporting Year</th>
+                <th>Total Ingested Cases</th>
+                <th>Annual Delta (YoY %)</th>
+              </tr>
+            </thead>
+            <tbody id="yearly-trends-body">
+              <!-- Dynamically populated -->
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+
+    <!-- TAB 6: TEMPORAL PATTERNS (Feature 6) -->
+    <div id="tab-time" class="portal-pane">
+      <div class="editorial-module">
+        <div class="editorial-header">
+          <h3>Temporal Dynamics & Diurnal Cycle</h3>
+          <p>24-hour diurnal curve and day-of-week frequency matrix extracted from timestamp metadata across HDFS datasets.</p>
+        </div>
+
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 1rem; margin-bottom: 1.25rem;">
+          <div class="metric-tile">
+            <div class="metric-meta">Peak Risk Window</div>
+            <div id="peak-hour-text" style="color: var(--status-critical); font-weight: 800; font-size: 1.15rem; font-family: 'JetBrains Mono';">22:00 (Nighttime)</div>
+          </div>
+          <div class="metric-tile">
+            <div class="metric-meta">Minimum Activity Window</div>
+            <div id="lowest-hour-text" style="color: var(--status-success); font-weight: 800; font-size: 1.15rem; font-family: 'JetBrains Mono';">05:00 (Dawn)</div>
+          </div>
+          <div class="metric-tile">
+            <div class="metric-meta">Day Grouping Averages</div>
+            <div id="weekday-vs-weekend-text" style="color: var(--brand-blue); font-weight: 700; font-size: 0.85rem;">Weekday vs Weekend</div>
+          </div>
+        </div>
+
+        <div class="chart-frame">
+          <canvas id="diurnal-chart"></canvas>
+        </div>
+
+        <div class="editorial-header" style="margin-top: 2rem;">
+          <h3>Day of Week &times; Time Block Frequency Grid</h3>
+        </div>
+        <div class="table-wrap">
+          <table class="dense-table">
+            <thead>
+              <tr>
+                <th>Day of Week</th>
+                <th>00:00&ndash;04:00</th>
+                <th>04:00&ndash;08:00</th>
+                <th>08:00&ndash;12:00</th>
+                <th>12:00&ndash;16:00</th>
+                <th>16:00&ndash;20:00</th>
+                <th>20:00&ndash;24:00</th>
+              </tr>
+            </thead>
+            <tbody id="heatmap-matrix-body">
+              <!-- Dynamically populated matrix -->
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+
+    <!-- TAB 7: DISTRICT DEMOGRAPHICS (Feature 7) -->
+    <div id="tab-areas" class="portal-pane">
+      <div class="editorial-module">
+        <div class="editorial-header">
+          <h3>District Demographics & Per-Capita Crime Rates</h3>
+          <p>Distributed joins linking HDFS crime records, relational area population estimates, and police precinct stations (per 100,000 citizens).</p>
+        </div>
+
+        <div class="table-wrap">
+          <table class="dense-table">
+            <thead>
+              <tr>
+                <th>Patrol Sector</th>
+                <th>Census Population</th>
+                <th>Recorded Cases</th>
+                <th>Incidents / 100k Population</th>
+                <th>Arrest Clearance</th>
+                <th>Assigned Police Precinct</th>
+              </tr>
+            </thead>
+            <tbody id="area-comparison-body">
+              <!-- Dynamically populated -->
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+
+    <!-- TAB 8: DATA INTEGRATION (Feature 8) -->
+    <div id="tab-integration" class="portal-pane">
+      <div class="editorial-module">
+        <div class="editorial-header" style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+          <div>
+            <h3>Multi-Source ETL Integration & Deduplication Pipeline</h3>
+            <p>Harmonizes Datacenter historical records, SQL relational registries, and MongoDB intake submissions into unified HDFS analytical master tables.</p>
+          </div>
+          <button id="btn-run-integration" class="btn-action btn-primary">Execute Multi-Source Ingestion</button>
+        </div>
+
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 1rem; margin: 1rem 0;">
+          <div class="metric-tile">
+            <div class="metric-meta">Source 1: Datacenter CSV</div>
+            <div style="font-weight: 700; font-size: 0.85rem; color: var(--text-primary); margin-top: 0.2rem;">20,000 Verified Police Cases</div>
+            <div style="font-size: 0.72rem; color: var(--text-muted); font-family: 'JetBrains Mono';">/crime/raw/datacenter/</div>
+          </div>
+          <div class="metric-tile">
+            <div class="metric-meta">Source 2: SQL Relational</div>
+            <div style="font-weight: 700; font-size: 0.85rem; color: var(--text-primary); margin-top: 0.2rem;">Sector & Precinct Registry</div>
+            <div style="font-size: 0.72rem; color: var(--text-muted); font-family: 'JetBrains Mono';">/crime/raw/sql/</div>
+          </div>
+          <div class="metric-tile">
+            <div class="metric-meta">Source 3: MongoDB NoSQL</div>
+            <div style="font-weight: 700; font-size: 0.85rem; color: var(--text-primary); margin-top: 0.2rem;">Citizen Complaint Stream</div>
+            <div style="font-size: 0.72rem; color: var(--text-muted); font-family: 'JetBrains Mono';">/crime/raw/mongodb/</div>
+          </div>
+        </div>
+
+        <div id="integration-console-box" class="monochrome-console">
+          ETL Console initialized. Ready to execute multi-source ingestion and deduplication...
+        </div>
+      </div>
+    </div>
+
+    <!-- TAB 9: STATISTICAL PROJECTION (Feature 9) -->
+    <div id="tab-forecast" class="portal-pane">
+      <div class="editorial-module">
+        <div class="editorial-header">
+          <h3>Time-Series Trend Forecasting (Holt-Winters Model)</h3>
+          <p>Statistical projection utilizing Double Exponential Smoothing with multiplicative seasonal indexing over historical Hive monthly aggregates.</p>
+        </div>
+
+        <div class="regulatory-notice">
+          <strong>Methodological Disclosure:</strong> Projections represent aggregate mathematical trend estimations based on historical volume patterns. They are designed for administrative patrol scheduling and capacity planning, <strong>not individual human predictive policing</strong>.
+        </div>
+
+        <div style="display: flex; gap: 2rem; margin-bottom: 1rem; font-size: 0.8rem;">
+          <div>Scope: <strong id="forecast-scope-text" style="color: var(--brand-blue);">City-Wide Total</strong></div>
+          <div>Estimated Trajectory: <strong id="forecast-trend-text" style="color: var(--status-warning);">Stable</strong></div>
+          <div>Confidence Threshold: <strong>80% Confidence Fan Interval</strong></div>
+        </div>
+
+        <div class="chart-frame">
+          <canvas id="forecast-chart"></canvas>
+        </div>
+
+        <div class="editorial-header" style="margin-top: 2rem;">
+          <h3>6-Month Statistical Interval Table</h3>
+        </div>
+        <div class="table-wrap">
+          <table class="dense-table">
+            <thead>
+              <tr>
+                <th>Forecast Period</th>
+                <th>Projected Incident Count</th>
+                <th>80% Lower Bound</th>
+                <th>80% Upper Bound</th>
+                <th>Model Classification</th>
+              </tr>
+            </thead>
+            <tbody id="forecast-table-body">
+              <!-- Dynamically populated forecast rows -->
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+
+    <!-- TAB 10: SCALABILITY BENCHMARK (Feature 10) -->
+    <div id="tab-benchmark" class="portal-pane">
+      <div class="editorial-module">
+        <div class="editorial-header" style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+          <div>
+            <h3>Systems Performance & Horizontal Scalability (1M Records)</h3>
+            <p>Compares single-threaded sequential CPU processing against multi-worker distributed MapReduce across 100K, 500K, and 1M records from <code>chicago_crimes_1m.csv</code> (~199 MB).</p>
+          </div>
+          <div style="display: flex; gap: 0.5rem; align-items: center;">
+            <select id="live-benchmark-size" class="select-filter">
+              <option value="100000">100,000 Records</option>
+              <option value="500000">500,000 Records</option>
+              <option value="1000000">1,000,000 Records (Full)</option>
+            </select>
+            <button id="btn-run-live-benchmark" class="btn-action btn-primary">Run Live Test</button>
+          </div>
+        </div>
+
+        <div class="chart-frame">
+          <canvas id="benchmark-chart"></canvas>
+        </div>
+
+        <div id="benchmark-live-log" class="monochrome-console" style="margin: 1rem 0;">
+          Select evaluation slice and execute live benchmark to stream records through multi-worker MapReduce pipeline...
+        </div>
+
+        <div class="editorial-header" style="margin-top: 2rem;">
+          <h3>Empirical Performance Comparison</h3>
+        </div>
+        <div class="table-wrap">
+          <table class="dense-table">
+            <thead>
+              <tr>
+                <th>Evaluated Dataset Slice</th>
+                <th>Single-Threaded Sequential CPU</th>
+                <th>Distributed MapReduce (Multi-Worker)</th>
+                <th>Speedup Multiplier</th>
+                <th>Throughput Efficiency Gain</th>
+              </tr>
+            </thead>
+            <tbody id="benchmark-table-body">
+              <!-- Dynamically populated -->
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+
+    <!-- TAB 11: HADOOP CONSOLE -->
+    <div id="tab-pipelines" class="portal-pane">
+      <div class="editorial-module">
+        <div class="editorial-header">
+          <h3>Hadoop Cluster Operations (HDFS, Apache Pig & Apache Hive)</h3>
+          <p>Execute Pig Latin scripts, dispatch HiveQL queries, and inspect real-time HDFS namespace metadata.</p>
+        </div>
+
+        <div style="display: flex; gap: 0.5rem; margin-bottom: 1rem; flex-wrap: wrap;">
+          <button id="btn-run-pig-clean" class="btn-action btn-secondary">Execute clean_crimes.pig</button>
+          <button id="btn-run-pig-hotspot" class="btn-action btn-secondary">Execute hotspot_analysis.pig</button>
+        </div>
+
+        <div style="margin-bottom: 1rem;">
+          <label style="display: block; font-size: 0.72rem; font-weight: 700; text-transform: uppercase; color: var(--text-secondary); margin-bottom: 0.25rem;">Interactive HiveQL Query Console:</label>
+          <textarea id="hive-query-input" class="field-input" style="font-family: 'JetBrains Mono', Consolas, monospace; font-size: 0.8rem; width: 100%; display: block;" rows="3">SELECT area_name, crime_type, COUNT(*) AS total FROM crimes GROUP BY area_name, crime_type ORDER BY total DESC LIMIT 5;</textarea>
+          <button id="btn-execute-hive" class="btn-action btn-primary" style="margin-top: 0.65rem;">Dispatch Hive Query</button>
+        </div>
+
+        <div id="pipeline-terminal" class="monochrome-console">
+          Hadoop cluster telemetry active. Execute Pig jobs or dispatch HiveQL queries above to observe pipeline execution logs.
+        </div>
+
+        <div class="editorial-header" style="margin-top: 2rem;">
+          <h3>HDFS Storage Ledger (/crime/...)</h3>
+        </div>
+        <div class="table-wrap">
+          <table class="dense-table">
+            <thead>
+              <tr>
+                <th>HDFS Namespace Location</th>
+                <th>Storage Size</th>
+                <th>Format Specification</th>
+                <th>Replication Status</th>
+                <th>Inspection</th>
+              </tr>
+            </thead>
+            <tbody id="hdfs-files-body">
+              <!-- Dynamically loaded HDFS files -->
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+
+  </main>
+
+  <!-- Leaflet GIS Map JS -->
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  
+  <!-- Chart.js CDN -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  
+  <!-- Project Scripts -->
+  <script src="/static/js/map.js"></script>
+  <script src="/static/js/charts.js"></script>
+  <script src="/static/js/app.js"></script>
+</body>
+</html>

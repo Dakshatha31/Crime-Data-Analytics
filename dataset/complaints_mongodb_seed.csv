@@ -1,0 +1,501 @@
+complaint_id,submitted_at,complaint_category,area_id,area_name,complaint_status,submission_channel,description,data_source
+CMP00001,2025-12-14 19:36:00,Drug Offence,A008,University,Acknowledged,Web Form,Synthetic sample complaint about drug offence in University. No real personal information.,synthetic_training_data
+CMP00002,2025-03-28 00:22:00,Theft,A005,West,Submitted,Mobile App,Synthetic sample complaint about theft in West. No real personal information.,synthetic_training_data
+CMP00003,2025-05-17 20:19:00,Fraud,A003,South,Acknowledged,Mobile App,Synthetic sample complaint about fraud in South. No real personal information.,synthetic_training_data
+CMP00004,2025-02-15 10:48:00,Vandalism,A005,West,Acknowledged,Mobile App,Synthetic sample complaint about vandalism in West. No real personal information.,synthetic_training_data
+CMP00005,2025-03-29 05:54:00,Harassment,A008,University,Under Review,Help Desk,Synthetic sample complaint about harassment in University. No real personal information.,synthetic_training_data
+CMP00006,2025-02-16 16:02:00,Theft,A008,University,Acknowledged,Mobile App,Synthetic sample complaint about theft in University. No real personal information.,synthetic_training_data
+CMP00007,2025-12-08 14:32:00,Burglary,A001,Central,Submitted,Help Desk,Synthetic sample complaint about burglary in Central. No real personal information.,synthetic_training_data
+CMP00008,2025-12-07 11:56:00,Vandalism,A005,West,Resolved,Mobile App,Synthetic sample complaint about vandalism in West. No real personal information.,synthetic_training_data
+CMP00009,2025-09-13 19:29:00,Theft,A002,North,Resolved,Web Form,Synthetic sample complaint about theft in North. No real personal information.,synthetic_training_data
+CMP00010,2025-01-18 17:37:00,Robbery,A007,Industrial,Resolved,Web Form,Synthetic sample complaint about robbery in Industrial. No real personal information.,synthetic_training_data
+CMP00011,2025-06-07 19:43:00,Burglary,A009,Market,Under Review,Web Form,Synthetic sample complaint about burglary in Market. No real personal information.,synthetic_training_data
+CMP00012,2025-08-11 03:16:00,Fraud,A009,Market,Acknowledged,Web Form,Synthetic sample complaint about fraud in Market. No real personal information.,synthetic_training_data
+CMP00013,2025-12-31 00:59:00,Assault,A001,Central,Submitted,Web Form,Synthetic sample complaint about assault in Central. No real personal information.,synthetic_training_data
+CMP00014,2025-06-25 07:30:00,Harassment,A003,South,Submitted,Mobile App,Synthetic sample complaint about harassment in South. No real personal information.,synthetic_training_data
+CMP00015,2025-12-15 05:07:00,Fraud,A008,University,Submitted,Web Form,Synthetic sample complaint about fraud in University. No real personal information.,synthetic_training_data
+CMP00016,2025-09-23 22:27:00,Fraud,A009,Market,Resolved,Mobile App,Synthetic sample complaint about fraud in Market. No real personal information.,synthetic_training_data
+CMP00017,2025-06-21 04:10:00,Fraud,A003,South,Under Review,Mobile App,Synthetic sample complaint about fraud in South. No real personal information.,synthetic_training_data
+CMP00018,2025-02-18 01:39:00,Fraud,A005,West,Resolved,Web Form,Synthetic sample complaint about fraud in West. No real personal information.,synthetic_training_data
+CMP00019,2025-10-29 00:27:00,Fraud,A010,Suburban,Acknowledged,Mobile App,Synthetic sample complaint about fraud in Suburban. No real personal information.,synthetic_training_data
+CMP00020,2025-07-15 03:25:00,Theft,A010,Suburban,Resolved,Mobile App,Synthetic sample complaint about theft in Suburban. No real personal information.,synthetic_training_data
+CMP00021,2025-06-12 03:08:00,Robbery,A004,East,Submitted,Mobile App,Synthetic sample complaint about robbery in East. No real personal information.,synthetic_training_data
+CMP00022,2025-07-27 14:13:00,Burglary,A001,Central,Under Review,Web Form,Synthetic sample complaint about burglary in Central. No real personal information.,synthetic_training_data
+CMP00023,2025-06-19 18:00:00,Robbery,A002,North,Resolved,Help Desk,Synthetic sample complaint about robbery in North. No real personal information.,synthetic_training_data
+CMP00024,2025-08-27 13:29:00,Theft,A007,Industrial,Acknowledged,Web Form,Synthetic sample complaint about theft in Industrial. No real personal information.,synthetic_training_data
+CMP00025,2025-07-26 05:14:00,Assault,A008,University,Acknowledged,Web Form,Synthetic sample complaint about assault in University. No real personal information.,synthetic_training_data
+CMP00026,2025-05-06 18:14:00,Robbery,A010,Suburban,Acknowledged,Web Form,Synthetic sample complaint about robbery in Suburban. No real personal information.,synthetic_training_data
+CMP00027,2025-09-12 16:59:00,Vandalism,A005,West,Under Review,Help Desk,Synthetic sample complaint about vandalism in West. No real personal information.,synthetic_training_data
+CMP00028,2025-12-29 08:27:00,Theft,A007,Industrial,Acknowledged,Mobile App,Synthetic sample complaint about theft in Industrial. No real personal information.,synthetic_training_data
+CMP00029,2025-11-17 05:56:00,Theft,A004,East,Resolved,Mobile App,Synthetic sample complaint about theft in East. No real personal information.,synthetic_training_data
+CMP00030,2025-02-11 15:03:00,Vandalism,A003,South,Acknowledged,Web Form,Synthetic sample complaint about vandalism in South. No real personal information.,synthetic_training_data
+CMP00031,2025-01-16 22:11:00,Fraud,A005,West,Resolved,Mobile App,Synthetic sample complaint about fraud in West. No real personal information.,synthetic_training_data
+CMP00032,2025-08-13 11:16:00,Theft,A001,Central,Submitted,Help Desk,Synthetic sample complaint about theft in Central. No real personal information.,synthetic_training_data
+CMP00033,2025-05-24 11:20:00,Fraud,A004,East,Submitted,Help Desk,Synthetic sample complaint about fraud in East. No real personal information.,synthetic_training_data
+CMP00034,2025-05-10 09:43:00,Harassment,A007,Industrial,Acknowledged,Mobile App,Synthetic sample complaint about harassment in Industrial. No real personal information.,synthetic_training_data
+CMP00035,2025-09-12 16:53:00,Assault,A005,West,Under Review,Web Form,Synthetic sample complaint about assault in West. No real personal information.,synthetic_training_data
+CMP00036,2025-06-06 05:51:00,Theft,A005,West,Under Review,Web Form,Synthetic sample complaint about theft in West. No real personal information.,synthetic_training_data
+CMP00037,2025-11-21 23:17:00,Theft,A010,Suburban,Resolved,Mobile App,Synthetic sample complaint about theft in Suburban. No real personal information.,synthetic_training_data
+CMP00038,2025-02-26 07:15:00,Vandalism,A008,University,Resolved,Help Desk,Synthetic sample complaint about vandalism in University. No real personal information.,synthetic_training_data
+CMP00039,2025-11-22 18:48:00,Fraud,A002,North,Resolved,Help Desk,Synthetic sample complaint about fraud in North. No real personal information.,synthetic_training_data
+CMP00040,2025-08-11 13:01:00,Vandalism,A009,Market,Acknowledged,Web Form,Synthetic sample complaint about vandalism in Market. No real personal information.,synthetic_training_data
+CMP00041,2025-05-10 00:57:00,Harassment,A001,Central,Resolved,Help Desk,Synthetic sample complaint about harassment in Central. No real personal information.,synthetic_training_data
+CMP00042,2025-03-31 20:01:00,Drug Offence,A001,Central,Acknowledged,Help Desk,Synthetic sample complaint about drug offence in Central. No real personal information.,synthetic_training_data
+CMP00043,2025-05-10 20:55:00,Burglary,A005,West,Acknowledged,Mobile App,Synthetic sample complaint about burglary in West. No real personal information.,synthetic_training_data
+CMP00044,2025-07-06 15:03:00,Drug Offence,A008,University,Resolved,Web Form,Synthetic sample complaint about drug offence in University. No real personal information.,synthetic_training_data
+CMP00045,2025-09-29 17:05:00,Burglary,A001,Central,Acknowledged,Help Desk,Synthetic sample complaint about burglary in Central. No real personal information.,synthetic_training_data
+CMP00046,2025-10-27 04:45:00,Drug Offence,A001,Central,Under Review,Help Desk,Synthetic sample complaint about drug offence in Central. No real personal information.,synthetic_training_data
+CMP00047,2025-07-16 18:11:00,Vandalism,A001,Central,Resolved,Web Form,Synthetic sample complaint about vandalism in Central. No real personal information.,synthetic_training_data
+CMP00048,2025-01-04 22:07:00,Assault,A007,Industrial,Under Review,Mobile App,Synthetic sample complaint about assault in Industrial. No real personal information.,synthetic_training_data
+CMP00049,2025-01-25 02:34:00,Drug Offence,A009,Market,Under Review,Help Desk,Synthetic sample complaint about drug offence in Market. No real personal information.,synthetic_training_data
+CMP00050,2025-08-08 22:42:00,Drug Offence,A008,University,Submitted,Web Form,Synthetic sample complaint about drug offence in University. No real personal information.,synthetic_training_data
+CMP00051,2025-10-22 03:09:00,Drug Offence,A001,Central,Acknowledged,Web Form,Synthetic sample complaint about drug offence in Central. No real personal information.,synthetic_training_data
+CMP00052,2025-05-18 20:55:00,Burglary,A008,University,Submitted,Mobile App,Synthetic sample complaint about burglary in University. No real personal information.,synthetic_training_data
+CMP00053,2025-02-05 16:02:00,Drug Offence,A006,Harbour,Under Review,Web Form,Synthetic sample complaint about drug offence in Harbour. No real personal information.,synthetic_training_data
+CMP00054,2025-09-26 04:59:00,Harassment,A004,East,Under Review,Web Form,Synthetic sample complaint about harassment in East. No real personal information.,synthetic_training_data
+CMP00055,2025-01-30 11:35:00,Theft,A001,Central,Under Review,Help Desk,Synthetic sample complaint about theft in Central. No real personal information.,synthetic_training_data
+CMP00056,2025-02-10 06:46:00,Assault,A004,East,Under Review,Web Form,Synthetic sample complaint about assault in East. No real personal information.,synthetic_training_data
+CMP00057,2025-04-27 07:07:00,Vandalism,A009,Market,Submitted,Web Form,Synthetic sample complaint about vandalism in Market. No real personal information.,synthetic_training_data
+CMP00058,2025-10-22 16:26:00,Robbery,A004,East,Resolved,Mobile App,Synthetic sample complaint about robbery in East. No real personal information.,synthetic_training_data
+CMP00059,2025-12-17 08:52:00,Burglary,A001,Central,Under Review,Help Desk,Synthetic sample complaint about burglary in Central. No real personal information.,synthetic_training_data
+CMP00060,2025-01-16 13:03:00,Drug Offence,A004,East,Resolved,Web Form,Synthetic sample complaint about drug offence in East. No real personal information.,synthetic_training_data
+CMP00061,2025-12-25 08:39:00,Burglary,A007,Industrial,Under Review,Help Desk,Synthetic sample complaint about burglary in Industrial. No real personal information.,synthetic_training_data
+CMP00062,2025-10-16 13:56:00,Assault,A010,Suburban,Under Review,Mobile App,Synthetic sample complaint about assault in Suburban. No real personal information.,synthetic_training_data
+CMP00063,2025-04-10 01:45:00,Fraud,A002,North,Under Review,Help Desk,Synthetic sample complaint about fraud in North. No real personal information.,synthetic_training_data
+CMP00064,2025-08-05 15:11:00,Burglary,A005,West,Submitted,Mobile App,Synthetic sample complaint about burglary in West. No real personal information.,synthetic_training_data
+CMP00065,2025-12-10 15:09:00,Burglary,A001,Central,Under Review,Web Form,Synthetic sample complaint about burglary in Central. No real personal information.,synthetic_training_data
+CMP00066,2025-07-21 10:02:00,Burglary,A003,South,Submitted,Web Form,Synthetic sample complaint about burglary in South. No real personal information.,synthetic_training_data
+CMP00067,2025-07-31 10:26:00,Drug Offence,A008,University,Acknowledged,Web Form,Synthetic sample complaint about drug offence in University. No real personal information.,synthetic_training_data
+CMP00068,2025-06-10 07:14:00,Burglary,A001,Central,Acknowledged,Help Desk,Synthetic sample complaint about burglary in Central. No real personal information.,synthetic_training_data
+CMP00069,2025-08-20 00:02:00,Drug Offence,A002,North,Resolved,Web Form,Synthetic sample complaint about drug offence in North. No real personal information.,synthetic_training_data
+CMP00070,2025-05-25 22:23:00,Assault,A003,South,Resolved,Web Form,Synthetic sample complaint about assault in South. No real personal information.,synthetic_training_data
+CMP00071,2025-12-25 07:18:00,Burglary,A003,South,Acknowledged,Help Desk,Synthetic sample complaint about burglary in South. No real personal information.,synthetic_training_data
+CMP00072,2025-05-21 15:22:00,Drug Offence,A010,Suburban,Resolved,Web Form,Synthetic sample complaint about drug offence in Suburban. No real personal information.,synthetic_training_data
+CMP00073,2025-06-14 20:20:00,Theft,A008,University,Under Review,Web Form,Synthetic sample complaint about theft in University. No real personal information.,synthetic_training_data
+CMP00074,2025-08-02 09:09:00,Robbery,A006,Harbour,Submitted,Web Form,Synthetic sample complaint about robbery in Harbour. No real personal information.,synthetic_training_data
+CMP00075,2025-07-25 02:12:00,Harassment,A003,South,Submitted,Web Form,Synthetic sample complaint about harassment in South. No real personal information.,synthetic_training_data
+CMP00076,2025-10-04 03:50:00,Burglary,A009,Market,Submitted,Mobile App,Synthetic sample complaint about burglary in Market. No real personal information.,synthetic_training_data
+CMP00077,2025-09-12 10:47:00,Fraud,A010,Suburban,Resolved,Help Desk,Synthetic sample complaint about fraud in Suburban. No real personal information.,synthetic_training_data
+CMP00078,2025-06-06 07:28:00,Vandalism,A006,Harbour,Resolved,Help Desk,Synthetic sample complaint about vandalism in Harbour. No real personal information.,synthetic_training_data
+CMP00079,2025-11-18 14:25:00,Robbery,A001,Central,Resolved,Mobile App,Synthetic sample complaint about robbery in Central. No real personal information.,synthetic_training_data
+CMP00080,2025-09-12 04:01:00,Fraud,A010,Suburban,Acknowledged,Web Form,Synthetic sample complaint about fraud in Suburban. No real personal information.,synthetic_training_data
+CMP00081,2025-08-24 11:08:00,Robbery,A006,Harbour,Submitted,Web Form,Synthetic sample complaint about robbery in Harbour. No real personal information.,synthetic_training_data
+CMP00082,2025-04-20 19:08:00,Robbery,A008,University,Under Review,Help Desk,Synthetic sample complaint about robbery in University. No real personal information.,synthetic_training_data
+CMP00083,2025-07-05 16:57:00,Theft,A006,Harbour,Resolved,Mobile App,Synthetic sample complaint about theft in Harbour. No real personal information.,synthetic_training_data
+CMP00084,2025-12-30 00:41:00,Fraud,A003,South,Under Review,Web Form,Synthetic sample complaint about fraud in South. No real personal information.,synthetic_training_data
+CMP00085,2025-06-09 00:06:00,Vandalism,A008,University,Under Review,Help Desk,Synthetic sample complaint about vandalism in University. No real personal information.,synthetic_training_data
+CMP00086,2025-10-14 02:08:00,Assault,A010,Suburban,Under Review,Help Desk,Synthetic sample complaint about assault in Suburban. No real personal information.,synthetic_training_data
+CMP00087,2025-03-26 18:03:00,Vandalism,A005,West,Resolved,Help Desk,Synthetic sample complaint about vandalism in West. No real personal information.,synthetic_training_data
+CMP00088,2025-11-17 13:41:00,Fraud,A006,Harbour,Resolved,Web Form,Synthetic sample complaint about fraud in Harbour. No real personal information.,synthetic_training_data
+CMP00089,2025-08-29 08:48:00,Vandalism,A005,West,Acknowledged,Web Form,Synthetic sample complaint about vandalism in West. No real personal information.,synthetic_training_data
+CMP00090,2025-05-26 10:15:00,Assault,A001,Central,Submitted,Help Desk,Synthetic sample complaint about assault in Central. No real personal information.,synthetic_training_data
+CMP00091,2025-07-26 10:36:00,Robbery,A003,South,Under Review,Mobile App,Synthetic sample complaint about robbery in South. No real personal information.,synthetic_training_data
+CMP00092,2025-05-27 18:22:00,Assault,A006,Harbour,Under Review,Web Form,Synthetic sample complaint about assault in Harbour. No real personal information.,synthetic_training_data
+CMP00093,2025-02-07 19:21:00,Theft,A009,Market,Resolved,Web Form,Synthetic sample complaint about theft in Market. No real personal information.,synthetic_training_data
+CMP00094,2025-05-26 17:12:00,Assault,A001,Central,Submitted,Mobile App,Synthetic sample complaint about assault in Central. No real personal information.,synthetic_training_data
+CMP00095,2025-09-12 03:00:00,Vandalism,A006,Harbour,Resolved,Mobile App,Synthetic sample complaint about vandalism in Harbour. No real personal information.,synthetic_training_data
+CMP00096,2025-08-27 06:00:00,Harassment,A007,Industrial,Acknowledged,Help Desk,Synthetic sample complaint about harassment in Industrial. No real personal information.,synthetic_training_data
+CMP00097,2025-10-30 20:21:00,Drug Offence,A002,North,Acknowledged,Help Desk,Synthetic sample complaint about drug offence in North. No real personal information.,synthetic_training_data
+CMP00098,2025-10-28 16:58:00,Fraud,A001,Central,Acknowledged,Help Desk,Synthetic sample complaint about fraud in Central. No real personal information.,synthetic_training_data
+CMP00099,2025-01-15 19:23:00,Drug Offence,A010,Suburban,Resolved,Help Desk,Synthetic sample complaint about drug offence in Suburban. No real personal information.,synthetic_training_data
+CMP00100,2025-11-20 19:43:00,Vandalism,A005,West,Submitted,Mobile App,Synthetic sample complaint about vandalism in West. No real personal information.,synthetic_training_data
+CMP00101,2025-04-04 08:27:00,Assault,A007,Industrial,Submitted,Mobile App,Synthetic sample complaint about assault in Industrial. No real personal information.,synthetic_training_data
+CMP00102,2025-05-01 12:40:00,Robbery,A006,Harbour,Under Review,Help Desk,Synthetic sample complaint about robbery in Harbour. No real personal information.,synthetic_training_data
+CMP00103,2025-08-28 11:45:00,Assault,A006,Harbour,Resolved,Web Form,Synthetic sample complaint about assault in Harbour. No real personal information.,synthetic_training_data
+CMP00104,2025-12-27 19:26:00,Harassment,A005,West,Acknowledged,Mobile App,Synthetic sample complaint about harassment in West. No real personal information.,synthetic_training_data
+CMP00105,2025-02-22 20:57:00,Assault,A010,Suburban,Acknowledged,Help Desk,Synthetic sample complaint about assault in Suburban. No real personal information.,synthetic_training_data
+CMP00106,2025-04-21 08:43:00,Burglary,A010,Suburban,Under Review,Web Form,Synthetic sample complaint about burglary in Suburban. No real personal information.,synthetic_training_data
+CMP00107,2025-05-13 05:57:00,Drug Offence,A008,University,Resolved,Mobile App,Synthetic sample complaint about drug offence in University. No real personal information.,synthetic_training_data
+CMP00108,2025-07-28 17:37:00,Burglary,A002,North,Acknowledged,Web Form,Synthetic sample complaint about burglary in North. No real personal information.,synthetic_training_data
+CMP00109,2025-07-18 00:04:00,Robbery,A003,South,Under Review,Mobile App,Synthetic sample complaint about robbery in South. No real personal information.,synthetic_training_data
+CMP00110,2025-12-23 23:39:00,Robbery,A001,Central,Resolved,Web Form,Synthetic sample complaint about robbery in Central. No real personal information.,synthetic_training_data
+CMP00111,2025-11-01 04:32:00,Vandalism,A005,West,Submitted,Mobile App,Synthetic sample complaint about vandalism in West. No real personal information.,synthetic_training_data
+CMP00112,2025-10-28 04:57:00,Harassment,A010,Suburban,Acknowledged,Help Desk,Synthetic sample complaint about harassment in Suburban. No real personal information.,synthetic_training_data
+CMP00113,2025-04-25 14:31:00,Harassment,A010,Suburban,Submitted,Help Desk,Synthetic sample complaint about harassment in Suburban. No real personal information.,synthetic_training_data
+CMP00114,2025-03-24 09:21:00,Burglary,A003,South,Resolved,Mobile App,Synthetic sample complaint about burglary in South. No real personal information.,synthetic_training_data
+CMP00115,2025-05-28 00:44:00,Assault,A006,Harbour,Acknowledged,Mobile App,Synthetic sample complaint about assault in Harbour. No real personal information.,synthetic_training_data
+CMP00116,2025-11-30 07:06:00,Drug Offence,A004,East,Acknowledged,Web Form,Synthetic sample complaint about drug offence in East. No real personal information.,synthetic_training_data
+CMP00117,2025-02-10 21:00:00,Vandalism,A002,North,Under Review,Mobile App,Synthetic sample complaint about vandalism in North. No real personal information.,synthetic_training_data
+CMP00118,2025-09-22 11:03:00,Drug Offence,A002,North,Acknowledged,Help Desk,Synthetic sample complaint about drug offence in North. No real personal information.,synthetic_training_data
+CMP00119,2025-02-05 18:54:00,Vandalism,A004,East,Acknowledged,Mobile App,Synthetic sample complaint about vandalism in East. No real personal information.,synthetic_training_data
+CMP00120,2025-02-12 04:59:00,Robbery,A010,Suburban,Under Review,Web Form,Synthetic sample complaint about robbery in Suburban. No real personal information.,synthetic_training_data
+CMP00121,2025-07-25 16:40:00,Fraud,A001,Central,Acknowledged,Web Form,Synthetic sample complaint about fraud in Central. No real personal information.,synthetic_training_data
+CMP00122,2025-06-14 07:12:00,Harassment,A008,University,Resolved,Web Form,Synthetic sample complaint about harassment in University. No real personal information.,synthetic_training_data
+CMP00123,2025-07-05 18:12:00,Vandalism,A006,Harbour,Acknowledged,Mobile App,Synthetic sample complaint about vandalism in Harbour. No real personal information.,synthetic_training_data
+CMP00124,2025-10-15 13:29:00,Drug Offence,A002,North,Submitted,Mobile App,Synthetic sample complaint about drug offence in North. No real personal information.,synthetic_training_data
+CMP00125,2025-05-08 21:52:00,Drug Offence,A002,North,Acknowledged,Mobile App,Synthetic sample complaint about drug offence in North. No real personal information.,synthetic_training_data
+CMP00126,2025-08-18 01:51:00,Assault,A002,North,Acknowledged,Mobile App,Synthetic sample complaint about assault in North. No real personal information.,synthetic_training_data
+CMP00127,2025-07-23 08:09:00,Vandalism,A008,University,Acknowledged,Help Desk,Synthetic sample complaint about vandalism in University. No real personal information.,synthetic_training_data
+CMP00128,2025-01-19 21:06:00,Drug Offence,A010,Suburban,Acknowledged,Web Form,Synthetic sample complaint about drug offence in Suburban. No real personal information.,synthetic_training_data
+CMP00129,2025-07-28 07:45:00,Burglary,A004,East,Submitted,Web Form,Synthetic sample complaint about burglary in East. No real personal information.,synthetic_training_data
+CMP00130,2025-06-27 04:23:00,Burglary,A007,Industrial,Under Review,Mobile App,Synthetic sample complaint about burglary in Industrial. No real personal information.,synthetic_training_data
+CMP00131,2025-01-13 18:29:00,Vandalism,A008,University,Under Review,Mobile App,Synthetic sample complaint about vandalism in University. No real personal information.,synthetic_training_data
+CMP00132,2025-05-03 22:15:00,Drug Offence,A005,West,Resolved,Mobile App,Synthetic sample complaint about drug offence in West. No real personal information.,synthetic_training_data
+CMP00133,2025-05-17 19:09:00,Robbery,A008,University,Submitted,Web Form,Synthetic sample complaint about robbery in University. No real personal information.,synthetic_training_data
+CMP00134,2025-04-27 09:38:00,Drug Offence,A007,Industrial,Submitted,Help Desk,Synthetic sample complaint about drug offence in Industrial. No real personal information.,synthetic_training_data
+CMP00135,2025-11-15 01:40:00,Drug Offence,A007,Industrial,Under Review,Help Desk,Synthetic sample complaint about drug offence in Industrial. No real personal information.,synthetic_training_data
+CMP00136,2025-09-23 02:52:00,Theft,A004,East,Under Review,Web Form,Synthetic sample complaint about theft in East. No real personal information.,synthetic_training_data
+CMP00137,2025-06-30 16:21:00,Robbery,A001,Central,Under Review,Help Desk,Synthetic sample complaint about robbery in Central. No real personal information.,synthetic_training_data
+CMP00138,2025-06-23 13:01:00,Harassment,A010,Suburban,Acknowledged,Web Form,Synthetic sample complaint about harassment in Suburban. No real personal information.,synthetic_training_data
+CMP00139,2025-06-06 21:06:00,Vandalism,A010,Suburban,Acknowledged,Help Desk,Synthetic sample complaint about vandalism in Suburban. No real personal information.,synthetic_training_data
+CMP00140,2025-05-28 10:56:00,Burglary,A006,Harbour,Resolved,Web Form,Synthetic sample complaint about burglary in Harbour. No real personal information.,synthetic_training_data
+CMP00141,2025-01-01 14:32:00,Harassment,A007,Industrial,Submitted,Web Form,Synthetic sample complaint about harassment in Industrial. No real personal information.,synthetic_training_data
+CMP00142,2025-08-04 22:48:00,Assault,A002,North,Submitted,Mobile App,Synthetic sample complaint about assault in North. No real personal information.,synthetic_training_data
+CMP00143,2025-01-23 09:10:00,Vandalism,A007,Industrial,Under Review,Web Form,Synthetic sample complaint about vandalism in Industrial. No real personal information.,synthetic_training_data
+CMP00144,2025-04-27 17:12:00,Harassment,A003,South,Acknowledged,Web Form,Synthetic sample complaint about harassment in South. No real personal information.,synthetic_training_data
+CMP00145,2025-04-27 15:34:00,Theft,A005,West,Under Review,Web Form,Synthetic sample complaint about theft in West. No real personal information.,synthetic_training_data
+CMP00146,2025-08-05 09:33:00,Harassment,A006,Harbour,Submitted,Help Desk,Synthetic sample complaint about harassment in Harbour. No real personal information.,synthetic_training_data
+CMP00147,2025-02-26 06:35:00,Theft,A007,Industrial,Acknowledged,Mobile App,Synthetic sample complaint about theft in Industrial. No real personal information.,synthetic_training_data
+CMP00148,2025-01-22 06:22:00,Drug Offence,A005,West,Submitted,Help Desk,Synthetic sample complaint about drug offence in West. No real personal information.,synthetic_training_data
+CMP00149,2025-02-16 01:06:00,Robbery,A008,University,Resolved,Help Desk,Synthetic sample complaint about robbery in University. No real personal information.,synthetic_training_data
+CMP00150,2025-01-05 15:24:00,Robbery,A002,North,Submitted,Web Form,Synthetic sample complaint about robbery in North. No real personal information.,synthetic_training_data
+CMP00151,2025-11-29 12:59:00,Assault,A004,East,Resolved,Mobile App,Synthetic sample complaint about assault in East. No real personal information.,synthetic_training_data
+CMP00152,2025-01-24 22:19:00,Drug Offence,A002,North,Under Review,Help Desk,Synthetic sample complaint about drug offence in North. No real personal information.,synthetic_training_data
+CMP00153,2025-05-21 21:20:00,Vandalism,A003,South,Resolved,Mobile App,Synthetic sample complaint about vandalism in South. No real personal information.,synthetic_training_data
+CMP00154,2025-04-10 17:49:00,Drug Offence,A005,West,Under Review,Help Desk,Synthetic sample complaint about drug offence in West. No real personal information.,synthetic_training_data
+CMP00155,2025-11-12 14:59:00,Robbery,A006,Harbour,Under Review,Web Form,Synthetic sample complaint about robbery in Harbour. No real personal information.,synthetic_training_data
+CMP00156,2025-11-18 03:57:00,Burglary,A002,North,Acknowledged,Mobile App,Synthetic sample complaint about burglary in North. No real personal information.,synthetic_training_data
+CMP00157,2025-07-08 09:56:00,Vandalism,A002,North,Acknowledged,Mobile App,Synthetic sample complaint about vandalism in North. No real personal information.,synthetic_training_data
+CMP00158,2025-06-14 20:24:00,Vandalism,A007,Industrial,Resolved,Mobile App,Synthetic sample complaint about vandalism in Industrial. No real personal information.,synthetic_training_data
+CMP00159,2025-05-28 07:45:00,Assault,A006,Harbour,Under Review,Mobile App,Synthetic sample complaint about assault in Harbour. No real personal information.,synthetic_training_data
+CMP00160,2025-09-26 04:30:00,Burglary,A009,Market,Under Review,Mobile App,Synthetic sample complaint about burglary in Market. No real personal information.,synthetic_training_data
+CMP00161,2025-10-27 17:08:00,Burglary,A008,University,Resolved,Mobile App,Synthetic sample complaint about burglary in University. No real personal information.,synthetic_training_data
+CMP00162,2025-11-24 05:31:00,Theft,A008,University,Under Review,Web Form,Synthetic sample complaint about theft in University. No real personal information.,synthetic_training_data
+CMP00163,2025-08-24 02:24:00,Vandalism,A005,West,Acknowledged,Mobile App,Synthetic sample complaint about vandalism in West. No real personal information.,synthetic_training_data
+CMP00164,2025-05-08 08:21:00,Vandalism,A003,South,Resolved,Mobile App,Synthetic sample complaint about vandalism in South. No real personal information.,synthetic_training_data
+CMP00165,2025-01-11 20:27:00,Drug Offence,A002,North,Submitted,Web Form,Synthetic sample complaint about drug offence in North. No real personal information.,synthetic_training_data
+CMP00166,2025-01-03 03:13:00,Vandalism,A003,South,Acknowledged,Web Form,Synthetic sample complaint about vandalism in South. No real personal information.,synthetic_training_data
+CMP00167,2025-12-18 20:52:00,Robbery,A001,Central,Under Review,Web Form,Synthetic sample complaint about robbery in Central. No real personal information.,synthetic_training_data
+CMP00168,2025-08-04 23:37:00,Robbery,A005,West,Resolved,Mobile App,Synthetic sample complaint about robbery in West. No real personal information.,synthetic_training_data
+CMP00169,2025-10-09 17:17:00,Theft,A010,Suburban,Under Review,Help Desk,Synthetic sample complaint about theft in Suburban. No real personal information.,synthetic_training_data
+CMP00170,2025-05-25 13:40:00,Drug Offence,A002,North,Under Review,Web Form,Synthetic sample complaint about drug offence in North. No real personal information.,synthetic_training_data
+CMP00171,2025-08-31 22:13:00,Assault,A006,Harbour,Acknowledged,Web Form,Synthetic sample complaint about assault in Harbour. No real personal information.,synthetic_training_data
+CMP00172,2025-11-18 09:53:00,Theft,A003,South,Submitted,Mobile App,Synthetic sample complaint about theft in South. No real personal information.,synthetic_training_data
+CMP00173,2025-04-09 04:04:00,Vandalism,A009,Market,Resolved,Web Form,Synthetic sample complaint about vandalism in Market. No real personal information.,synthetic_training_data
+CMP00174,2025-03-23 05:08:00,Burglary,A008,University,Under Review,Web Form,Synthetic sample complaint about burglary in University. No real personal information.,synthetic_training_data
+CMP00175,2025-08-11 21:56:00,Robbery,A007,Industrial,Acknowledged,Help Desk,Synthetic sample complaint about robbery in Industrial. No real personal information.,synthetic_training_data
+CMP00176,2025-07-04 18:53:00,Fraud,A004,East,Submitted,Mobile App,Synthetic sample complaint about fraud in East. No real personal information.,synthetic_training_data
+CMP00177,2025-04-06 03:07:00,Vandalism,A002,North,Resolved,Web Form,Synthetic sample complaint about vandalism in North. No real personal information.,synthetic_training_data
+CMP00178,2025-10-23 18:38:00,Vandalism,A004,East,Under Review,Web Form,Synthetic sample complaint about vandalism in East. No real personal information.,synthetic_training_data
+CMP00179,2025-12-27 05:30:00,Robbery,A005,West,Submitted,Help Desk,Synthetic sample complaint about robbery in West. No real personal information.,synthetic_training_data
+CMP00180,2025-02-25 18:48:00,Theft,A008,University,Acknowledged,Help Desk,Synthetic sample complaint about theft in University. No real personal information.,synthetic_training_data
+CMP00181,2025-12-10 23:01:00,Drug Offence,A008,University,Under Review,Mobile App,Synthetic sample complaint about drug offence in University. No real personal information.,synthetic_training_data
+CMP00182,2025-12-15 06:17:00,Robbery,A009,Market,Resolved,Mobile App,Synthetic sample complaint about robbery in Market. No real personal information.,synthetic_training_data
+CMP00183,2025-09-29 07:25:00,Vandalism,A005,West,Acknowledged,Web Form,Synthetic sample complaint about vandalism in West. No real personal information.,synthetic_training_data
+CMP00184,2025-02-25 23:26:00,Drug Offence,A009,Market,Acknowledged,Mobile App,Synthetic sample complaint about drug offence in Market. No real personal information.,synthetic_training_data
+CMP00185,2025-05-15 11:37:00,Drug Offence,A009,Market,Submitted,Mobile App,Synthetic sample complaint about drug offence in Market. No real personal information.,synthetic_training_data
+CMP00186,2025-10-16 21:47:00,Theft,A005,West,Acknowledged,Help Desk,Synthetic sample complaint about theft in West. No real personal information.,synthetic_training_data
+CMP00187,2025-11-01 14:29:00,Harassment,A002,North,Resolved,Help Desk,Synthetic sample complaint about harassment in North. No real personal information.,synthetic_training_data
+CMP00188,2025-09-16 11:45:00,Drug Offence,A009,Market,Acknowledged,Mobile App,Synthetic sample complaint about drug offence in Market. No real personal information.,synthetic_training_data
+CMP00189,2025-06-11 03:58:00,Assault,A009,Market,Acknowledged,Web Form,Synthetic sample complaint about assault in Market. No real personal information.,synthetic_training_data
+CMP00190,2025-05-27 21:53:00,Vandalism,A001,Central,Submitted,Mobile App,Synthetic sample complaint about vandalism in Central. No real personal information.,synthetic_training_data
+CMP00191,2025-12-30 20:26:00,Burglary,A009,Market,Under Review,Help Desk,Synthetic sample complaint about burglary in Market. No real personal information.,synthetic_training_data
+CMP00192,2025-10-11 19:08:00,Harassment,A001,Central,Under Review,Web Form,Synthetic sample complaint about harassment in Central. No real personal information.,synthetic_training_data
+CMP00193,2025-07-06 06:39:00,Harassment,A009,Market,Acknowledged,Help Desk,Synthetic sample complaint about harassment in Market. No real personal information.,synthetic_training_data
+CMP00194,2025-12-20 17:19:00,Drug Offence,A009,Market,Resolved,Web Form,Synthetic sample complaint about drug offence in Market. No real personal information.,synthetic_training_data
+CMP00195,2025-11-05 23:27:00,Drug Offence,A001,Central,Under Review,Mobile App,Synthetic sample complaint about drug offence in Central. No real personal information.,synthetic_training_data
+CMP00196,2025-09-14 10:56:00,Drug Offence,A009,Market,Resolved,Help Desk,Synthetic sample complaint about drug offence in Market. No real personal information.,synthetic_training_data
+CMP00197,2025-08-28 13:49:00,Assault,A007,Industrial,Resolved,Web Form,Synthetic sample complaint about assault in Industrial. No real personal information.,synthetic_training_data
+CMP00198,2025-05-25 01:40:00,Robbery,A010,Suburban,Submitted,Help Desk,Synthetic sample complaint about robbery in Suburban. No real personal information.,synthetic_training_data
+CMP00199,2025-08-23 11:15:00,Robbery,A005,West,Resolved,Mobile App,Synthetic sample complaint about robbery in West. No real personal information.,synthetic_training_data
+CMP00200,2025-12-31 07:41:00,Assault,A002,North,Under Review,Help Desk,Synthetic sample complaint about assault in North. No real personal information.,synthetic_training_data
+CMP00201,2025-10-05 13:55:00,Drug Offence,A010,Suburban,Acknowledged,Mobile App,Synthetic sample complaint about drug offence in Suburban. No real personal information.,synthetic_training_data
+CMP00202,2025-02-04 00:32:00,Harassment,A010,Suburban,Resolved,Mobile App,Synthetic sample complaint about harassment in Suburban. No real personal information.,synthetic_training_data
+CMP00203,2025-07-17 22:43:00,Assault,A005,West,Under Review,Help Desk,Synthetic sample complaint about assault in West. No real personal information.,synthetic_training_data
+CMP00204,2025-08-26 06:46:00,Assault,A002,North,Resolved,Help Desk,Synthetic sample complaint about assault in North. No real personal information.,synthetic_training_data
+CMP00205,2025-04-28 01:27:00,Theft,A002,North,Submitted,Mobile App,Synthetic sample complaint about theft in North. No real personal information.,synthetic_training_data
+CMP00206,2025-09-06 20:35:00,Fraud,A006,Harbour,Resolved,Web Form,Synthetic sample complaint about fraud in Harbour. No real personal information.,synthetic_training_data
+CMP00207,2025-10-18 17:52:00,Assault,A010,Suburban,Submitted,Help Desk,Synthetic sample complaint about assault in Suburban. No real personal information.,synthetic_training_data
+CMP00208,2025-11-06 17:22:00,Harassment,A001,Central,Acknowledged,Help Desk,Synthetic sample complaint about harassment in Central. No real personal information.,synthetic_training_data
+CMP00209,2025-06-04 16:19:00,Theft,A003,South,Resolved,Help Desk,Synthetic sample complaint about theft in South. No real personal information.,synthetic_training_data
+CMP00210,2025-03-20 04:16:00,Fraud,A006,Harbour,Under Review,Help Desk,Synthetic sample complaint about fraud in Harbour. No real personal information.,synthetic_training_data
+CMP00211,2025-09-30 12:21:00,Fraud,A006,Harbour,Submitted,Mobile App,Synthetic sample complaint about fraud in Harbour. No real personal information.,synthetic_training_data
+CMP00212,2025-09-14 10:17:00,Fraud,A003,South,Under Review,Help Desk,Synthetic sample complaint about fraud in South. No real personal information.,synthetic_training_data
+CMP00213,2025-06-07 05:19:00,Robbery,A006,Harbour,Acknowledged,Help Desk,Synthetic sample complaint about robbery in Harbour. No real personal information.,synthetic_training_data
+CMP00214,2025-03-05 21:20:00,Theft,A007,Industrial,Acknowledged,Mobile App,Synthetic sample complaint about theft in Industrial. No real personal information.,synthetic_training_data
+CMP00215,2025-03-18 06:38:00,Drug Offence,A001,Central,Resolved,Mobile App,Synthetic sample complaint about drug offence in Central. No real personal information.,synthetic_training_data
+CMP00216,2025-03-22 02:14:00,Drug Offence,A004,East,Submitted,Help Desk,Synthetic sample complaint about drug offence in East. No real personal information.,synthetic_training_data
+CMP00217,2025-01-09 03:56:00,Assault,A007,Industrial,Submitted,Mobile App,Synthetic sample complaint about assault in Industrial. No real personal information.,synthetic_training_data
+CMP00218,2025-10-19 08:50:00,Burglary,A001,Central,Under Review,Web Form,Synthetic sample complaint about burglary in Central. No real personal information.,synthetic_training_data
+CMP00219,2025-10-02 02:17:00,Assault,A008,University,Under Review,Mobile App,Synthetic sample complaint about assault in University. No real personal information.,synthetic_training_data
+CMP00220,2025-04-14 18:10:00,Theft,A003,South,Submitted,Web Form,Synthetic sample complaint about theft in South. No real personal information.,synthetic_training_data
+CMP00221,2025-12-25 19:46:00,Robbery,A010,Suburban,Under Review,Mobile App,Synthetic sample complaint about robbery in Suburban. No real personal information.,synthetic_training_data
+CMP00222,2025-11-07 15:59:00,Harassment,A007,Industrial,Under Review,Web Form,Synthetic sample complaint about harassment in Industrial. No real personal information.,synthetic_training_data
+CMP00223,2025-06-04 11:40:00,Fraud,A002,North,Submitted,Mobile App,Synthetic sample complaint about fraud in North. No real personal information.,synthetic_training_data
+CMP00224,2025-02-18 18:48:00,Robbery,A003,South,Under Review,Help Desk,Synthetic sample complaint about robbery in South. No real personal information.,synthetic_training_data
+CMP00225,2025-11-05 20:49:00,Theft,A009,Market,Submitted,Help Desk,Synthetic sample complaint about theft in Market. No real personal information.,synthetic_training_data
+CMP00226,2025-10-10 09:16:00,Vandalism,A006,Harbour,Resolved,Help Desk,Synthetic sample complaint about vandalism in Harbour. No real personal information.,synthetic_training_data
+CMP00227,2025-12-06 03:45:00,Harassment,A003,South,Resolved,Web Form,Synthetic sample complaint about harassment in South. No real personal information.,synthetic_training_data
+CMP00228,2025-07-25 04:04:00,Assault,A001,Central,Submitted,Mobile App,Synthetic sample complaint about assault in Central. No real personal information.,synthetic_training_data
+CMP00229,2025-09-15 01:13:00,Theft,A003,South,Submitted,Web Form,Synthetic sample complaint about theft in South. No real personal information.,synthetic_training_data
+CMP00230,2025-07-23 07:56:00,Assault,A008,University,Resolved,Web Form,Synthetic sample complaint about assault in University. No real personal information.,synthetic_training_data
+CMP00231,2025-01-14 16:49:00,Assault,A010,Suburban,Resolved,Web Form,Synthetic sample complaint about assault in Suburban. No real personal information.,synthetic_training_data
+CMP00232,2025-06-30 01:12:00,Vandalism,A001,Central,Resolved,Web Form,Synthetic sample complaint about vandalism in Central. No real personal information.,synthetic_training_data
+CMP00233,2025-07-26 04:34:00,Burglary,A010,Suburban,Submitted,Help Desk,Synthetic sample complaint about burglary in Suburban. No real personal information.,synthetic_training_data
+CMP00234,2025-01-01 16:07:00,Fraud,A008,University,Acknowledged,Mobile App,Synthetic sample complaint about fraud in University. No real personal information.,synthetic_training_data
+CMP00235,2025-04-20 12:34:00,Vandalism,A005,West,Acknowledged,Help Desk,Synthetic sample complaint about vandalism in West. No real personal information.,synthetic_training_data
+CMP00236,2025-01-30 11:37:00,Drug Offence,A008,University,Submitted,Mobile App,Synthetic sample complaint about drug offence in University. No real personal information.,synthetic_training_data
+CMP00237,2025-07-20 08:09:00,Assault,A007,Industrial,Resolved,Web Form,Synthetic sample complaint about assault in Industrial. No real personal information.,synthetic_training_data
+CMP00238,2025-06-07 04:52:00,Robbery,A005,West,Under Review,Web Form,Synthetic sample complaint about robbery in West. No real personal information.,synthetic_training_data
+CMP00239,2025-06-30 07:54:00,Burglary,A008,University,Submitted,Mobile App,Synthetic sample complaint about burglary in University. No real personal information.,synthetic_training_data
+CMP00240,2025-05-15 11:37:00,Assault,A003,South,Submitted,Mobile App,Synthetic sample complaint about assault in South. No real personal information.,synthetic_training_data
+CMP00241,2025-09-24 15:43:00,Drug Offence,A001,Central,Submitted,Web Form,Synthetic sample complaint about drug offence in Central. No real personal information.,synthetic_training_data
+CMP00242,2025-01-24 13:59:00,Robbery,A003,South,Resolved,Help Desk,Synthetic sample complaint about robbery in South. No real personal information.,synthetic_training_data
+CMP00243,2025-02-05 22:18:00,Burglary,A001,Central,Resolved,Mobile App,Synthetic sample complaint about burglary in Central. No real personal information.,synthetic_training_data
+CMP00244,2025-07-13 20:10:00,Vandalism,A003,South,Submitted,Mobile App,Synthetic sample complaint about vandalism in South. No real personal information.,synthetic_training_data
+CMP00245,2025-10-30 00:13:00,Burglary,A001,Central,Under Review,Web Form,Synthetic sample complaint about burglary in Central. No real personal information.,synthetic_training_data
+CMP00246,2025-12-12 13:47:00,Vandalism,A004,East,Under Review,Web Form,Synthetic sample complaint about vandalism in East. No real personal information.,synthetic_training_data
+CMP00247,2025-08-14 15:55:00,Fraud,A004,East,Resolved,Help Desk,Synthetic sample complaint about fraud in East. No real personal information.,synthetic_training_data
+CMP00248,2025-01-28 14:53:00,Robbery,A001,Central,Acknowledged,Help Desk,Synthetic sample complaint about robbery in Central. No real personal information.,synthetic_training_data
+CMP00249,2025-06-23 10:39:00,Harassment,A010,Suburban,Submitted,Help Desk,Synthetic sample complaint about harassment in Suburban. No real personal information.,synthetic_training_data
+CMP00250,2025-03-29 18:45:00,Vandalism,A008,University,Under Review,Help Desk,Synthetic sample complaint about vandalism in University. No real personal information.,synthetic_training_data
+CMP00251,2025-02-27 11:34:00,Assault,A008,University,Resolved,Web Form,Synthetic sample complaint about assault in University. No real personal information.,synthetic_training_data
+CMP00252,2025-02-13 09:59:00,Fraud,A002,North,Submitted,Help Desk,Synthetic sample complaint about fraud in North. No real personal information.,synthetic_training_data
+CMP00253,2025-04-14 14:46:00,Robbery,A001,Central,Acknowledged,Help Desk,Synthetic sample complaint about robbery in Central. No real personal information.,synthetic_training_data
+CMP00254,2025-12-06 08:39:00,Assault,A010,Suburban,Acknowledged,Web Form,Synthetic sample complaint about assault in Suburban. No real personal information.,synthetic_training_data
+CMP00255,2025-12-27 05:29:00,Fraud,A003,South,Resolved,Help Desk,Synthetic sample complaint about fraud in South. No real personal information.,synthetic_training_data
+CMP00256,2025-03-07 02:22:00,Harassment,A003,South,Submitted,Web Form,Synthetic sample complaint about harassment in South. No real personal information.,synthetic_training_data
+CMP00257,2025-05-17 13:19:00,Drug Offence,A008,University,Resolved,Web Form,Synthetic sample complaint about drug offence in University. No real personal information.,synthetic_training_data
+CMP00258,2025-09-21 10:35:00,Robbery,A009,Market,Acknowledged,Mobile App,Synthetic sample complaint about robbery in Market. No real personal information.,synthetic_training_data
+CMP00259,2025-08-21 05:25:00,Robbery,A007,Industrial,Resolved,Mobile App,Synthetic sample complaint about robbery in Industrial. No real personal information.,synthetic_training_data
+CMP00260,2025-06-07 18:06:00,Theft,A004,East,Acknowledged,Web Form,Synthetic sample complaint about theft in East. No real personal information.,synthetic_training_data
+CMP00261,2025-11-01 21:32:00,Burglary,A001,Central,Acknowledged,Web Form,Synthetic sample complaint about burglary in Central. No real personal information.,synthetic_training_data
+CMP00262,2025-03-12 11:29:00,Drug Offence,A007,Industrial,Submitted,Web Form,Synthetic sample complaint about drug offence in Industrial. No real personal information.,synthetic_training_data
+CMP00263,2025-04-28 15:33:00,Theft,A010,Suburban,Under Review,Help Desk,Synthetic sample complaint about theft in Suburban. No real personal information.,synthetic_training_data
+CMP00264,2025-06-02 20:29:00,Burglary,A004,East,Submitted,Mobile App,Synthetic sample complaint about burglary in East. No real personal information.,synthetic_training_data
+CMP00265,2025-01-20 19:56:00,Drug Offence,A005,West,Resolved,Help Desk,Synthetic sample complaint about drug offence in West. No real personal information.,synthetic_training_data
+CMP00266,2025-12-29 09:14:00,Assault,A002,North,Under Review,Web Form,Synthetic sample complaint about assault in North. No real personal information.,synthetic_training_data
+CMP00267,2025-12-01 03:11:00,Burglary,A004,East,Submitted,Mobile App,Synthetic sample complaint about burglary in East. No real personal information.,synthetic_training_data
+CMP00268,2025-04-17 16:26:00,Harassment,A006,Harbour,Acknowledged,Web Form,Synthetic sample complaint about harassment in Harbour. No real personal information.,synthetic_training_data
+CMP00269,2025-11-07 19:44:00,Assault,A002,North,Submitted,Help Desk,Synthetic sample complaint about assault in North. No real personal information.,synthetic_training_data
+CMP00270,2025-08-24 21:07:00,Burglary,A006,Harbour,Under Review,Mobile App,Synthetic sample complaint about burglary in Harbour. No real personal information.,synthetic_training_data
+CMP00271,2025-07-18 06:47:00,Robbery,A007,Industrial,Acknowledged,Web Form,Synthetic sample complaint about robbery in Industrial. No real personal information.,synthetic_training_data
+CMP00272,2025-09-27 04:08:00,Fraud,A008,University,Submitted,Help Desk,Synthetic sample complaint about fraud in University. No real personal information.,synthetic_training_data
+CMP00273,2025-05-01 17:28:00,Fraud,A002,North,Resolved,Help Desk,Synthetic sample complaint about fraud in North. No real personal information.,synthetic_training_data
+CMP00274,2025-09-23 15:23:00,Fraud,A005,West,Resolved,Web Form,Synthetic sample complaint about fraud in West. No real personal information.,synthetic_training_data
+CMP00275,2025-06-19 00:04:00,Vandalism,A009,Market,Submitted,Help Desk,Synthetic sample complaint about vandalism in Market. No real personal information.,synthetic_training_data
+CMP00276,2025-03-14 10:54:00,Harassment,A008,University,Resolved,Help Desk,Synthetic sample complaint about harassment in University. No real personal information.,synthetic_training_data
+CMP00277,2025-10-25 09:48:00,Harassment,A001,Central,Acknowledged,Mobile App,Synthetic sample complaint about harassment in Central. No real personal information.,synthetic_training_data
+CMP00278,2025-06-03 00:33:00,Robbery,A004,East,Submitted,Help Desk,Synthetic sample complaint about robbery in East. No real personal information.,synthetic_training_data
+CMP00279,2025-04-02 14:45:00,Drug Offence,A006,Harbour,Under Review,Mobile App,Synthetic sample complaint about drug offence in Harbour. No real personal information.,synthetic_training_data
+CMP00280,2025-12-12 13:16:00,Vandalism,A006,Harbour,Under Review,Mobile App,Synthetic sample complaint about vandalism in Harbour. No real personal information.,synthetic_training_data
+CMP00281,2025-11-01 19:25:00,Assault,A004,East,Acknowledged,Web Form,Synthetic sample complaint about assault in East. No real personal information.,synthetic_training_data
+CMP00282,2025-01-22 10:38:00,Fraud,A008,University,Submitted,Web Form,Synthetic sample complaint about fraud in University. No real personal information.,synthetic_training_data
+CMP00283,2025-12-23 00:23:00,Assault,A005,West,Submitted,Web Form,Synthetic sample complaint about assault in West. No real personal information.,synthetic_training_data
+CMP00284,2025-03-06 07:03:00,Assault,A004,East,Under Review,Mobile App,Synthetic sample complaint about assault in East. No real personal information.,synthetic_training_data
+CMP00285,2025-06-06 14:25:00,Harassment,A006,Harbour,Resolved,Web Form,Synthetic sample complaint about harassment in Harbour. No real personal information.,synthetic_training_data
+CMP00286,2025-10-10 05:30:00,Fraud,A004,East,Resolved,Web Form,Synthetic sample complaint about fraud in East. No real personal information.,synthetic_training_data
+CMP00287,2025-07-26 03:01:00,Vandalism,A006,Harbour,Under Review,Web Form,Synthetic sample complaint about vandalism in Harbour. No real personal information.,synthetic_training_data
+CMP00288,2025-07-22 09:40:00,Assault,A009,Market,Acknowledged,Mobile App,Synthetic sample complaint about assault in Market. No real personal information.,synthetic_training_data
+CMP00289,2025-11-21 12:55:00,Assault,A005,West,Submitted,Mobile App,Synthetic sample complaint about assault in West. No real personal information.,synthetic_training_data
+CMP00290,2025-10-24 02:37:00,Vandalism,A007,Industrial,Under Review,Help Desk,Synthetic sample complaint about vandalism in Industrial. No real personal information.,synthetic_training_data
+CMP00291,2025-07-14 09:02:00,Vandalism,A005,West,Submitted,Mobile App,Synthetic sample complaint about vandalism in West. No real personal information.,synthetic_training_data
+CMP00292,2025-12-21 05:30:00,Vandalism,A008,University,Resolved,Mobile App,Synthetic sample complaint about vandalism in University. No real personal information.,synthetic_training_data
+CMP00293,2025-10-17 03:21:00,Vandalism,A001,Central,Resolved,Web Form,Synthetic sample complaint about vandalism in Central. No real personal information.,synthetic_training_data
+CMP00294,2025-06-01 19:33:00,Drug Offence,A003,South,Resolved,Help Desk,Synthetic sample complaint about drug offence in South. No real personal information.,synthetic_training_data
+CMP00295,2025-06-12 13:49:00,Vandalism,A004,East,Acknowledged,Help Desk,Synthetic sample complaint about vandalism in East. No real personal information.,synthetic_training_data
+CMP00296,2025-05-26 12:09:00,Vandalism,A005,West,Under Review,Web Form,Synthetic sample complaint about vandalism in West. No real personal information.,synthetic_training_data
+CMP00297,2025-08-22 19:50:00,Burglary,A004,East,Resolved,Help Desk,Synthetic sample complaint about burglary in East. No real personal information.,synthetic_training_data
+CMP00298,2025-01-18 17:04:00,Burglary,A009,Market,Submitted,Web Form,Synthetic sample complaint about burglary in Market. No real personal information.,synthetic_training_data
+CMP00299,2025-04-18 19:14:00,Robbery,A004,East,Submitted,Mobile App,Synthetic sample complaint about robbery in East. No real personal information.,synthetic_training_data
+CMP00300,2025-06-29 04:15:00,Burglary,A007,Industrial,Under Review,Web Form,Synthetic sample complaint about burglary in Industrial. No real personal information.,synthetic_training_data
+CMP00301,2025-09-22 05:56:00,Theft,A010,Suburban,Under Review,Help Desk,Synthetic sample complaint about theft in Suburban. No real personal information.,synthetic_training_data
+CMP00302,2025-01-15 13:40:00,Robbery,A001,Central,Submitted,Mobile App,Synthetic sample complaint about robbery in Central. No real personal information.,synthetic_training_data
+CMP00303,2025-08-07 04:02:00,Robbery,A005,West,Acknowledged,Web Form,Synthetic sample complaint about robbery in West. No real personal information.,synthetic_training_data
+CMP00304,2025-05-10 07:50:00,Drug Offence,A001,Central,Resolved,Help Desk,Synthetic sample complaint about drug offence in Central. No real personal information.,synthetic_training_data
+CMP00305,2025-08-20 17:44:00,Vandalism,A002,North,Under Review,Help Desk,Synthetic sample complaint about vandalism in North. No real personal information.,synthetic_training_data
+CMP00306,2025-08-26 15:58:00,Vandalism,A001,Central,Under Review,Help Desk,Synthetic sample complaint about vandalism in Central. No real personal information.,synthetic_training_data
+CMP00307,2025-03-20 03:36:00,Burglary,A005,West,Under Review,Mobile App,Synthetic sample complaint about burglary in West. No real personal information.,synthetic_training_data
+CMP00308,2025-01-14 21:58:00,Burglary,A009,Market,Under Review,Web Form,Synthetic sample complaint about burglary in Market. No real personal information.,synthetic_training_data
+CMP00309,2025-02-25 12:37:00,Assault,A003,South,Acknowledged,Web Form,Synthetic sample complaint about assault in South. No real personal information.,synthetic_training_data
+CMP00310,2025-08-18 16:09:00,Robbery,A007,Industrial,Acknowledged,Mobile App,Synthetic sample complaint about robbery in Industrial. No real personal information.,synthetic_training_data
+CMP00311,2025-01-25 01:00:00,Fraud,A008,University,Resolved,Mobile App,Synthetic sample complaint about fraud in University. No real personal information.,synthetic_training_data
+CMP00312,2025-05-30 11:00:00,Harassment,A006,Harbour,Submitted,Web Form,Synthetic sample complaint about harassment in Harbour. No real personal information.,synthetic_training_data
+CMP00313,2025-06-10 08:14:00,Vandalism,A004,East,Submitted,Help Desk,Synthetic sample complaint about vandalism in East. No real personal information.,synthetic_training_data
+CMP00314,2025-08-14 05:01:00,Fraud,A006,Harbour,Submitted,Mobile App,Synthetic sample complaint about fraud in Harbour. No real personal information.,synthetic_training_data
+CMP00315,2025-02-27 03:37:00,Assault,A002,North,Resolved,Mobile App,Synthetic sample complaint about assault in North. No real personal information.,synthetic_training_data
+CMP00316,2025-03-04 10:22:00,Fraud,A009,Market,Acknowledged,Mobile App,Synthetic sample complaint about fraud in Market. No real personal information.,synthetic_training_data
+CMP00317,2025-05-02 01:37:00,Vandalism,A003,South,Acknowledged,Mobile App,Synthetic sample complaint about vandalism in South. No real personal information.,synthetic_training_data
+CMP00318,2025-04-02 22:36:00,Robbery,A009,Market,Acknowledged,Help Desk,Synthetic sample complaint about robbery in Market. No real personal information.,synthetic_training_data
+CMP00319,2025-12-08 20:07:00,Fraud,A008,University,Under Review,Mobile App,Synthetic sample complaint about fraud in University. No real personal information.,synthetic_training_data
+CMP00320,2025-06-05 07:38:00,Assault,A002,North,Under Review,Mobile App,Synthetic sample complaint about assault in North. No real personal information.,synthetic_training_data
+CMP00321,2025-08-11 10:56:00,Burglary,A002,North,Submitted,Help Desk,Synthetic sample complaint about burglary in North. No real personal information.,synthetic_training_data
+CMP00322,2025-01-25 16:06:00,Fraud,A004,East,Submitted,Mobile App,Synthetic sample complaint about fraud in East. No real personal information.,synthetic_training_data
+CMP00323,2025-11-14 19:35:00,Harassment,A006,Harbour,Resolved,Mobile App,Synthetic sample complaint about harassment in Harbour. No real personal information.,synthetic_training_data
+CMP00324,2025-09-03 05:01:00,Assault,A008,University,Under Review,Help Desk,Synthetic sample complaint about assault in University. No real personal information.,synthetic_training_data
+CMP00325,2025-03-23 04:58:00,Vandalism,A006,Harbour,Acknowledged,Web Form,Synthetic sample complaint about vandalism in Harbour. No real personal information.,synthetic_training_data
+CMP00326,2025-07-18 01:53:00,Fraud,A008,University,Submitted,Help Desk,Synthetic sample complaint about fraud in University. No real personal information.,synthetic_training_data
+CMP00327,2025-06-07 06:30:00,Assault,A009,Market,Acknowledged,Web Form,Synthetic sample complaint about assault in Market. No real personal information.,synthetic_training_data
+CMP00328,2025-10-29 17:30:00,Harassment,A005,West,Resolved,Web Form,Synthetic sample complaint about harassment in West. No real personal information.,synthetic_training_data
+CMP00329,2025-01-03 11:32:00,Vandalism,A007,Industrial,Under Review,Mobile App,Synthetic sample complaint about vandalism in Industrial. No real personal information.,synthetic_training_data
+CMP00330,2025-12-26 16:24:00,Vandalism,A010,Suburban,Acknowledged,Help Desk,Synthetic sample complaint about vandalism in Suburban. No real personal information.,synthetic_training_data
+CMP00331,2025-08-30 07:26:00,Drug Offence,A001,Central,Resolved,Web Form,Synthetic sample complaint about drug offence in Central. No real personal information.,synthetic_training_data
+CMP00332,2025-07-14 17:21:00,Burglary,A007,Industrial,Submitted,Help Desk,Synthetic sample complaint about burglary in Industrial. No real personal information.,synthetic_training_data
+CMP00333,2025-09-04 02:01:00,Theft,A003,South,Under Review,Web Form,Synthetic sample complaint about theft in South. No real personal information.,synthetic_training_data
+CMP00334,2025-02-28 09:09:00,Burglary,A004,East,Under Review,Mobile App,Synthetic sample complaint about burglary in East. No real personal information.,synthetic_training_data
+CMP00335,2025-10-25 07:35:00,Robbery,A005,West,Under Review,Mobile App,Synthetic sample complaint about robbery in West. No real personal information.,synthetic_training_data
+CMP00336,2025-07-03 14:31:00,Vandalism,A005,West,Acknowledged,Web Form,Synthetic sample complaint about vandalism in West. No real personal information.,synthetic_training_data
+CMP00337,2025-05-02 07:40:00,Assault,A001,Central,Resolved,Web Form,Synthetic sample complaint about assault in Central. No real personal information.,synthetic_training_data
+CMP00338,2025-06-17 14:43:00,Drug Offence,A008,University,Under Review,Web Form,Synthetic sample complaint about drug offence in University. No real personal information.,synthetic_training_data
+CMP00339,2025-03-08 09:21:00,Fraud,A002,North,Under Review,Help Desk,Synthetic sample complaint about fraud in North. No real personal information.,synthetic_training_data
+CMP00340,2025-01-01 09:57:00,Burglary,A009,Market,Resolved,Web Form,Synthetic sample complaint about burglary in Market. No real personal information.,synthetic_training_data
+CMP00341,2025-10-13 12:14:00,Assault,A001,Central,Under Review,Help Desk,Synthetic sample complaint about assault in Central. No real personal information.,synthetic_training_data
+CMP00342,2025-12-10 18:55:00,Burglary,A002,North,Resolved,Help Desk,Synthetic sample complaint about burglary in North. No real personal information.,synthetic_training_data
+CMP00343,2025-07-14 12:32:00,Harassment,A008,University,Acknowledged,Web Form,Synthetic sample complaint about harassment in University. No real personal information.,synthetic_training_data
+CMP00344,2025-01-19 05:06:00,Burglary,A008,University,Acknowledged,Mobile App,Synthetic sample complaint about burglary in University. No real personal information.,synthetic_training_data
+CMP00345,2025-12-07 19:33:00,Drug Offence,A008,University,Acknowledged,Mobile App,Synthetic sample complaint about drug offence in University. No real personal information.,synthetic_training_data
+CMP00346,2025-03-21 04:30:00,Burglary,A010,Suburban,Submitted,Web Form,Synthetic sample complaint about burglary in Suburban. No real personal information.,synthetic_training_data
+CMP00347,2025-02-20 15:01:00,Assault,A004,East,Acknowledged,Mobile App,Synthetic sample complaint about assault in East. No real personal information.,synthetic_training_data
+CMP00348,2025-05-10 02:35:00,Fraud,A008,University,Resolved,Mobile App,Synthetic sample complaint about fraud in University. No real personal information.,synthetic_training_data
+CMP00349,2025-07-22 00:49:00,Burglary,A010,Suburban,Resolved,Help Desk,Synthetic sample complaint about burglary in Suburban. No real personal information.,synthetic_training_data
+CMP00350,2025-03-05 10:39:00,Vandalism,A009,Market,Submitted,Web Form,Synthetic sample complaint about vandalism in Market. No real personal information.,synthetic_training_data
+CMP00351,2025-12-28 17:01:00,Theft,A005,West,Acknowledged,Help Desk,Synthetic sample complaint about theft in West. No real personal information.,synthetic_training_data
+CMP00352,2025-10-10 12:33:00,Vandalism,A003,South,Under Review,Mobile App,Synthetic sample complaint about vandalism in South. No real personal information.,synthetic_training_data
+CMP00353,2025-10-04 04:36:00,Fraud,A003,South,Submitted,Web Form,Synthetic sample complaint about fraud in South. No real personal information.,synthetic_training_data
+CMP00354,2025-04-09 02:16:00,Harassment,A005,West,Resolved,Web Form,Synthetic sample complaint about harassment in West. No real personal information.,synthetic_training_data
+CMP00355,2025-03-24 16:35:00,Robbery,A005,West,Under Review,Help Desk,Synthetic sample complaint about robbery in West. No real personal information.,synthetic_training_data
+CMP00356,2025-04-17 19:16:00,Robbery,A002,North,Resolved,Help Desk,Synthetic sample complaint about robbery in North. No real personal information.,synthetic_training_data
+CMP00357,2025-05-06 00:43:00,Vandalism,A007,Industrial,Resolved,Help Desk,Synthetic sample complaint about vandalism in Industrial. No real personal information.,synthetic_training_data
+CMP00358,2025-02-20 01:46:00,Assault,A008,University,Under Review,Web Form,Synthetic sample complaint about assault in University. No real personal information.,synthetic_training_data
+CMP00359,2025-07-26 05:47:00,Burglary,A010,Suburban,Acknowledged,Web Form,Synthetic sample complaint about burglary in Suburban. No real personal information.,synthetic_training_data
+CMP00360,2025-11-20 06:14:00,Assault,A002,North,Submitted,Help Desk,Synthetic sample complaint about assault in North. No real personal information.,synthetic_training_data
+CMP00361,2025-03-12 18:16:00,Drug Offence,A006,Harbour,Acknowledged,Help Desk,Synthetic sample complaint about drug offence in Harbour. No real personal information.,synthetic_training_data
+CMP00362,2025-09-16 11:44:00,Assault,A009,Market,Submitted,Web Form,Synthetic sample complaint about assault in Market. No real personal information.,synthetic_training_data
+CMP00363,2025-03-01 20:15:00,Vandalism,A008,University,Under Review,Web Form,Synthetic sample complaint about vandalism in University. No real personal information.,synthetic_training_data
+CMP00364,2025-07-02 13:27:00,Vandalism,A005,West,Acknowledged,Web Form,Synthetic sample complaint about vandalism in West. No real personal information.,synthetic_training_data
+CMP00365,2025-11-09 22:22:00,Assault,A004,East,Under Review,Web Form,Synthetic sample complaint about assault in East. No real personal information.,synthetic_training_data
+CMP00366,2025-05-20 10:17:00,Robbery,A002,North,Submitted,Web Form,Synthetic sample complaint about robbery in North. No real personal information.,synthetic_training_data
+CMP00367,2025-04-04 08:29:00,Assault,A007,Industrial,Acknowledged,Help Desk,Synthetic sample complaint about assault in Industrial. No real personal information.,synthetic_training_data
+CMP00368,2025-02-27 13:03:00,Robbery,A001,Central,Resolved,Help Desk,Synthetic sample complaint about robbery in Central. No real personal information.,synthetic_training_data
+CMP00369,2025-10-14 11:30:00,Burglary,A007,Industrial,Acknowledged,Help Desk,Synthetic sample complaint about burglary in Industrial. No real personal information.,synthetic_training_data
+CMP00370,2025-02-23 01:36:00,Robbery,A001,Central,Under Review,Mobile App,Synthetic sample complaint about robbery in Central. No real personal information.,synthetic_training_data
+CMP00371,2025-12-18 05:59:00,Assault,A008,University,Acknowledged,Mobile App,Synthetic sample complaint about assault in University. No real personal information.,synthetic_training_data
+CMP00372,2025-05-18 19:15:00,Fraud,A002,North,Submitted,Web Form,Synthetic sample complaint about fraud in North. No real personal information.,synthetic_training_data
+CMP00373,2025-03-25 12:46:00,Burglary,A006,Harbour,Acknowledged,Web Form,Synthetic sample complaint about burglary in Harbour. No real personal information.,synthetic_training_data
+CMP00374,2025-09-24 20:13:00,Fraud,A002,North,Under Review,Help Desk,Synthetic sample complaint about fraud in North. No real personal information.,synthetic_training_data
+CMP00375,2025-09-29 15:21:00,Theft,A007,Industrial,Resolved,Web Form,Synthetic sample complaint about theft in Industrial. No real personal information.,synthetic_training_data
+CMP00376,2025-08-05 04:55:00,Burglary,A003,South,Acknowledged,Mobile App,Synthetic sample complaint about burglary in South. No real personal information.,synthetic_training_data
+CMP00377,2025-01-04 02:05:00,Assault,A009,Market,Resolved,Mobile App,Synthetic sample complaint about assault in Market. No real personal information.,synthetic_training_data
+CMP00378,2025-03-02 14:25:00,Vandalism,A006,Harbour,Under Review,Help Desk,Synthetic sample complaint about vandalism in Harbour. No real personal information.,synthetic_training_data
+CMP00379,2025-09-30 04:55:00,Robbery,A010,Suburban,Acknowledged,Mobile App,Synthetic sample complaint about robbery in Suburban. No real personal information.,synthetic_training_data
+CMP00380,2025-10-23 09:48:00,Vandalism,A001,Central,Under Review,Help Desk,Synthetic sample complaint about vandalism in Central. No real personal information.,synthetic_training_data
+CMP00381,2025-10-20 08:48:00,Assault,A004,East,Resolved,Help Desk,Synthetic sample complaint about assault in East. No real personal information.,synthetic_training_data
+CMP00382,2025-03-20 22:46:00,Drug Offence,A007,Industrial,Under Review,Help Desk,Synthetic sample complaint about drug offence in Industrial. No real personal information.,synthetic_training_data
+CMP00383,2025-12-25 18:46:00,Vandalism,A009,Market,Submitted,Help Desk,Synthetic sample complaint about vandalism in Market. No real personal information.,synthetic_training_data
+CMP00384,2025-10-09 07:30:00,Vandalism,A009,Market,Resolved,Help Desk,Synthetic sample complaint about vandalism in Market. No real personal information.,synthetic_training_data
+CMP00385,2025-09-04 14:08:00,Burglary,A001,Central,Under Review,Help Desk,Synthetic sample complaint about burglary in Central. No real personal information.,synthetic_training_data
+CMP00386,2025-07-14 03:51:00,Theft,A004,East,Submitted,Web Form,Synthetic sample complaint about theft in East. No real personal information.,synthetic_training_data
+CMP00387,2025-09-24 21:00:00,Theft,A008,University,Under Review,Mobile App,Synthetic sample complaint about theft in University. No real personal information.,synthetic_training_data
+CMP00388,2025-12-30 09:11:00,Harassment,A010,Suburban,Under Review,Help Desk,Synthetic sample complaint about harassment in Suburban. No real personal information.,synthetic_training_data
+CMP00389,2025-01-20 13:12:00,Burglary,A001,Central,Under Review,Web Form,Synthetic sample complaint about burglary in Central. No real personal information.,synthetic_training_data
+CMP00390,2025-08-04 10:38:00,Burglary,A008,University,Acknowledged,Help Desk,Synthetic sample complaint about burglary in University. No real personal information.,synthetic_training_data
+CMP00391,2025-04-21 16:19:00,Harassment,A002,North,Resolved,Mobile App,Synthetic sample complaint about harassment in North. No real personal information.,synthetic_training_data
+CMP00392,2025-09-18 15:01:00,Burglary,A005,West,Resolved,Web Form,Synthetic sample complaint about burglary in West. No real personal information.,synthetic_training_data
+CMP00393,2025-09-11 06:50:00,Drug Offence,A007,Industrial,Resolved,Mobile App,Synthetic sample complaint about drug offence in Industrial. No real personal information.,synthetic_training_data
+CMP00394,2025-08-02 14:47:00,Robbery,A004,East,Under Review,Web Form,Synthetic sample complaint about robbery in East. No real personal information.,synthetic_training_data
+CMP00395,2025-06-18 17:50:00,Vandalism,A006,Harbour,Acknowledged,Web Form,Synthetic sample complaint about vandalism in Harbour. No real personal information.,synthetic_training_data
+CMP00396,2025-09-12 21:26:00,Theft,A002,North,Resolved,Web Form,Synthetic sample complaint about theft in North. No real personal information.,synthetic_training_data
+CMP00397,2025-04-22 12:58:00,Drug Offence,A001,Central,Resolved,Mobile App,Synthetic sample complaint about drug offence in Central. No real personal information.,synthetic_training_data
+CMP00398,2025-09-09 16:22:00,Harassment,A009,Market,Resolved,Web Form,Synthetic sample complaint about harassment in Market. No real personal information.,synthetic_training_data
+CMP00399,2025-09-19 07:20:00,Fraud,A002,North,Acknowledged,Mobile App,Synthetic sample complaint about fraud in North. No real personal information.,synthetic_training_data
+CMP00400,2025-09-29 09:00:00,Robbery,A006,Harbour,Acknowledged,Help Desk,Synthetic sample complaint about robbery in Harbour. No real personal information.,synthetic_training_data
+CMP00401,2025-08-02 17:35:00,Fraud,A002,North,Submitted,Help Desk,Synthetic sample complaint about fraud in North. No real personal information.,synthetic_training_data
+CMP00402,2025-09-12 13:57:00,Vandalism,A009,Market,Submitted,Web Form,Synthetic sample complaint about vandalism in Market. No real personal information.,synthetic_training_data
+CMP00403,2025-08-17 19:13:00,Burglary,A007,Industrial,Under Review,Mobile App,Synthetic sample complaint about burglary in Industrial. No real personal information.,synthetic_training_data
+CMP00404,2025-11-15 05:45:00,Fraud,A001,Central,Submitted,Mobile App,Synthetic sample complaint about fraud in Central. No real personal information.,synthetic_training_data
+CMP00405,2025-06-23 03:44:00,Fraud,A007,Industrial,Acknowledged,Mobile App,Synthetic sample complaint about fraud in Industrial. No real personal information.,synthetic_training_data
+CMP00406,2025-10-13 14:48:00,Fraud,A005,West,Resolved,Mobile App,Synthetic sample complaint about fraud in West. No real personal information.,synthetic_training_data
+CMP00407,2025-07-06 22:19:00,Harassment,A003,South,Submitted,Mobile App,Synthetic sample complaint about harassment in South. No real personal information.,synthetic_training_data
+CMP00408,2025-02-08 09:40:00,Harassment,A004,East,Under Review,Help Desk,Synthetic sample complaint about harassment in East. No real personal information.,synthetic_training_data
+CMP00409,2025-02-11 11:34:00,Robbery,A006,Harbour,Submitted,Web Form,Synthetic sample complaint about robbery in Harbour. No real personal information.,synthetic_training_data
+CMP00410,2025-10-26 03:03:00,Harassment,A005,West,Under Review,Web Form,Synthetic sample complaint about harassment in West. No real personal information.,synthetic_training_data
+CMP00411,2025-07-19 16:26:00,Assault,A007,Industrial,Resolved,Mobile App,Synthetic sample complaint about assault in Industrial. No real personal information.,synthetic_training_data
+CMP00412,2025-05-16 02:29:00,Robbery,A006,Harbour,Under Review,Mobile App,Synthetic sample complaint about robbery in Harbour. No real personal information.,synthetic_training_data
+CMP00413,2025-12-21 22:52:00,Drug Offence,A009,Market,Resolved,Mobile App,Synthetic sample complaint about drug offence in Market. No real personal information.,synthetic_training_data
+CMP00414,2025-04-13 04:08:00,Assault,A001,Central,Submitted,Web Form,Synthetic sample complaint about assault in Central. No real personal information.,synthetic_training_data
+CMP00415,2025-09-08 13:09:00,Drug Offence,A006,Harbour,Resolved,Mobile App,Synthetic sample complaint about drug offence in Harbour. No real personal information.,synthetic_training_data
+CMP00416,2025-04-03 10:37:00,Burglary,A002,North,Under Review,Help Desk,Synthetic sample complaint about burglary in North. No real personal information.,synthetic_training_data
+CMP00417,2025-10-09 20:00:00,Assault,A003,South,Submitted,Mobile App,Synthetic sample complaint about assault in South. No real personal information.,synthetic_training_data
+CMP00418,2025-03-22 06:57:00,Theft,A003,South,Under Review,Web Form,Synthetic sample complaint about theft in South. No real personal information.,synthetic_training_data
+CMP00419,2025-12-16 08:10:00,Drug Offence,A008,University,Under Review,Web Form,Synthetic sample complaint about drug offence in University. No real personal information.,synthetic_training_data
+CMP00420,2025-11-08 10:10:00,Robbery,A002,North,Acknowledged,Help Desk,Synthetic sample complaint about robbery in North. No real personal information.,synthetic_training_data
+CMP00421,2025-02-25 05:51:00,Vandalism,A005,West,Acknowledged,Mobile App,Synthetic sample complaint about vandalism in West. No real personal information.,synthetic_training_data
+CMP00422,2025-09-06 09:55:00,Burglary,A009,Market,Under Review,Mobile App,Synthetic sample complaint about burglary in Market. No real personal information.,synthetic_training_data
+CMP00423,2025-02-02 20:54:00,Burglary,A001,Central,Acknowledged,Help Desk,Synthetic sample complaint about burglary in Central. No real personal information.,synthetic_training_data
+CMP00424,2025-03-25 00:55:00,Fraud,A006,Harbour,Acknowledged,Web Form,Synthetic sample complaint about fraud in Harbour. No real personal information.,synthetic_training_data
+CMP00425,2025-03-26 01:48:00,Assault,A009,Market,Under Review,Help Desk,Synthetic sample complaint about assault in Market. No real personal information.,synthetic_training_data
+CMP00426,2025-11-04 20:30:00,Burglary,A009,Market,Under Review,Mobile App,Synthetic sample complaint about burglary in Market. No real personal information.,synthetic_training_data
+CMP00427,2025-01-16 15:55:00,Robbery,A009,Market,Under Review,Web Form,Synthetic sample complaint about robbery in Market. No real personal information.,synthetic_training_data
+CMP00428,2025-03-23 09:00:00,Burglary,A007,Industrial,Under Review,Help Desk,Synthetic sample complaint about burglary in Industrial. No real personal information.,synthetic_training_data
+CMP00429,2025-08-24 01:49:00,Robbery,A009,Market,Acknowledged,Web Form,Synthetic sample complaint about robbery in Market. No real personal information.,synthetic_training_data
+CMP00430,2025-04-20 06:45:00,Theft,A006,Harbour,Acknowledged,Web Form,Synthetic sample complaint about theft in Harbour. No real personal information.,synthetic_training_data
+CMP00431,2025-04-18 16:31:00,Assault,A001,Central,Under Review,Mobile App,Synthetic sample complaint about assault in Central. No real personal information.,synthetic_training_data
+CMP00432,2025-07-24 01:33:00,Fraud,A010,Suburban,Resolved,Web Form,Synthetic sample complaint about fraud in Suburban. No real personal information.,synthetic_training_data
+CMP00433,2025-06-22 22:37:00,Fraud,A007,Industrial,Under Review,Help Desk,Synthetic sample complaint about fraud in Industrial. No real personal information.,synthetic_training_data
+CMP00434,2025-07-12 17:30:00,Harassment,A002,North,Resolved,Mobile App,Synthetic sample complaint about harassment in North. No real personal information.,synthetic_training_data
+CMP00435,2025-03-09 23:05:00,Burglary,A008,University,Resolved,Help Desk,Synthetic sample complaint about burglary in University. No real personal information.,synthetic_training_data
+CMP00436,2025-09-29 18:32:00,Harassment,A004,East,Under Review,Help Desk,Synthetic sample complaint about harassment in East. No real personal information.,synthetic_training_data
+CMP00437,2025-10-21 09:33:00,Assault,A002,North,Resolved,Web Form,Synthetic sample complaint about assault in North. No real personal information.,synthetic_training_data
+CMP00438,2025-05-04 18:23:00,Vandalism,A005,West,Acknowledged,Mobile App,Synthetic sample complaint about vandalism in West. No real personal information.,synthetic_training_data
+CMP00439,2025-01-17 01:09:00,Fraud,A003,South,Acknowledged,Web Form,Synthetic sample complaint about fraud in South. No real personal information.,synthetic_training_data
+CMP00440,2025-05-04 16:43:00,Robbery,A002,North,Under Review,Mobile App,Synthetic sample complaint about robbery in North. No real personal information.,synthetic_training_data
+CMP00441,2025-04-06 12:37:00,Burglary,A006,Harbour,Submitted,Mobile App,Synthetic sample complaint about burglary in Harbour. No real personal information.,synthetic_training_data
+CMP00442,2025-12-07 13:02:00,Harassment,A008,University,Resolved,Mobile App,Synthetic sample complaint about harassment in University. No real personal information.,synthetic_training_data
+CMP00443,2025-11-16 00:10:00,Theft,A009,Market,Resolved,Help Desk,Synthetic sample complaint about theft in Market. No real personal information.,synthetic_training_data
+CMP00444,2025-06-20 17:44:00,Robbery,A007,Industrial,Acknowledged,Help Desk,Synthetic sample complaint about robbery in Industrial. No real personal information.,synthetic_training_data
+CMP00445,2025-03-06 16:52:00,Burglary,A010,Suburban,Acknowledged,Mobile App,Synthetic sample complaint about burglary in Suburban. No real personal information.,synthetic_training_data
+CMP00446,2025-08-18 19:20:00,Harassment,A007,Industrial,Acknowledged,Help Desk,Synthetic sample complaint about harassment in Industrial. No real personal information.,synthetic_training_data
+CMP00447,2025-01-09 23:15:00,Vandalism,A001,Central,Submitted,Mobile App,Synthetic sample complaint about vandalism in Central. No real personal information.,synthetic_training_data
+CMP00448,2025-07-15 12:19:00,Burglary,A009,Market,Acknowledged,Mobile App,Synthetic sample complaint about burglary in Market. No real personal information.,synthetic_training_data
+CMP00449,2025-04-07 16:44:00,Harassment,A008,University,Acknowledged,Mobile App,Synthetic sample complaint about harassment in University. No real personal information.,synthetic_training_data
+CMP00450,2025-06-07 07:01:00,Robbery,A009,Market,Acknowledged,Help Desk,Synthetic sample complaint about robbery in Market. No real personal information.,synthetic_training_data
+CMP00451,2025-05-05 07:16:00,Vandalism,A009,Market,Submitted,Help Desk,Synthetic sample complaint about vandalism in Market. No real personal information.,synthetic_training_data
+CMP00452,2025-11-12 08:12:00,Assault,A003,South,Acknowledged,Web Form,Synthetic sample complaint about assault in South. No real personal information.,synthetic_training_data
+CMP00453,2025-09-30 08:03:00,Burglary,A002,North,Submitted,Help Desk,Synthetic sample complaint about burglary in North. No real personal information.,synthetic_training_data
+CMP00454,2025-02-11 09:34:00,Fraud,A007,Industrial,Resolved,Help Desk,Synthetic sample complaint about fraud in Industrial. No real personal information.,synthetic_training_data
+CMP00455,2025-01-10 16:08:00,Robbery,A006,Harbour,Resolved,Mobile App,Synthetic sample complaint about robbery in Harbour. No real personal information.,synthetic_training_data
+CMP00456,2025-02-13 15:44:00,Robbery,A008,University,Under Review,Mobile App,Synthetic sample complaint about robbery in University. No real personal information.,synthetic_training_data
+CMP00457,2025-05-05 01:39:00,Assault,A007,Industrial,Resolved,Help Desk,Synthetic sample complaint about assault in Industrial. No real personal information.,synthetic_training_data
+CMP00458,2025-01-03 09:02:00,Vandalism,A001,Central,Resolved,Help Desk,Synthetic sample complaint about vandalism in Central. No real personal information.,synthetic_training_data
+CMP00459,2025-03-01 19:37:00,Burglary,A004,East,Resolved,Web Form,Synthetic sample complaint about burglary in East. No real personal information.,synthetic_training_data
+CMP00460,2025-04-01 20:05:00,Burglary,A002,North,Acknowledged,Web Form,Synthetic sample complaint about burglary in North. No real personal information.,synthetic_training_data
+CMP00461,2025-07-06 10:27:00,Theft,A003,South,Resolved,Web Form,Synthetic sample complaint about theft in South. No real personal information.,synthetic_training_data
+CMP00462,2025-11-15 22:34:00,Assault,A005,West,Submitted,Web Form,Synthetic sample complaint about assault in West. No real personal information.,synthetic_training_data
+CMP00463,2025-08-22 20:49:00,Assault,A001,Central,Resolved,Help Desk,Synthetic sample complaint about assault in Central. No real personal information.,synthetic_training_data
+CMP00464,2025-06-15 04:23:00,Robbery,A004,East,Under Review,Mobile App,Synthetic sample complaint about robbery in East. No real personal information.,synthetic_training_data
+CMP00465,2025-04-07 13:14:00,Theft,A010,Suburban,Submitted,Help Desk,Synthetic sample complaint about theft in Suburban. No real personal information.,synthetic_training_data
+CMP00466,2025-01-22 17:33:00,Vandalism,A008,University,Acknowledged,Mobile App,Synthetic sample complaint about vandalism in University. No real personal information.,synthetic_training_data
+CMP00467,2025-01-04 18:12:00,Burglary,A001,Central,Resolved,Help Desk,Synthetic sample complaint about burglary in Central. No real personal information.,synthetic_training_data
+CMP00468,2025-03-13 21:50:00,Harassment,A006,Harbour,Submitted,Help Desk,Synthetic sample complaint about harassment in Harbour. No real personal information.,synthetic_training_data
+CMP00469,2025-01-27 01:53:00,Fraud,A001,Central,Resolved,Help Desk,Synthetic sample complaint about fraud in Central. No real personal information.,synthetic_training_data
+CMP00470,2025-10-09 12:06:00,Fraud,A002,North,Submitted,Help Desk,Synthetic sample complaint about fraud in North. No real personal information.,synthetic_training_data
+CMP00471,2025-09-17 09:00:00,Burglary,A003,South,Submitted,Mobile App,Synthetic sample complaint about burglary in South. No real personal information.,synthetic_training_data
+CMP00472,2025-06-03 02:07:00,Drug Offence,A008,University,Acknowledged,Help Desk,Synthetic sample complaint about drug offence in University. No real personal information.,synthetic_training_data
+CMP00473,2025-01-30 02:11:00,Fraud,A002,North,Resolved,Mobile App,Synthetic sample complaint about fraud in North. No real personal information.,synthetic_training_data
+CMP00474,2025-03-25 05:51:00,Burglary,A005,West,Submitted,Mobile App,Synthetic sample complaint about burglary in West. No real personal information.,synthetic_training_data
+CMP00475,2025-05-29 02:47:00,Fraud,A008,University,Under Review,Web Form,Synthetic sample complaint about fraud in University. No real personal information.,synthetic_training_data
+CMP00476,2025-12-17 19:23:00,Robbery,A007,Industrial,Submitted,Help Desk,Synthetic sample complaint about robbery in Industrial. No real personal information.,synthetic_training_data
+CMP00477,2025-10-15 02:07:00,Drug Offence,A009,Market,Under Review,Help Desk,Synthetic sample complaint about drug offence in Market. No real personal information.,synthetic_training_data
+CMP00478,2025-03-30 15:43:00,Assault,A004,East,Under Review,Help Desk,Synthetic sample complaint about assault in East. No real personal information.,synthetic_training_data
+CMP00479,2025-10-05 22:05:00,Vandalism,A002,North,Submitted,Web Form,Synthetic sample complaint about vandalism in North. No real personal information.,synthetic_training_data
+CMP00480,2025-07-27 17:12:00,Fraud,A008,University,Resolved,Mobile App,Synthetic sample complaint about fraud in University. No real personal information.,synthetic_training_data
+CMP00481,2025-03-12 17:59:00,Vandalism,A002,North,Acknowledged,Mobile App,Synthetic sample complaint about vandalism in North. No real personal information.,synthetic_training_data
+CMP00482,2025-08-20 22:23:00,Theft,A008,University,Submitted,Mobile App,Synthetic sample complaint about theft in University. No real personal information.,synthetic_training_data
+CMP00483,2025-11-06 22:04:00,Drug Offence,A001,Central,Acknowledged,Web Form,Synthetic sample complaint about drug offence in Central. No real personal information.,synthetic_training_data
+CMP00484,2025-09-06 15:49:00,Drug Offence,A007,Industrial,Resolved,Mobile App,Synthetic sample complaint about drug offence in Industrial. No real personal information.,synthetic_training_data
+CMP00485,2025-02-06 20:46:00,Assault,A001,Central,Submitted,Mobile App,Synthetic sample complaint about assault in Central. No real personal information.,synthetic_training_data
+CMP00486,2025-04-20 10:27:00,Burglary,A003,South,Under Review,Web Form,Synthetic sample complaint about burglary in South. No real personal information.,synthetic_training_data
+CMP00487,2025-10-31 04:16:00,Assault,A003,South,Acknowledged,Web Form,Synthetic sample complaint about assault in South. No real personal information.,synthetic_training_data
+CMP00488,2025-02-08 21:05:00,Drug Offence,A001,Central,Under Review,Help Desk,Synthetic sample complaint about drug offence in Central. No real personal information.,synthetic_training_data
+CMP00489,2025-08-03 02:41:00,Vandalism,A006,Harbour,Acknowledged,Help Desk,Synthetic sample complaint about vandalism in Harbour. No real personal information.,synthetic_training_data
+CMP00490,2025-12-20 21:04:00,Robbery,A010,Suburban,Resolved,Web Form,Synthetic sample complaint about robbery in Suburban. No real personal information.,synthetic_training_data
+CMP00491,2025-09-13 14:42:00,Fraud,A009,Market,Submitted,Web Form,Synthetic sample complaint about fraud in Market. No real personal information.,synthetic_training_data
+CMP00492,2025-09-22 04:39:00,Fraud,A005,West,Acknowledged,Mobile App,Synthetic sample complaint about fraud in West. No real personal information.,synthetic_training_data
+CMP00493,2025-12-27 03:19:00,Assault,A010,Suburban,Resolved,Help Desk,Synthetic sample complaint about assault in Suburban. No real personal information.,synthetic_training_data
+CMP00494,2025-09-17 12:38:00,Theft,A004,East,Under Review,Web Form,Synthetic sample complaint about theft in East. No real personal information.,synthetic_training_data
+CMP00495,2025-10-25 14:26:00,Fraud,A007,Industrial,Submitted,Help Desk,Synthetic sample complaint about fraud in Industrial. No real personal information.,synthetic_training_data
+CMP00496,2025-11-26 22:40:00,Harassment,A003,South,Submitted,Web Form,Synthetic sample complaint about harassment in South. No real personal information.,synthetic_training_data
+CMP00497,2025-07-26 07:28:00,Burglary,A001,Central,Submitted,Mobile App,Synthetic sample complaint about burglary in Central. No real personal information.,synthetic_training_data
+CMP00498,2025-11-24 11:51:00,Robbery,A005,West,Acknowledged,Mobile App,Synthetic sample complaint about robbery in West. No real personal information.,synthetic_training_data
+CMP00499,2025-10-21 23:44:00,Robbery,A009,Market,Resolved,Web Form,Synthetic sample complaint about robbery in Market. No real personal information.,synthetic_training_data
+CMP00500,2025-05-29 13:14:00,Robbery,A006,Harbour,Submitted,Web Form,Synthetic sample complaint about robbery in Harbour. No real personal information.,synthetic_training_data

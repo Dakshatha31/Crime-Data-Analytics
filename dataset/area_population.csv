@@ -1,0 +1,11 @@
+area_id,area_name,district_name,population_estimate,population_year
+A001,Central,Central District,185000,2025
+A002,North,North District,210000,2025
+A003,South,South District,240000,2025
+A004,East,East District,195000,2025
+A005,West,West District,225000,2025
+A006,Harbour,Harbour District,125000,2025
+A007,Industrial,Industrial District,160000,2025
+A008,University,University District,98000,2025
+A009,Market,Market District,145000,2025
+A010,Suburban,Suburban District,260000,2025

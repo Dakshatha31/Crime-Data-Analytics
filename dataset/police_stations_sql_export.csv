@@ -1,0 +1,11 @@
+station_id,station_name,area_id,latitude,longitude,contact_number
+PS001,Central Police Station,A001,13.0834,80.2701,555-0101
+PS002,North Police Station,A002,13.116,80.286,555-0102
+PS003,South Police Station,A003,12.972,80.221,555-0103
+PS004,East Police Station,A004,13.051,80.301,555-0104
+PS005,West Police Station,A005,13.0755,80.181,555-0105
+PS006,Harbour Police Station,A006,13.104,80.296,555-0106
+PS007,Industrial Police Station,A007,13.011,80.191,555-0107
+PS008,University Police Station,A008,13.009,80.236,555-0108
+PS009,Market Police Station,A009,13.091,80.251,555-0109
+PS010,Suburban Police Station,A010,12.951,80.161,555-0110

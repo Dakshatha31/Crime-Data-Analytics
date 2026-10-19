@@ -1,0 +1,4624 @@
+month_start,crime_year,crime_month,area_id,area_name,crime_type,crime_count
+2021-01-01,2021,1,A001,Central,Assault,8
+2021-01-01,2021,1,A001,Central,Burglary,9
+2021-01-01,2021,1,A001,Central,Drug Offence,3
+2021-01-01,2021,1,A001,Central,Fraud,5
+2021-01-01,2021,1,A001,Central,Harassment,3
+2021-01-01,2021,1,A001,Central,Robbery,7
+2021-01-01,2021,1,A001,Central,Theft,13
+2021-01-01,2021,1,A001,Central,Vandalism,3
+2021-01-01,2021,1,A002,North,Assault,10
+2021-01-01,2021,1,A002,North,Burglary,7
+2021-01-01,2021,1,A002,North,Drug Offence,2
+2021-01-01,2021,1,A002,North,Fraud,5
+2021-01-01,2021,1,A002,North,Harassment,4
+2021-01-01,2021,1,A002,North,Robbery,5
+2021-01-01,2021,1,A002,North,Theft,8
+2021-01-01,2021,1,A002,North,Vandalism,4
+2021-01-01,2021,1,A003,South,Assault,3
+2021-01-01,2021,1,A003,South,Burglary,6
+2021-01-01,2021,1,A003,South,Drug Offence,1
+2021-01-01,2021,1,A003,South,Fraud,7
+2021-01-01,2021,1,A003,South,Harassment,1
+2021-01-01,2021,1,A003,South,Robbery,2
+2021-01-01,2021,1,A003,South,Theft,9
+2021-01-01,2021,1,A003,South,Vandalism,2
+2021-01-01,2021,1,A004,East,Assault,7
+2021-01-01,2021,1,A004,East,Burglary,3
+2021-01-01,2021,1,A004,East,Drug Offence,7
+2021-01-01,2021,1,A004,East,Fraud,8
+2021-01-01,2021,1,A004,East,Harassment,2
+2021-01-01,2021,1,A004,East,Robbery,6
+2021-01-01,2021,1,A004,East,Theft,9
+2021-01-01,2021,1,A004,East,Vandalism,2
+2021-01-01,2021,1,A005,West,Assault,4
+2021-01-01,2021,1,A005,West,Burglary,5
+2021-01-01,2021,1,A005,West,Drug Offence,4
+2021-01-01,2021,1,A005,West,Fraud,3
+2021-01-01,2021,1,A005,West,Harassment,2
+2021-01-01,2021,1,A005,West,Robbery,4
+2021-01-01,2021,1,A005,West,Theft,6
+2021-01-01,2021,1,A005,West,Vandalism,3
+2021-01-01,2021,1,A006,Harbour,Assault,3
+2021-01-01,2021,1,A006,Harbour,Burglary,6
+2021-01-01,2021,1,A006,Harbour,Drug Offence,2
+2021-01-01,2021,1,A006,Harbour,Fraud,6
+2021-01-01,2021,1,A006,Harbour,Harassment,2
+2021-01-01,2021,1,A006,Harbour,Robbery,3
+2021-01-01,2021,1,A006,Harbour,Theft,4
+2021-01-01,2021,1,A006,Harbour,Vandalism,3
+2021-01-01,2021,1,A007,Industrial,Assault,4
+2021-01-01,2021,1,A007,Industrial,Burglary,6
+2021-01-01,2021,1,A007,Industrial,Drug Offence,1
+2021-01-01,2021,1,A007,Industrial,Fraud,8
+2021-01-01,2021,1,A007,Industrial,Harassment,7
+2021-01-01,2021,1,A007,Industrial,Robbery,3
+2021-01-01,2021,1,A007,Industrial,Theft,4
+2021-01-01,2021,1,A007,Industrial,Vandalism,5
+2021-01-01,2021,1,A008,University,Assault,3
+2021-01-01,2021,1,A008,University,Burglary,2
+2021-01-01,2021,1,A008,University,Drug Offence,2
+2021-01-01,2021,1,A008,University,Fraud,9
+2021-01-01,2021,1,A008,University,Harassment,5
+2021-01-01,2021,1,A008,University,Robbery,4
+2021-01-01,2021,1,A008,University,Theft,11
+2021-01-01,2021,1,A008,University,Vandalism,2
+2021-01-01,2021,1,A009,Market,Assault,2
+2021-01-01,2021,1,A009,Market,Burglary,6
+2021-01-01,2021,1,A009,Market,Drug Offence,2
+2021-01-01,2021,1,A009,Market,Fraud,13
+2021-01-01,2021,1,A009,Market,Harassment,1
+2021-01-01,2021,1,A009,Market,Theft,8
+2021-01-01,2021,1,A009,Market,Vandalism,1
+2021-01-01,2021,1,A010,Suburban,Assault,3
+2021-01-01,2021,1,A010,Suburban,Burglary,3
+2021-01-01,2021,1,A010,Suburban,Fraud,3
+2021-01-01,2021,1,A010,Suburban,Harassment,2
+2021-01-01,2021,1,A010,Suburban,Robbery,3
+2021-01-01,2021,1,A010,Suburban,Theft,6
+2021-02-01,2021,2,A001,Central,Assault,8
+2021-02-01,2021,2,A001,Central,Burglary,8
+2021-02-01,2021,2,A001,Central,Drug Offence,5
+2021-02-01,2021,2,A001,Central,Fraud,6
+2021-02-01,2021,2,A001,Central,Harassment,2
+2021-02-01,2021,2,A001,Central,Robbery,3
+2021-02-01,2021,2,A001,Central,Theft,12
+2021-02-01,2021,2,A001,Central,Vandalism,2
+2021-02-01,2021,2,A002,North,Assault,9
+2021-02-01,2021,2,A002,North,Burglary,4
+2021-02-01,2021,2,A002,North,Drug Offence,5
+2021-02-01,2021,2,A002,North,Fraud,4
+2021-02-01,2021,2,A002,North,Harassment,2
+2021-02-01,2021,2,A002,North,Robbery,7
+2021-02-01,2021,2,A002,North,Theft,9
+2021-02-01,2021,2,A002,North,Vandalism,3
+2021-02-01,2021,2,A003,South,Assault,6
+2021-02-01,2021,2,A003,South,Burglary,2
+2021-02-01,2021,2,A003,South,Drug Offence,1
+2021-02-01,2021,2,A003,South,Fraud,2
+2021-02-01,2021,2,A003,South,Harassment,2
+2021-02-01,2021,2,A003,South,Robbery,5
+2021-02-01,2021,2,A003,South,Theft,6
+2021-02-01,2021,2,A003,South,Vandalism,2
+2021-02-01,2021,2,A004,East,Assault,6
+2021-02-01,2021,2,A004,East,Burglary,2
+2021-02-01,2021,2,A004,East,Drug Offence,4
+2021-02-01,2021,2,A004,East,Fraud,1
+2021-02-01,2021,2,A004,East,Harassment,5
+2021-02-01,2021,2,A004,East,Robbery,8
+2021-02-01,2021,2,A004,East,Theft,8
+2021-02-01,2021,2,A004,East,Vandalism,4
+2021-02-01,2021,2,A005,West,Assault,2
+2021-02-01,2021,2,A005,West,Burglary,2
+2021-02-01,2021,2,A005,West,Drug Offence,2
+2021-02-01,2021,2,A005,West,Fraud,4
+2021-02-01,2021,2,A005,West,Harassment,3
+2021-02-01,2021,2,A005,West,Robbery,5
+2021-02-01,2021,2,A005,West,Theft,2
+2021-02-01,2021,2,A005,West,Vandalism,2
+2021-02-01,2021,2,A006,Harbour,Assault,4
+2021-02-01,2021,2,A006,Harbour,Burglary,6
+2021-02-01,2021,2,A006,Harbour,Fraud,4
+2021-02-01,2021,2,A006,Harbour,Harassment,3
+2021-02-01,2021,2,A006,Harbour,Robbery,2
+2021-02-01,2021,2,A006,Harbour,Theft,6
+2021-02-01,2021,2,A006,Harbour,Vandalism,1
+2021-02-01,2021,2,A007,Industrial,Assault,8
+2021-02-01,2021,2,A007,Industrial,Burglary,1
+2021-02-01,2021,2,A007,Industrial,Drug Offence,3
+2021-02-01,2021,2,A007,Industrial,Fraud,4
+2021-02-01,2021,2,A007,Industrial,Harassment,5
+2021-02-01,2021,2,A007,Industrial,Robbery,3
+2021-02-01,2021,2,A007,Industrial,Theft,7
+2021-02-01,2021,2,A007,Industrial,Vandalism,1
+2021-02-01,2021,2,A008,University,Assault,7
+2021-02-01,2021,2,A008,University,Burglary,2
+2021-02-01,2021,2,A008,University,Drug Offence,1
+2021-02-01,2021,2,A008,University,Fraud,5
+2021-02-01,2021,2,A008,University,Harassment,2
+2021-02-01,2021,2,A008,University,Robbery,2
+2021-02-01,2021,2,A008,University,Theft,5
+2021-02-01,2021,2,A008,University,Vandalism,2
+2021-02-01,2021,2,A009,Market,Assault,2
+2021-02-01,2021,2,A009,Market,Burglary,4
+2021-02-01,2021,2,A009,Market,Drug Offence,2
+2021-02-01,2021,2,A009,Market,Fraud,4
+2021-02-01,2021,2,A009,Market,Harassment,1
+2021-02-01,2021,2,A009,Market,Robbery,2
+2021-02-01,2021,2,A009,Market,Theft,4
+2021-02-01,2021,2,A009,Market,Vandalism,2
+2021-02-01,2021,2,A010,Suburban,Assault,3
+2021-02-01,2021,2,A010,Suburban,Burglary,5
+2021-02-01,2021,2,A010,Suburban,Fraud,5
+2021-02-01,2021,2,A010,Suburban,Harassment,1
+2021-02-01,2021,2,A010,Suburban,Robbery,3
+2021-02-01,2021,2,A010,Suburban,Theft,7
+2021-02-01,2021,2,A010,Suburban,Vandalism,1
+2021-03-01,2021,3,A001,Central,Assault,8
+2021-03-01,2021,3,A001,Central,Burglary,2
+2021-03-01,2021,3,A001,Central,Fraud,6
+2021-03-01,2021,3,A001,Central,Harassment,4
+2021-03-01,2021,3,A001,Central,Robbery,3
+2021-03-01,2021,3,A001,Central,Theft,11
+2021-03-01,2021,3,A001,Central,Vandalism,4
+2021-03-01,2021,3,A002,North,Assault,12
+2021-03-01,2021,3,A002,North,Burglary,2
+2021-03-01,2021,3,A002,North,Drug Offence,3
+2021-03-01,2021,3,A002,North,Fraud,6
+2021-03-01,2021,3,A002,North,Harassment,6
+2021-03-01,2021,3,A002,North,Robbery,3
+2021-03-01,2021,3,A002,North,Theft,6
+2021-03-01,2021,3,A002,North,Vandalism,5
+2021-03-01,2021,3,A003,South,Assault,9
+2021-03-01,2021,3,A003,South,Burglary,3
+2021-03-01,2021,3,A003,South,Drug Offence,2
+2021-03-01,2021,3,A003,South,Fraud,10
+2021-03-01,2021,3,A003,South,Harassment,2
+2021-03-01,2021,3,A003,South,Robbery,1
+2021-03-01,2021,3,A003,South,Theft,13
+2021-03-01,2021,3,A003,South,Vandalism,2
+2021-03-01,2021,3,A004,East,Assault,6
+2021-03-01,2021,3,A004,East,Burglary,4
+2021-03-01,2021,3,A004,East,Drug Offence,5
+2021-03-01,2021,3,A004,East,Fraud,3
+2021-03-01,2021,3,A004,East,Harassment,4
+2021-03-01,2021,3,A004,East,Robbery,3
+2021-03-01,2021,3,A004,East,Theft,12
+2021-03-01,2021,3,A004,East,Vandalism,2
+2021-03-01,2021,3,A005,West,Assault,4
+2021-03-01,2021,3,A005,West,Burglary,6
+2021-03-01,2021,3,A005,West,Drug Offence,2
+2021-03-01,2021,3,A005,West,Fraud,4
+2021-03-01,2021,3,A005,West,Harassment,5
+2021-03-01,2021,3,A005,West,Robbery,5
+2021-03-01,2021,3,A005,West,Theft,8
+2021-03-01,2021,3,A005,West,Vandalism,7
+2021-03-01,2021,3,A006,Harbour,Assault,4
+2021-03-01,2021,3,A006,Harbour,Burglary,6
+2021-03-01,2021,3,A006,Harbour,Fraud,8
+2021-03-01,2021,3,A006,Harbour,Harassment,2
+2021-03-01,2021,3,A006,Harbour,Robbery,4
+2021-03-01,2021,3,A006,Harbour,Theft,4
+2021-03-01,2021,3,A006,Harbour,Vandalism,1
+2021-03-01,2021,3,A007,Industrial,Assault,3
+2021-03-01,2021,3,A007,Industrial,Burglary,2
+2021-03-01,2021,3,A007,Industrial,Drug Offence,3
+2021-03-01,2021,3,A007,Industrial,Fraud,6
+2021-03-01,2021,3,A007,Industrial,Harassment,3
+2021-03-01,2021,3,A007,Industrial,Robbery,2
+2021-03-01,2021,3,A007,Industrial,Theft,6
+2021-03-01,2021,3,A007,Industrial,Vandalism,5
+2021-03-01,2021,3,A008,University,Assault,6
+2021-03-01,2021,3,A008,University,Burglary,2
+2021-03-01,2021,3,A008,University,Drug Offence,1
+2021-03-01,2021,3,A008,University,Fraud,4
+2021-03-01,2021,3,A008,University,Robbery,2
+2021-03-01,2021,3,A008,University,Theft,4
+2021-03-01,2021,3,A008,University,Vandalism,1
+2021-03-01,2021,3,A009,Market,Assault,4
+2021-03-01,2021,3,A009,Market,Burglary,4
+2021-03-01,2021,3,A009,Market,Drug Offence,2
+2021-03-01,2021,3,A009,Market,Fraud,1
+2021-03-01,2021,3,A009,Market,Harassment,1
+2021-03-01,2021,3,A009,Market,Robbery,2
+2021-03-01,2021,3,A009,Market,Theft,5
+2021-03-01,2021,3,A009,Market,Vandalism,1
+2021-03-01,2021,3,A010,Suburban,Assault,5
+2021-03-01,2021,3,A010,Suburban,Burglary,4
+2021-03-01,2021,3,A010,Suburban,Drug Offence,2
+2021-03-01,2021,3,A010,Suburban,Fraud,1
+2021-03-01,2021,3,A010,Suburban,Harassment,2
+2021-03-01,2021,3,A010,Suburban,Robbery,5
+2021-03-01,2021,3,A010,Suburban,Theft,8
+2021-03-01,2021,3,A010,Suburban,Vandalism,1
+2021-04-01,2021,4,A001,Central,Assault,3
+2021-04-01,2021,4,A001,Central,Burglary,3
+2021-04-01,2021,4,A001,Central,Drug Offence,3
+2021-04-01,2021,4,A001,Central,Fraud,6
+2021-04-01,2021,4,A001,Central,Harassment,3
+2021-04-01,2021,4,A001,Central,Robbery,2
+2021-04-01,2021,4,A001,Central,Theft,12
+2021-04-01,2021,4,A001,Central,Vandalism,6
+2021-04-01,2021,4,A002,North,Assault,3
+2021-04-01,2021,4,A002,North,Burglary,9
+2021-04-01,2021,4,A002,North,Drug Offence,3
+2021-04-01,2021,4,A002,North,Fraud,8
+2021-04-01,2021,4,A002,North,Harassment,5
+2021-04-01,2021,4,A002,North,Robbery,3
+2021-04-01,2021,4,A002,North,Theft,7
+2021-04-01,2021,4,A002,North,Vandalism,5
+2021-04-01,2021,4,A003,South,Assault,2
+2021-04-01,2021,4,A003,South,Burglary,8
+2021-04-01,2021,4,A003,South,Drug Offence,4
+2021-04-01,2021,4,A003,South,Fraud,7
+2021-04-01,2021,4,A003,South,Harassment,2
+2021-04-01,2021,4,A003,South,Robbery,1
+2021-04-01,2021,4,A003,South,Theft,3
+2021-04-01,2021,4,A003,South,Vandalism,3
+2021-04-01,2021,4,A004,East,Assault,6
+2021-04-01,2021,4,A004,East,Burglary,6
+2021-04-01,2021,4,A004,East,Drug Offence,4
+2021-04-01,2021,4,A004,East,Fraud,7
+2021-04-01,2021,4,A004,East,Harassment,3
+2021-04-01,2021,4,A004,East,Robbery,6
+2021-04-01,2021,4,A004,East,Theft,12
+2021-04-01,2021,4,A004,East,Vandalism,3
+2021-04-01,2021,4,A005,West,Assault,8
+2021-04-01,2021,4,A005,West,Burglary,4
+2021-04-01,2021,4,A005,West,Drug Offence,5
+2021-04-01,2021,4,A005,West,Fraud,7
+2021-04-01,2021,4,A005,West,Harassment,1
+2021-04-01,2021,4,A005,West,Robbery,2
+2021-04-01,2021,4,A005,West,Theft,7
+2021-04-01,2021,4,A005,West,Vandalism,2
+2021-04-01,2021,4,A006,Harbour,Assault,1
+2021-04-01,2021,4,A006,Harbour,Burglary,3
+2021-04-01,2021,4,A006,Harbour,Drug Offence,5
+2021-04-01,2021,4,A006,Harbour,Fraud,3
+2021-04-01,2021,4,A006,Harbour,Harassment,1
+2021-04-01,2021,4,A006,Harbour,Robbery,3
+2021-04-01,2021,4,A006,Harbour,Theft,9
+2021-04-01,2021,4,A006,Harbour,Vandalism,5
+2021-04-01,2021,4,A007,Industrial,Assault,3
+2021-04-01,2021,4,A007,Industrial,Burglary,1
+2021-04-01,2021,4,A007,Industrial,Fraud,6
+2021-04-01,2021,4,A007,Industrial,Harassment,3
+2021-04-01,2021,4,A007,Industrial,Robbery,3
+2021-04-01,2021,4,A007,Industrial,Theft,2
+2021-04-01,2021,4,A007,Industrial,Vandalism,2
+2021-04-01,2021,4,A008,University,Assault,4
+2021-04-01,2021,4,A008,University,Burglary,2
+2021-04-01,2021,4,A008,University,Drug Offence,2
+2021-04-01,2021,4,A008,University,Fraud,2
+2021-04-01,2021,4,A008,University,Harassment,2
+2021-04-01,2021,4,A008,University,Robbery,1
+2021-04-01,2021,4,A008,University,Theft,3
+2021-04-01,2021,4,A008,University,Vandalism,3
+2021-04-01,2021,4,A009,Market,Assault,6
+2021-04-01,2021,4,A009,Market,Burglary,4
+2021-04-01,2021,4,A009,Market,Drug Offence,3
+2021-04-01,2021,4,A009,Market,Fraud,6
+2021-04-01,2021,4,A009,Market,Harassment,4
+2021-04-01,2021,4,A009,Market,Robbery,2
+2021-04-01,2021,4,A009,Market,Theft,7
+2021-04-01,2021,4,A009,Market,Vandalism,3
+2021-04-01,2021,4,A010,Suburban,Assault,6
+2021-04-01,2021,4,A010,Suburban,Burglary,4
+2021-04-01,2021,4,A010,Suburban,Fraud,6
+2021-04-01,2021,4,A010,Suburban,Harassment,2
+2021-04-01,2021,4,A010,Suburban,Robbery,2
+2021-04-01,2021,4,A010,Suburban,Theft,2
+2021-04-01,2021,4,A010,Suburban,Vandalism,4
+2021-05-01,2021,5,A001,Central,Assault,10
+2021-05-01,2021,5,A001,Central,Burglary,6
+2021-05-01,2021,5,A001,Central,Drug Offence,7
+2021-05-01,2021,5,A001,Central,Fraud,7
+2021-05-01,2021,5,A001,Central,Harassment,5
+2021-05-01,2021,5,A001,Central,Robbery,5
+2021-05-01,2021,5,A001,Central,Theft,6
+2021-05-01,2021,5,A001,Central,Vandalism,5
+2021-05-01,2021,5,A002,North,Assault,6
+2021-05-01,2021,5,A002,North,Burglary,5
+2021-05-01,2021,5,A002,North,Drug Offence,2
+2021-05-01,2021,5,A002,North,Fraud,6
+2021-05-01,2021,5,A002,North,Harassment,3
+2021-05-01,2021,5,A002,North,Robbery,4
+2021-05-01,2021,5,A002,North,Theft,6
+2021-05-01,2021,5,A002,North,Vandalism,4
+2021-05-01,2021,5,A003,South,Assault,8
+2021-05-01,2021,5,A003,South,Burglary,1
+2021-05-01,2021,5,A003,South,Drug Offence,3
+2021-05-01,2021,5,A003,South,Fraud,10
+2021-05-01,2021,5,A003,South,Harassment,4
+2021-05-01,2021,5,A003,South,Robbery,3
+2021-05-01,2021,5,A003,South,Theft,8
+2021-05-01,2021,5,A003,South,Vandalism,3
+2021-05-01,2021,5,A004,East,Assault,6
+2021-05-01,2021,5,A004,East,Burglary,4
+2021-05-01,2021,5,A004,East,Fraud,9
+2021-05-01,2021,5,A004,East,Harassment,5
+2021-05-01,2021,5,A004,East,Robbery,5
+2021-05-01,2021,5,A004,East,Theft,5
+2021-05-01,2021,5,A004,East,Vandalism,2
+2021-05-01,2021,5,A005,West,Assault,7
+2021-05-01,2021,5,A005,West,Burglary,6
+2021-05-01,2021,5,A005,West,Drug Offence,1
+2021-05-01,2021,5,A005,West,Fraud,8
+2021-05-01,2021,5,A005,West,Harassment,4
+2021-05-01,2021,5,A005,West,Robbery,7
+2021-05-01,2021,5,A005,West,Theft,7
+2021-05-01,2021,5,A005,West,Vandalism,1
+2021-05-01,2021,5,A006,Harbour,Assault,5
+2021-05-01,2021,5,A006,Harbour,Burglary,6
+2021-05-01,2021,5,A006,Harbour,Drug Offence,2
+2021-05-01,2021,5,A006,Harbour,Fraud,2
+2021-05-01,2021,5,A006,Harbour,Harassment,4
+2021-05-01,2021,5,A006,Harbour,Robbery,4
+2021-05-01,2021,5,A006,Harbour,Theft,4
+2021-05-01,2021,5,A006,Harbour,Vandalism,4
+2021-05-01,2021,5,A007,Industrial,Assault,4
+2021-05-01,2021,5,A007,Industrial,Burglary,7
+2021-05-01,2021,5,A007,Industrial,Drug Offence,2
+2021-05-01,2021,5,A007,Industrial,Fraud,5
+2021-05-01,2021,5,A007,Industrial,Harassment,1
+2021-05-01,2021,5,A007,Industrial,Robbery,4
+2021-05-01,2021,5,A007,Industrial,Theft,8
+2021-05-01,2021,5,A007,Industrial,Vandalism,1
+2021-05-01,2021,5,A008,University,Assault,3
+2021-05-01,2021,5,A008,University,Burglary,1
+2021-05-01,2021,5,A008,University,Drug Offence,1
+2021-05-01,2021,5,A008,University,Fraud,3
+2021-05-01,2021,5,A008,University,Harassment,2
+2021-05-01,2021,5,A008,University,Robbery,2
+2021-05-01,2021,5,A008,University,Theft,4
+2021-05-01,2021,5,A008,University,Vandalism,3
+2021-05-01,2021,5,A009,Market,Assault,3
+2021-05-01,2021,5,A009,Market,Burglary,5
+2021-05-01,2021,5,A009,Market,Drug Offence,5
+2021-05-01,2021,5,A009,Market,Fraud,4
+2021-05-01,2021,5,A009,Market,Robbery,3
+2021-05-01,2021,5,A009,Market,Theft,11
+2021-05-01,2021,5,A009,Market,Vandalism,6
+2021-05-01,2021,5,A010,Suburban,Assault,4
+2021-05-01,2021,5,A010,Suburban,Burglary,5
+2021-05-01,2021,5,A010,Suburban,Fraud,3
+2021-05-01,2021,5,A010,Suburban,Harassment,3
+2021-05-01,2021,5,A010,Suburban,Robbery,2
+2021-05-01,2021,5,A010,Suburban,Theft,6
+2021-05-01,2021,5,A010,Suburban,Vandalism,1
+2021-06-01,2021,6,A001,Central,Assault,6
+2021-06-01,2021,6,A001,Central,Burglary,4
+2021-06-01,2021,6,A001,Central,Drug Offence,4
+2021-06-01,2021,6,A001,Central,Fraud,9
+2021-06-01,2021,6,A001,Central,Harassment,4
+2021-06-01,2021,6,A001,Central,Robbery,6
+2021-06-01,2021,6,A001,Central,Theft,15
+2021-06-01,2021,6,A001,Central,Vandalism,2
+2021-06-01,2021,6,A002,North,Assault,6
+2021-06-01,2021,6,A002,North,Burglary,2
+2021-06-01,2021,6,A002,North,Drug Offence,1
+2021-06-01,2021,6,A002,North,Fraud,8
+2021-06-01,2021,6,A002,North,Harassment,5
+2021-06-01,2021,6,A002,North,Robbery,3
+2021-06-01,2021,6,A002,North,Theft,7
+2021-06-01,2021,6,A002,North,Vandalism,3
+2021-06-01,2021,6,A003,South,Assault,3
+2021-06-01,2021,6,A003,South,Burglary,4
+2021-06-01,2021,6,A003,South,Drug Offence,4
+2021-06-01,2021,6,A003,South,Fraud,7
+2021-06-01,2021,6,A003,South,Harassment,5
+2021-06-01,2021,6,A003,South,Robbery,2
+2021-06-01,2021,6,A003,South,Theft,5
+2021-06-01,2021,6,A003,South,Vandalism,1
+2021-06-01,2021,6,A004,East,Assault,2
+2021-06-01,2021,6,A004,East,Burglary,4
+2021-06-01,2021,6,A004,East,Drug Offence,3
+2021-06-01,2021,6,A004,East,Fraud,5
+2021-06-01,2021,6,A004,East,Harassment,2
+2021-06-01,2021,6,A004,East,Robbery,2
+2021-06-01,2021,6,A004,East,Theft,7
+2021-06-01,2021,6,A004,East,Vandalism,4
+2021-06-01,2021,6,A005,West,Assault,4
+2021-06-01,2021,6,A005,West,Burglary,8
+2021-06-01,2021,6,A005,West,Drug Offence,2
+2021-06-01,2021,6,A005,West,Fraud,4
+2021-06-01,2021,6,A005,West,Harassment,3
+2021-06-01,2021,6,A005,West,Robbery,3
+2021-06-01,2021,6,A005,West,Theft,8
+2021-06-01,2021,6,A005,West,Vandalism,5
+2021-06-01,2021,6,A006,Harbour,Assault,1
+2021-06-01,2021,6,A006,Harbour,Burglary,4
+2021-06-01,2021,6,A006,Harbour,Drug Offence,3
+2021-06-01,2021,6,A006,Harbour,Fraud,5
+2021-06-01,2021,6,A006,Harbour,Harassment,3
+2021-06-01,2021,6,A006,Harbour,Robbery,2
+2021-06-01,2021,6,A006,Harbour,Theft,2
+2021-06-01,2021,6,A006,Harbour,Vandalism,5
+2021-06-01,2021,6,A007,Industrial,Assault,2
+2021-06-01,2021,6,A007,Industrial,Burglary,5
+2021-06-01,2021,6,A007,Industrial,Drug Offence,1
+2021-06-01,2021,6,A007,Industrial,Fraud,5
+2021-06-01,2021,6,A007,Industrial,Harassment,2
+2021-06-01,2021,6,A007,Industrial,Robbery,1
+2021-06-01,2021,6,A007,Industrial,Theft,4
+2021-06-01,2021,6,A008,University,Assault,8
+2021-06-01,2021,6,A008,University,Burglary,2
+2021-06-01,2021,6,A008,University,Drug Offence,2
+2021-06-01,2021,6,A008,University,Fraud,3
+2021-06-01,2021,6,A008,University,Harassment,1
+2021-06-01,2021,6,A008,University,Robbery,2
+2021-06-01,2021,6,A008,University,Theft,7
+2021-06-01,2021,6,A008,University,Vandalism,1
+2021-06-01,2021,6,A009,Market,Assault,3
+2021-06-01,2021,6,A009,Market,Burglary,3
+2021-06-01,2021,6,A009,Market,Drug Offence,1
+2021-06-01,2021,6,A009,Market,Fraud,6
+2021-06-01,2021,6,A009,Market,Harassment,6
+2021-06-01,2021,6,A009,Market,Robbery,3
+2021-06-01,2021,6,A009,Market,Theft,5
+2021-06-01,2021,6,A009,Market,Vandalism,9
+2021-06-01,2021,6,A010,Suburban,Assault,3
+2021-06-01,2021,6,A010,Suburban,Burglary,5
+2021-06-01,2021,6,A010,Suburban,Drug Offence,1
+2021-06-01,2021,6,A010,Suburban,Fraud,2
+2021-06-01,2021,6,A010,Suburban,Harassment,2
+2021-06-01,2021,6,A010,Suburban,Robbery,2
+2021-06-01,2021,6,A010,Suburban,Theft,8
+2021-07-01,2021,7,A001,Central,Assault,8
+2021-07-01,2021,7,A001,Central,Burglary,12
+2021-07-01,2021,7,A001,Central,Drug Offence,4
+2021-07-01,2021,7,A001,Central,Fraud,8
+2021-07-01,2021,7,A001,Central,Harassment,7
+2021-07-01,2021,7,A001,Central,Robbery,4
+2021-07-01,2021,7,A001,Central,Theft,10
+2021-07-01,2021,7,A001,Central,Vandalism,2
+2021-07-01,2021,7,A002,North,Assault,8
+2021-07-01,2021,7,A002,North,Burglary,9
+2021-07-01,2021,7,A002,North,Drug Offence,3
+2021-07-01,2021,7,A002,North,Fraud,5
+2021-07-01,2021,7,A002,North,Harassment,1
+2021-07-01,2021,7,A002,North,Robbery,5
+2021-07-01,2021,7,A002,North,Theft,5
+2021-07-01,2021,7,A002,North,Vandalism,8
+2021-07-01,2021,7,A003,South,Assault,4
+2021-07-01,2021,7,A003,South,Burglary,6
+2021-07-01,2021,7,A003,South,Drug Offence,2
+2021-07-01,2021,7,A003,South,Fraud,4
+2021-07-01,2021,7,A003,South,Harassment,3
+2021-07-01,2021,7,A003,South,Robbery,1
+2021-07-01,2021,7,A003,South,Theft,19
+2021-07-01,2021,7,A003,South,Vandalism,2
+2021-07-01,2021,7,A004,East,Assault,9
+2021-07-01,2021,7,A004,East,Burglary,7
+2021-07-01,2021,7,A004,East,Fraud,9
+2021-07-01,2021,7,A004,East,Harassment,4
+2021-07-01,2021,7,A004,East,Theft,6
+2021-07-01,2021,7,A004,East,Vandalism,2
+2021-07-01,2021,7,A005,West,Assault,4
+2021-07-01,2021,7,A005,West,Burglary,3
+2021-07-01,2021,7,A005,West,Drug Offence,3
+2021-07-01,2021,7,A005,West,Fraud,3
+2021-07-01,2021,7,A005,West,Harassment,4
+2021-07-01,2021,7,A005,West,Robbery,4
+2021-07-01,2021,7,A005,West,Theft,5
+2021-07-01,2021,7,A005,West,Vandalism,2
+2021-07-01,2021,7,A006,Harbour,Assault,8
+2021-07-01,2021,7,A006,Harbour,Drug Offence,1
+2021-07-01,2021,7,A006,Harbour,Fraud,2
+2021-07-01,2021,7,A006,Harbour,Harassment,2
+2021-07-01,2021,7,A006,Harbour,Robbery,3
+2021-07-01,2021,7,A006,Harbour,Theft,4
+2021-07-01,2021,7,A006,Harbour,Vandalism,1
+2021-07-01,2021,7,A007,Industrial,Assault,5
+2021-07-01,2021,7,A007,Industrial,Burglary,6
+2021-07-01,2021,7,A007,Industrial,Drug Offence,2
+2021-07-01,2021,7,A007,Industrial,Fraud,6
+2021-07-01,2021,7,A007,Industrial,Harassment,2
+2021-07-01,2021,7,A007,Industrial,Robbery,1
+2021-07-01,2021,7,A007,Industrial,Theft,7
+2021-07-01,2021,7,A007,Industrial,Vandalism,1
+2021-07-01,2021,7,A008,University,Assault,3
+2021-07-01,2021,7,A008,University,Burglary,4
+2021-07-01,2021,7,A008,University,Drug Offence,2
+2021-07-01,2021,7,A008,University,Fraud,5
+2021-07-01,2021,7,A008,University,Harassment,4
+2021-07-01,2021,7,A008,University,Robbery,4
+2021-07-01,2021,7,A008,University,Theft,6
+2021-07-01,2021,7,A008,University,Vandalism,2
+2021-07-01,2021,7,A009,Market,Assault,8
+2021-07-01,2021,7,A009,Market,Burglary,2
+2021-07-01,2021,7,A009,Market,Drug Offence,1
+2021-07-01,2021,7,A009,Market,Fraud,8
+2021-07-01,2021,7,A009,Market,Harassment,4
+2021-07-01,2021,7,A009,Market,Robbery,2
+2021-07-01,2021,7,A009,Market,Theft,14
+2021-07-01,2021,7,A009,Market,Vandalism,1
+2021-07-01,2021,7,A010,Suburban,Assault,2
+2021-07-01,2021,7,A010,Suburban,Burglary,6
+2021-07-01,2021,7,A010,Suburban,Fraud,3
+2021-07-01,2021,7,A010,Suburban,Harassment,2
+2021-07-01,2021,7,A010,Suburban,Robbery,1
+2021-07-01,2021,7,A010,Suburban,Theft,6
+2021-07-01,2021,7,A010,Suburban,Vandalism,2
+2021-08-01,2021,8,A001,Central,Assault,9
+2021-08-01,2021,8,A001,Central,Burglary,1
+2021-08-01,2021,8,A001,Central,Drug Offence,5
+2021-08-01,2021,8,A001,Central,Fraud,5
+2021-08-01,2021,8,A001,Central,Harassment,2
+2021-08-01,2021,8,A001,Central,Robbery,5
+2021-08-01,2021,8,A001,Central,Theft,10
+2021-08-01,2021,8,A001,Central,Vandalism,7
+2021-08-01,2021,8,A002,North,Assault,3
+2021-08-01,2021,8,A002,North,Burglary,3
+2021-08-01,2021,8,A002,North,Drug Offence,4
+2021-08-01,2021,8,A002,North,Fraud,5
+2021-08-01,2021,8,A002,North,Harassment,2
+2021-08-01,2021,8,A002,North,Robbery,3
+2021-08-01,2021,8,A002,North,Theft,5
+2021-08-01,2021,8,A002,North,Vandalism,3
+2021-08-01,2021,8,A003,South,Assault,6
+2021-08-01,2021,8,A003,South,Burglary,5
+2021-08-01,2021,8,A003,South,Drug Offence,1
+2021-08-01,2021,8,A003,South,Fraud,1
+2021-08-01,2021,8,A003,South,Harassment,1
+2021-08-01,2021,8,A003,South,Robbery,5
+2021-08-01,2021,8,A003,South,Theft,9
+2021-08-01,2021,8,A003,South,Vandalism,4
+2021-08-01,2021,8,A004,East,Assault,6
+2021-08-01,2021,8,A004,East,Burglary,5
+2021-08-01,2021,8,A004,East,Drug Offence,4
+2021-08-01,2021,8,A004,East,Fraud,9
+2021-08-01,2021,8,A004,East,Harassment,4
+2021-08-01,2021,8,A004,East,Robbery,1
+2021-08-01,2021,8,A004,East,Theft,10
+2021-08-01,2021,8,A004,East,Vandalism,2
+2021-08-01,2021,8,A005,West,Assault,2
+2021-08-01,2021,8,A005,West,Burglary,4
+2021-08-01,2021,8,A005,West,Drug Offence,7
+2021-08-01,2021,8,A005,West,Fraud,6
+2021-08-01,2021,8,A005,West,Harassment,1
+2021-08-01,2021,8,A005,West,Robbery,5
+2021-08-01,2021,8,A005,West,Theft,8
+2021-08-01,2021,8,A005,West,Vandalism,1
+2021-08-01,2021,8,A006,Harbour,Assault,4
+2021-08-01,2021,8,A006,Harbour,Burglary,2
+2021-08-01,2021,8,A006,Harbour,Drug Offence,1
+2021-08-01,2021,8,A006,Harbour,Fraud,7
+2021-08-01,2021,8,A006,Harbour,Harassment,3
+2021-08-01,2021,8,A006,Harbour,Robbery,6
+2021-08-01,2021,8,A006,Harbour,Theft,8
+2021-08-01,2021,8,A006,Harbour,Vandalism,3
+2021-08-01,2021,8,A007,Industrial,Assault,3
+2021-08-01,2021,8,A007,Industrial,Burglary,7
+2021-08-01,2021,8,A007,Industrial,Drug Offence,2
+2021-08-01,2021,8,A007,Industrial,Fraud,10
+2021-08-01,2021,8,A007,Industrial,Harassment,3
+2021-08-01,2021,8,A007,Industrial,Robbery,1
+2021-08-01,2021,8,A007,Industrial,Theft,6
+2021-08-01,2021,8,A007,Industrial,Vandalism,3
+2021-08-01,2021,8,A008,University,Assault,4
+2021-08-01,2021,8,A008,University,Burglary,7
+2021-08-01,2021,8,A008,University,Drug Offence,1
+2021-08-01,2021,8,A008,University,Fraud,4
+2021-08-01,2021,8,A008,University,Harassment,4
+2021-08-01,2021,8,A008,University,Robbery,1
+2021-08-01,2021,8,A008,University,Theft,4
+2021-08-01,2021,8,A008,University,Vandalism,1
+2021-08-01,2021,8,A009,Market,Assault,1
+2021-08-01,2021,8,A009,Market,Burglary,6
+2021-08-01,2021,8,A009,Market,Drug Offence,1
+2021-08-01,2021,8,A009,Market,Fraud,8
+2021-08-01,2021,8,A009,Market,Harassment,5
+2021-08-01,2021,8,A009,Market,Robbery,6
+2021-08-01,2021,8,A009,Market,Theft,12
+2021-08-01,2021,8,A009,Market,Vandalism,1
+2021-08-01,2021,8,A010,Suburban,Assault,1
+2021-08-01,2021,8,A010,Suburban,Burglary,5
+2021-08-01,2021,8,A010,Suburban,Drug Offence,3
+2021-08-01,2021,8,A010,Suburban,Fraud,2
+2021-08-01,2021,8,A010,Suburban,Harassment,3
+2021-08-01,2021,8,A010,Suburban,Robbery,4
+2021-08-01,2021,8,A010,Suburban,Theft,7
+2021-08-01,2021,8,A010,Suburban,Vandalism,1
+2021-09-01,2021,9,A001,Central,Assault,6
+2021-09-01,2021,9,A001,Central,Burglary,5
+2021-09-01,2021,9,A001,Central,Drug Offence,3
+2021-09-01,2021,9,A001,Central,Fraud,6
+2021-09-01,2021,9,A001,Central,Harassment,2
+2021-09-01,2021,9,A001,Central,Robbery,5
+2021-09-01,2021,9,A001,Central,Theft,6
+2021-09-01,2021,9,A001,Central,Vandalism,3
+2021-09-01,2021,9,A002,North,Assault,9
+2021-09-01,2021,9,A002,North,Burglary,2
+2021-09-01,2021,9,A002,North,Drug Offence,2
+2021-09-01,2021,9,A002,North,Fraud,9
+2021-09-01,2021,9,A002,North,Harassment,2
+2021-09-01,2021,9,A002,North,Robbery,6
+2021-09-01,2021,9,A002,North,Theft,9
+2021-09-01,2021,9,A002,North,Vandalism,3
+2021-09-01,2021,9,A003,South,Assault,10
+2021-09-01,2021,9,A003,South,Burglary,3
+2021-09-01,2021,9,A003,South,Drug Offence,2
+2021-09-01,2021,9,A003,South,Fraud,9
+2021-09-01,2021,9,A003,South,Harassment,2
+2021-09-01,2021,9,A003,South,Robbery,4
+2021-09-01,2021,9,A003,South,Theft,12
+2021-09-01,2021,9,A003,South,Vandalism,2
+2021-09-01,2021,9,A004,East,Assault,8
+2021-09-01,2021,9,A004,East,Burglary,5
+2021-09-01,2021,9,A004,East,Drug Offence,2
+2021-09-01,2021,9,A004,East,Fraud,3
+2021-09-01,2021,9,A004,East,Harassment,5
+2021-09-01,2021,9,A004,East,Robbery,2
+2021-09-01,2021,9,A004,East,Theft,9
+2021-09-01,2021,9,A004,East,Vandalism,3
+2021-09-01,2021,9,A005,West,Assault,5
+2021-09-01,2021,9,A005,West,Burglary,2
+2021-09-01,2021,9,A005,West,Drug Offence,4
+2021-09-01,2021,9,A005,West,Fraud,6
+2021-09-01,2021,9,A005,West,Harassment,3
+2021-09-01,2021,9,A005,West,Robbery,2
+2021-09-01,2021,9,A005,West,Theft,8
+2021-09-01,2021,9,A005,West,Vandalism,2
+2021-09-01,2021,9,A006,Harbour,Assault,6
+2021-09-01,2021,9,A006,Harbour,Burglary,2
+2021-09-01,2021,9,A006,Harbour,Drug Offence,1
+2021-09-01,2021,9,A006,Harbour,Fraud,2
+2021-09-01,2021,9,A006,Harbour,Harassment,5
+2021-09-01,2021,9,A006,Harbour,Robbery,2
+2021-09-01,2021,9,A006,Harbour,Theft,3
+2021-09-01,2021,9,A006,Harbour,Vandalism,1
+2021-09-01,2021,9,A007,Industrial,Assault,2
+2021-09-01,2021,9,A007,Industrial,Burglary,4
+2021-09-01,2021,9,A007,Industrial,Fraud,8
+2021-09-01,2021,9,A007,Industrial,Harassment,1
+2021-09-01,2021,9,A007,Industrial,Robbery,1
+2021-09-01,2021,9,A007,Industrial,Theft,9
+2021-09-01,2021,9,A007,Industrial,Vandalism,3
+2021-09-01,2021,9,A008,University,Assault,4
+2021-09-01,2021,9,A008,University,Burglary,7
+2021-09-01,2021,9,A008,University,Drug Offence,1
+2021-09-01,2021,9,A008,University,Fraud,3
+2021-09-01,2021,9,A008,University,Harassment,2
+2021-09-01,2021,9,A008,University,Robbery,1
+2021-09-01,2021,9,A008,University,Theft,2
+2021-09-01,2021,9,A008,University,Vandalism,1
+2021-09-01,2021,9,A009,Market,Assault,6
+2021-09-01,2021,9,A009,Market,Burglary,3
+2021-09-01,2021,9,A009,Market,Drug Offence,2
+2021-09-01,2021,9,A009,Market,Fraud,4
+2021-09-01,2021,9,A009,Market,Harassment,2
+2021-09-01,2021,9,A009,Market,Robbery,1
+2021-09-01,2021,9,A009,Market,Theft,7
+2021-09-01,2021,9,A009,Market,Vandalism,3
+2021-09-01,2021,9,A010,Suburban,Assault,5
+2021-09-01,2021,9,A010,Suburban,Burglary,6
+2021-09-01,2021,9,A010,Suburban,Drug Offence,1
+2021-09-01,2021,9,A010,Suburban,Fraud,4
+2021-09-01,2021,9,A010,Suburban,Harassment,4
+2021-09-01,2021,9,A010,Suburban,Robbery,2
+2021-09-01,2021,9,A010,Suburban,Theft,5
+2021-10-01,2021,10,A001,Central,Assault,6
+2021-10-01,2021,10,A001,Central,Burglary,5
+2021-10-01,2021,10,A001,Central,Drug Offence,3
+2021-10-01,2021,10,A001,Central,Fraud,5
+2021-10-01,2021,10,A001,Central,Harassment,3
+2021-10-01,2021,10,A001,Central,Robbery,3
+2021-10-01,2021,10,A001,Central,Theft,15
+2021-10-01,2021,10,A001,Central,Vandalism,4
+2021-10-01,2021,10,A002,North,Assault,7
+2021-10-01,2021,10,A002,North,Burglary,9
+2021-10-01,2021,10,A002,North,Drug Offence,3
+2021-10-01,2021,10,A002,North,Fraud,5
+2021-10-01,2021,10,A002,North,Harassment,3
+2021-10-01,2021,10,A002,North,Robbery,8
+2021-10-01,2021,10,A002,North,Theft,11
+2021-10-01,2021,10,A002,North,Vandalism,2
+2021-10-01,2021,10,A003,South,Assault,3
+2021-10-01,2021,10,A003,South,Burglary,3
+2021-10-01,2021,10,A003,South,Drug Offence,2
+2021-10-01,2021,10,A003,South,Fraud,8
+2021-10-01,2021,10,A003,South,Harassment,1
+2021-10-01,2021,10,A003,South,Robbery,3
+2021-10-01,2021,10,A003,South,Theft,7
+2021-10-01,2021,10,A004,East,Assault,6
+2021-10-01,2021,10,A004,East,Burglary,13
+2021-10-01,2021,10,A004,East,Drug Offence,3
+2021-10-01,2021,10,A004,East,Fraud,7
+2021-10-01,2021,10,A004,East,Harassment,2
+2021-10-01,2021,10,A004,East,Robbery,5
+2021-10-01,2021,10,A004,East,Theft,12
+2021-10-01,2021,10,A004,East,Vandalism,3
+2021-10-01,2021,10,A005,West,Assault,7
+2021-10-01,2021,10,A005,West,Burglary,3
+2021-10-01,2021,10,A005,West,Drug Offence,3
+2021-10-01,2021,10,A005,West,Fraud,4
+2021-10-01,2021,10,A005,West,Robbery,2
+2021-10-01,2021,10,A005,West,Theft,3
+2021-10-01,2021,10,A005,West,Vandalism,3
+2021-10-01,2021,10,A006,Harbour,Assault,4
+2021-10-01,2021,10,A006,Harbour,Burglary,4
+2021-10-01,2021,10,A006,Harbour,Drug Offence,4
+2021-10-01,2021,10,A006,Harbour,Fraud,5
+2021-10-01,2021,10,A006,Harbour,Harassment,1
+2021-10-01,2021,10,A006,Harbour,Robbery,3
+2021-10-01,2021,10,A006,Harbour,Theft,9
+2021-10-01,2021,10,A006,Harbour,Vandalism,4
+2021-10-01,2021,10,A007,Industrial,Assault,5
+2021-10-01,2021,10,A007,Industrial,Burglary,4
+2021-10-01,2021,10,A007,Industrial,Drug Offence,3
+2021-10-01,2021,10,A007,Industrial,Fraud,6
+2021-10-01,2021,10,A007,Industrial,Harassment,2
+2021-10-01,2021,10,A007,Industrial,Robbery,1
+2021-10-01,2021,10,A007,Industrial,Theft,9
+2021-10-01,2021,10,A007,Industrial,Vandalism,4
+2021-10-01,2021,10,A008,University,Assault,5
+2021-10-01,2021,10,A008,University,Burglary,5
+2021-10-01,2021,10,A008,University,Fraud,5
+2021-10-01,2021,10,A008,University,Harassment,2
+2021-10-01,2021,10,A008,University,Robbery,2
+2021-10-01,2021,10,A008,University,Theft,7
+2021-10-01,2021,10,A008,University,Vandalism,2
+2021-10-01,2021,10,A009,Market,Assault,6
+2021-10-01,2021,10,A009,Market,Burglary,5
+2021-10-01,2021,10,A009,Market,Drug Offence,1
+2021-10-01,2021,10,A009,Market,Fraud,5
+2021-10-01,2021,10,A009,Market,Harassment,2
+2021-10-01,2021,10,A009,Market,Robbery,5
+2021-10-01,2021,10,A009,Market,Theft,6
+2021-10-01,2021,10,A009,Market,Vandalism,3
+2021-10-01,2021,10,A010,Suburban,Assault,3
+2021-10-01,2021,10,A010,Suburban,Burglary,6
+2021-10-01,2021,10,A010,Suburban,Drug Offence,1
+2021-10-01,2021,10,A010,Suburban,Fraud,4
+2021-10-01,2021,10,A010,Suburban,Harassment,2
+2021-10-01,2021,10,A010,Suburban,Theft,3
+2021-10-01,2021,10,A010,Suburban,Vandalism,5
+2021-11-01,2021,11,A001,Central,Assault,5
+2021-11-01,2021,11,A001,Central,Burglary,8
+2021-11-01,2021,11,A001,Central,Drug Offence,5
+2021-11-01,2021,11,A001,Central,Fraud,5
+2021-11-01,2021,11,A001,Central,Harassment,3
+2021-11-01,2021,11,A001,Central,Robbery,3
+2021-11-01,2021,11,A001,Central,Theft,9
+2021-11-01,2021,11,A001,Central,Vandalism,7
+2021-11-01,2021,11,A002,North,Assault,6
+2021-11-01,2021,11,A002,North,Burglary,6
+2021-11-01,2021,11,A002,North,Drug Offence,3
+2021-11-01,2021,11,A002,North,Fraud,8
+2021-11-01,2021,11,A002,North,Harassment,5
+2021-11-01,2021,11,A002,North,Robbery,8
+2021-11-01,2021,11,A002,North,Theft,10
+2021-11-01,2021,11,A003,South,Assault,9
+2021-11-01,2021,11,A003,South,Burglary,7
+2021-11-01,2021,11,A003,South,Drug Offence,2
+2021-11-01,2021,11,A003,South,Fraud,4
+2021-11-01,2021,11,A003,South,Harassment,1
+2021-11-01,2021,11,A003,South,Robbery,5
+2021-11-01,2021,11,A003,South,Theft,6
+2021-11-01,2021,11,A003,South,Vandalism,3
+2021-11-01,2021,11,A004,East,Assault,8
+2021-11-01,2021,11,A004,East,Burglary,4
+2021-11-01,2021,11,A004,East,Drug Offence,2
+2021-11-01,2021,11,A004,East,Fraud,7
+2021-11-01,2021,11,A004,East,Harassment,3
+2021-11-01,2021,11,A004,East,Robbery,2
+2021-11-01,2021,11,A004,East,Theft,7
+2021-11-01,2021,11,A004,East,Vandalism,3
+2021-11-01,2021,11,A005,West,Assault,5
+2021-11-01,2021,11,A005,West,Burglary,7
+2021-11-01,2021,11,A005,West,Drug Offence,6
+2021-11-01,2021,11,A005,West,Fraud,6
+2021-11-01,2021,11,A005,West,Harassment,2
+2021-11-01,2021,11,A005,West,Robbery,6
+2021-11-01,2021,11,A005,West,Theft,6
+2021-11-01,2021,11,A005,West,Vandalism,3
+2021-11-01,2021,11,A006,Harbour,Assault,4
+2021-11-01,2021,11,A006,Harbour,Burglary,9
+2021-11-01,2021,11,A006,Harbour,Fraud,2
+2021-11-01,2021,11,A006,Harbour,Harassment,1
+2021-11-01,2021,11,A006,Harbour,Robbery,4
+2021-11-01,2021,11,A006,Harbour,Theft,3
+2021-11-01,2021,11,A006,Harbour,Vandalism,1
+2021-11-01,2021,11,A007,Industrial,Assault,6
+2021-11-01,2021,11,A007,Industrial,Burglary,3
+2021-11-01,2021,11,A007,Industrial,Drug Offence,5
+2021-11-01,2021,11,A007,Industrial,Fraud,6
+2021-11-01,2021,11,A007,Industrial,Harassment,3
+2021-11-01,2021,11,A007,Industrial,Robbery,3
+2021-11-01,2021,11,A007,Industrial,Theft,4
+2021-11-01,2021,11,A007,Industrial,Vandalism,2
+2021-11-01,2021,11,A008,University,Assault,1
+2021-11-01,2021,11,A008,University,Burglary,1
+2021-11-01,2021,11,A008,University,Drug Offence,1
+2021-11-01,2021,11,A008,University,Fraud,3
+2021-11-01,2021,11,A008,University,Harassment,4
+2021-11-01,2021,11,A008,University,Robbery,1
+2021-11-01,2021,11,A008,University,Theft,7
+2021-11-01,2021,11,A008,University,Vandalism,2
+2021-11-01,2021,11,A009,Market,Assault,6
+2021-11-01,2021,11,A009,Market,Burglary,4
+2021-11-01,2021,11,A009,Market,Drug Offence,2
+2021-11-01,2021,11,A009,Market,Fraud,7
+2021-11-01,2021,11,A009,Market,Harassment,2
+2021-11-01,2021,11,A009,Market,Robbery,6
+2021-11-01,2021,11,A009,Market,Theft,5
+2021-11-01,2021,11,A009,Market,Vandalism,2
+2021-11-01,2021,11,A010,Suburban,Assault,4
+2021-11-01,2021,11,A010,Suburban,Burglary,3
+2021-11-01,2021,11,A010,Suburban,Fraud,5
+2021-11-01,2021,11,A010,Suburban,Harassment,1
+2021-11-01,2021,11,A010,Suburban,Robbery,2
+2021-11-01,2021,11,A010,Suburban,Theft,6
+2021-12-01,2021,12,A001,Central,Assault,6
+2021-12-01,2021,12,A001,Central,Burglary,4
+2021-12-01,2021,12,A001,Central,Drug Offence,2
+2021-12-01,2021,12,A001,Central,Fraud,9
+2021-12-01,2021,12,A001,Central,Harassment,1
+2021-12-01,2021,12,A001,Central,Robbery,5
+2021-12-01,2021,12,A001,Central,Theft,5
+2021-12-01,2021,12,A001,Central,Vandalism,3
+2021-12-01,2021,12,A002,North,Assault,7
+2021-12-01,2021,12,A002,North,Burglary,15
+2021-12-01,2021,12,A002,North,Drug Offence,2
+2021-12-01,2021,12,A002,North,Fraud,7
+2021-12-01,2021,12,A002,North,Harassment,3
+2021-12-01,2021,12,A002,North,Robbery,2
+2021-12-01,2021,12,A002,North,Theft,14
+2021-12-01,2021,12,A002,North,Vandalism,1
+2021-12-01,2021,12,A003,South,Assault,5
+2021-12-01,2021,12,A003,South,Burglary,7
+2021-12-01,2021,12,A003,South,Drug Offence,3
+2021-12-01,2021,12,A003,South,Fraud,7
+2021-12-01,2021,12,A003,South,Harassment,5
+2021-12-01,2021,12,A003,South,Robbery,5
+2021-12-01,2021,12,A003,South,Theft,12
+2021-12-01,2021,12,A003,South,Vandalism,1
+2021-12-01,2021,12,A004,East,Assault,5
+2021-12-01,2021,12,A004,East,Burglary,4
+2021-12-01,2021,12,A004,East,Drug Offence,4
+2021-12-01,2021,12,A004,East,Fraud,10
+2021-12-01,2021,12,A004,East,Harassment,1
+2021-12-01,2021,12,A004,East,Robbery,2
+2021-12-01,2021,12,A004,East,Theft,7
+2021-12-01,2021,12,A004,East,Vandalism,2
+2021-12-01,2021,12,A005,West,Assault,4
+2021-12-01,2021,12,A005,West,Burglary,1
+2021-12-01,2021,12,A005,West,Drug Offence,3
+2021-12-01,2021,12,A005,West,Fraud,6
+2021-12-01,2021,12,A005,West,Harassment,2
+2021-12-01,2021,12,A005,West,Robbery,4
+2021-12-01,2021,12,A005,West,Theft,3
+2021-12-01,2021,12,A005,West,Vandalism,3
+2021-12-01,2021,12,A006,Harbour,Assault,6
+2021-12-01,2021,12,A006,Harbour,Burglary,3
+2021-12-01,2021,12,A006,Harbour,Drug Offence,1
+2021-12-01,2021,12,A006,Harbour,Fraud,4
+2021-12-01,2021,12,A006,Harbour,Harassment,1
+2021-12-01,2021,12,A006,Harbour,Robbery,4
+2021-12-01,2021,12,A006,Harbour,Theft,5
+2021-12-01,2021,12,A006,Harbour,Vandalism,2
+2021-12-01,2021,12,A007,Industrial,Assault,2
+2021-12-01,2021,12,A007,Industrial,Burglary,3
+2021-12-01,2021,12,A007,Industrial,Drug Offence,3
+2021-12-01,2021,12,A007,Industrial,Fraud,5
+2021-12-01,2021,12,A007,Industrial,Harassment,5
+2021-12-01,2021,12,A007,Industrial,Robbery,5
+2021-12-01,2021,12,A007,Industrial,Theft,6
+2021-12-01,2021,12,A008,University,Assault,1
+2021-12-01,2021,12,A008,University,Burglary,4
+2021-12-01,2021,12,A008,University,Drug Offence,1
+2021-12-01,2021,12,A008,University,Harassment,3
+2021-12-01,2021,12,A008,University,Robbery,3
+2021-12-01,2021,12,A008,University,Theft,10
+2021-12-01,2021,12,A008,University,Vandalism,3
+2021-12-01,2021,12,A009,Market,Assault,4
+2021-12-01,2021,12,A009,Market,Burglary,5
+2021-12-01,2021,12,A009,Market,Drug Offence,1
+2021-12-01,2021,12,A009,Market,Fraud,3
+2021-12-01,2021,12,A009,Market,Harassment,5
+2021-12-01,2021,12,A009,Market,Robbery,5
+2021-12-01,2021,12,A009,Market,Theft,8
+2021-12-01,2021,12,A009,Market,Vandalism,2
+2021-12-01,2021,12,A010,Suburban,Assault,1
+2021-12-01,2021,12,A010,Suburban,Burglary,4
+2021-12-01,2021,12,A010,Suburban,Drug Offence,2
+2021-12-01,2021,12,A010,Suburban,Fraud,6
+2021-12-01,2021,12,A010,Suburban,Robbery,3
+2021-12-01,2021,12,A010,Suburban,Theft,4
+2022-01-01,2022,1,A001,Central,Assault,7
+2022-01-01,2022,1,A001,Central,Burglary,6
+2022-01-01,2022,1,A001,Central,Drug Offence,3
+2022-01-01,2022,1,A001,Central,Fraud,7
+2022-01-01,2022,1,A001,Central,Harassment,3
+2022-01-01,2022,1,A001,Central,Robbery,4
+2022-01-01,2022,1,A001,Central,Theft,9
+2022-01-01,2022,1,A001,Central,Vandalism,2
+2022-01-01,2022,1,A002,North,Assault,8
+2022-01-01,2022,1,A002,North,Burglary,8
+2022-01-01,2022,1,A002,North,Drug Offence,4
+2022-01-01,2022,1,A002,North,Fraud,6
+2022-01-01,2022,1,A002,North,Harassment,2
+2022-01-01,2022,1,A002,North,Robbery,5
+2022-01-01,2022,1,A002,North,Theft,5
+2022-01-01,2022,1,A002,North,Vandalism,5
+2022-01-01,2022,1,A003,South,Assault,6
+2022-01-01,2022,1,A003,South,Burglary,4
+2022-01-01,2022,1,A003,South,Drug Offence,1
+2022-01-01,2022,1,A003,South,Fraud,7
+2022-01-01,2022,1,A003,South,Harassment,7
+2022-01-01,2022,1,A003,South,Robbery,5
+2022-01-01,2022,1,A003,South,Theft,10
+2022-01-01,2022,1,A003,South,Vandalism,2
+2022-01-01,2022,1,A004,East,Assault,5
+2022-01-01,2022,1,A004,East,Burglary,8
+2022-01-01,2022,1,A004,East,Drug Offence,1
+2022-01-01,2022,1,A004,East,Fraud,3
+2022-01-01,2022,1,A004,East,Harassment,5
+2022-01-01,2022,1,A004,East,Robbery,4
+2022-01-01,2022,1,A004,East,Theft,7
+2022-01-01,2022,1,A004,East,Vandalism,2
+2022-01-01,2022,1,A005,West,Assault,7
+2022-01-01,2022,1,A005,West,Burglary,1
+2022-01-01,2022,1,A005,West,Drug Offence,2
+2022-01-01,2022,1,A005,West,Fraud,6
+2022-01-01,2022,1,A005,West,Harassment,3
+2022-01-01,2022,1,A005,West,Robbery,2
+2022-01-01,2022,1,A005,West,Theft,10
+2022-01-01,2022,1,A005,West,Vandalism,3
+2022-01-01,2022,1,A006,Harbour,Assault,2
+2022-01-01,2022,1,A006,Harbour,Burglary,2
+2022-01-01,2022,1,A006,Harbour,Drug Offence,2
+2022-01-01,2022,1,A006,Harbour,Fraud,7
+2022-01-01,2022,1,A006,Harbour,Harassment,5
+2022-01-01,2022,1,A006,Harbour,Robbery,3
+2022-01-01,2022,1,A006,Harbour,Theft,10
+2022-01-01,2022,1,A006,Harbour,Vandalism,1
+2022-01-01,2022,1,A007,Industrial,Assault,2
+2022-01-01,2022,1,A007,Industrial,Burglary,5
+2022-01-01,2022,1,A007,Industrial,Drug Offence,4
+2022-01-01,2022,1,A007,Industrial,Fraud,3
+2022-01-01,2022,1,A007,Industrial,Harassment,4
+2022-01-01,2022,1,A007,Industrial,Robbery,2
+2022-01-01,2022,1,A007,Industrial,Theft,9
+2022-01-01,2022,1,A007,Industrial,Vandalism,3
+2022-01-01,2022,1,A008,University,Assault,3
+2022-01-01,2022,1,A008,University,Burglary,5
+2022-01-01,2022,1,A008,University,Drug Offence,1
+2022-01-01,2022,1,A008,University,Fraud,6
+2022-01-01,2022,1,A008,University,Harassment,3
+2022-01-01,2022,1,A008,University,Robbery,1
+2022-01-01,2022,1,A008,University,Theft,5
+2022-01-01,2022,1,A008,University,Vandalism,3
+2022-01-01,2022,1,A009,Market,Assault,9
+2022-01-01,2022,1,A009,Market,Burglary,2
+2022-01-01,2022,1,A009,Market,Drug Offence,1
+2022-01-01,2022,1,A009,Market,Fraud,4
+2022-01-01,2022,1,A009,Market,Harassment,3
+2022-01-01,2022,1,A009,Market,Robbery,5
+2022-01-01,2022,1,A009,Market,Theft,2
+2022-01-01,2022,1,A009,Market,Vandalism,2
+2022-01-01,2022,1,A010,Suburban,Assault,3
+2022-01-01,2022,1,A010,Suburban,Burglary,2
+2022-01-01,2022,1,A010,Suburban,Drug Offence,1
+2022-01-01,2022,1,A010,Suburban,Fraud,5
+2022-01-01,2022,1,A010,Suburban,Harassment,2
+2022-01-01,2022,1,A010,Suburban,Robbery,5
+2022-01-01,2022,1,A010,Suburban,Theft,6
+2022-01-01,2022,1,A010,Suburban,Vandalism,4
+2022-02-01,2022,2,A001,Central,Assault,5
+2022-02-01,2022,2,A001,Central,Burglary,11
+2022-02-01,2022,2,A001,Central,Drug Offence,1
+2022-02-01,2022,2,A001,Central,Fraud,3
+2022-02-01,2022,2,A001,Central,Harassment,1
+2022-02-01,2022,2,A001,Central,Robbery,5
+2022-02-01,2022,2,A001,Central,Theft,9
+2022-02-01,2022,2,A001,Central,Vandalism,4
+2022-02-01,2022,2,A002,North,Assault,4
+2022-02-01,2022,2,A002,North,Burglary,4
+2022-02-01,2022,2,A002,North,Drug Offence,1
+2022-02-01,2022,2,A002,North,Fraud,6
+2022-02-01,2022,2,A002,North,Harassment,5
+2022-02-01,2022,2,A002,North,Robbery,3
+2022-02-01,2022,2,A002,North,Theft,9
+2022-02-01,2022,2,A002,North,Vandalism,4
+2022-02-01,2022,2,A003,South,Assault,7
+2022-02-01,2022,2,A003,South,Burglary,7
+2022-02-01,2022,2,A003,South,Drug Offence,2
+2022-02-01,2022,2,A003,South,Fraud,11
+2022-02-01,2022,2,A003,South,Harassment,2
+2022-02-01,2022,2,A003,South,Robbery,2
+2022-02-01,2022,2,A003,South,Theft,6
+2022-02-01,2022,2,A003,South,Vandalism,1
+2022-02-01,2022,2,A004,East,Assault,6
+2022-02-01,2022,2,A004,East,Burglary,2
+2022-02-01,2022,2,A004,East,Drug Offence,1
+2022-02-01,2022,2,A004,East,Fraud,6
+2022-02-01,2022,2,A004,East,Harassment,2
+2022-02-01,2022,2,A004,East,Robbery,5
+2022-02-01,2022,2,A004,East,Theft,7
+2022-02-01,2022,2,A004,East,Vandalism,1
+2022-02-01,2022,2,A005,West,Assault,3
+2022-02-01,2022,2,A005,West,Burglary,2
+2022-02-01,2022,2,A005,West,Drug Offence,4
+2022-02-01,2022,2,A005,West,Fraud,4
+2022-02-01,2022,2,A005,West,Harassment,3
+2022-02-01,2022,2,A005,West,Robbery,9
+2022-02-01,2022,2,A005,West,Theft,6
+2022-02-01,2022,2,A005,West,Vandalism,2
+2022-02-01,2022,2,A006,Harbour,Assault,2
+2022-02-01,2022,2,A006,Harbour,Burglary,7
+2022-02-01,2022,2,A006,Harbour,Drug Offence,1
+2022-02-01,2022,2,A006,Harbour,Fraud,6
+2022-02-01,2022,2,A006,Harbour,Harassment,1
+2022-02-01,2022,2,A006,Harbour,Robbery,2
+2022-02-01,2022,2,A006,Harbour,Theft,1
+2022-02-01,2022,2,A006,Harbour,Vandalism,2
+2022-02-01,2022,2,A007,Industrial,Assault,3
+2022-02-01,2022,2,A007,Industrial,Burglary,7
+2022-02-01,2022,2,A007,Industrial,Fraud,3
+2022-02-01,2022,2,A007,Industrial,Harassment,3
+2022-02-01,2022,2,A007,Industrial,Robbery,3
+2022-02-01,2022,2,A007,Industrial,Theft,9
+2022-02-01,2022,2,A007,Industrial,Vandalism,1
+2022-02-01,2022,2,A008,University,Assault,2
+2022-02-01,2022,2,A008,University,Burglary,5
+2022-02-01,2022,2,A008,University,Drug Offence,1
+2022-02-01,2022,2,A008,University,Fraud,1
+2022-02-01,2022,2,A008,University,Harassment,1
+2022-02-01,2022,2,A008,University,Robbery,3
+2022-02-01,2022,2,A008,University,Theft,8
+2022-02-01,2022,2,A009,Market,Assault,6
+2022-02-01,2022,2,A009,Market,Burglary,5
+2022-02-01,2022,2,A009,Market,Drug Offence,2
+2022-02-01,2022,2,A009,Market,Fraud,2
+2022-02-01,2022,2,A009,Market,Harassment,3
+2022-02-01,2022,2,A009,Market,Robbery,2
+2022-02-01,2022,2,A009,Market,Theft,8
+2022-02-01,2022,2,A009,Market,Vandalism,1
+2022-02-01,2022,2,A010,Suburban,Assault,3
+2022-02-01,2022,2,A010,Suburban,Burglary,6
+2022-02-01,2022,2,A010,Suburban,Fraud,4
+2022-02-01,2022,2,A010,Suburban,Harassment,1
+2022-02-01,2022,2,A010,Suburban,Theft,6
+2022-02-01,2022,2,A010,Suburban,Vandalism,4
+2022-03-01,2022,3,A001,Central,Assault,8
+2022-03-01,2022,3,A001,Central,Burglary,7
+2022-03-01,2022,3,A001,Central,Drug Offence,3
+2022-03-01,2022,3,A001,Central,Fraud,7
+2022-03-01,2022,3,A001,Central,Harassment,1
+2022-03-01,2022,3,A001,Central,Robbery,8
+2022-03-01,2022,3,A001,Central,Theft,9
+2022-03-01,2022,3,A001,Central,Vandalism,4
+2022-03-01,2022,3,A002,North,Assault,10
+2022-03-01,2022,3,A002,North,Burglary,8
+2022-03-01,2022,3,A002,North,Drug Offence,5
+2022-03-01,2022,3,A002,North,Fraud,11
+2022-03-01,2022,3,A002,North,Robbery,3
+2022-03-01,2022,3,A002,North,Theft,13
+2022-03-01,2022,3,A002,North,Vandalism,1
+2022-03-01,2022,3,A003,South,Assault,7
+2022-03-01,2022,3,A003,South,Burglary,8
+2022-03-01,2022,3,A003,South,Drug Offence,2
+2022-03-01,2022,3,A003,South,Fraud,2
+2022-03-01,2022,3,A003,South,Harassment,3
+2022-03-01,2022,3,A003,South,Robbery,10
+2022-03-01,2022,3,A003,South,Theft,9
+2022-03-01,2022,3,A003,South,Vandalism,2
+2022-03-01,2022,3,A004,East,Assault,10
+2022-03-01,2022,3,A004,East,Burglary,3
+2022-03-01,2022,3,A004,East,Drug Offence,2
+2022-03-01,2022,3,A004,East,Fraud,5
+2022-03-01,2022,3,A004,East,Harassment,1
+2022-03-01,2022,3,A004,East,Robbery,3
+2022-03-01,2022,3,A004,East,Theft,6
+2022-03-01,2022,3,A004,East,Vandalism,2
+2022-03-01,2022,3,A005,West,Assault,5
+2022-03-01,2022,3,A005,West,Burglary,9
+2022-03-01,2022,3,A005,West,Drug Offence,4
+2022-03-01,2022,3,A005,West,Fraud,6
+2022-03-01,2022,3,A005,West,Harassment,2
+2022-03-01,2022,3,A005,West,Robbery,1
+2022-03-01,2022,3,A005,West,Theft,7
+2022-03-01,2022,3,A005,West,Vandalism,5
+2022-03-01,2022,3,A006,Harbour,Assault,3
+2022-03-01,2022,3,A006,Harbour,Burglary,3
+2022-03-01,2022,3,A006,Harbour,Drug Offence,3
+2022-03-01,2022,3,A006,Harbour,Fraud,5
+2022-03-01,2022,3,A006,Harbour,Harassment,2
+2022-03-01,2022,3,A006,Harbour,Robbery,3
+2022-03-01,2022,3,A006,Harbour,Theft,1
+2022-03-01,2022,3,A006,Harbour,Vandalism,2
+2022-03-01,2022,3,A007,Industrial,Assault,6
+2022-03-01,2022,3,A007,Industrial,Burglary,6
+2022-03-01,2022,3,A007,Industrial,Drug Offence,4
+2022-03-01,2022,3,A007,Industrial,Fraud,8
+2022-03-01,2022,3,A007,Industrial,Harassment,3
+2022-03-01,2022,3,A007,Industrial,Robbery,4
+2022-03-01,2022,3,A007,Industrial,Theft,7
+2022-03-01,2022,3,A007,Industrial,Vandalism,4
+2022-03-01,2022,3,A008,University,Assault,4
+2022-03-01,2022,3,A008,University,Burglary,3
+2022-03-01,2022,3,A008,University,Drug Offence,1
+2022-03-01,2022,3,A008,University,Fraud,4
+2022-03-01,2022,3,A008,University,Harassment,4
+2022-03-01,2022,3,A008,University,Robbery,2
+2022-03-01,2022,3,A008,University,Theft,4
+2022-03-01,2022,3,A008,University,Vandalism,3
+2022-03-01,2022,3,A009,Market,Assault,6
+2022-03-01,2022,3,A009,Market,Burglary,4
+2022-03-01,2022,3,A009,Market,Drug Offence,4
+2022-03-01,2022,3,A009,Market,Fraud,4
+2022-03-01,2022,3,A009,Market,Harassment,3
+2022-03-01,2022,3,A009,Market,Robbery,3
+2022-03-01,2022,3,A009,Market,Theft,8
+2022-03-01,2022,3,A009,Market,Vandalism,2
+2022-03-01,2022,3,A010,Suburban,Burglary,4
+2022-03-01,2022,3,A010,Suburban,Drug Offence,1
+2022-03-01,2022,3,A010,Suburban,Fraud,2
+2022-03-01,2022,3,A010,Suburban,Theft,6
+2022-03-01,2022,3,A010,Suburban,Vandalism,1
+2022-04-01,2022,4,A001,Central,Assault,8
+2022-04-01,2022,4,A001,Central,Burglary,5
+2022-04-01,2022,4,A001,Central,Drug Offence,3
+2022-04-01,2022,4,A001,Central,Fraud,8
+2022-04-01,2022,4,A001,Central,Harassment,2
+2022-04-01,2022,4,A001,Central,Robbery,5
+2022-04-01,2022,4,A001,Central,Theft,8
+2022-04-01,2022,4,A001,Central,Vandalism,5
+2022-04-01,2022,4,A002,North,Assault,6
+2022-04-01,2022,4,A002,North,Burglary,6
+2022-04-01,2022,4,A002,North,Drug Offence,5
+2022-04-01,2022,4,A002,North,Fraud,6
+2022-04-01,2022,4,A002,North,Harassment,4
+2022-04-01,2022,4,A002,North,Robbery,5
+2022-04-01,2022,4,A002,North,Theft,12
+2022-04-01,2022,4,A002,North,Vandalism,2
+2022-04-01,2022,4,A003,South,Assault,5
+2022-04-01,2022,4,A003,South,Burglary,9
+2022-04-01,2022,4,A003,South,Drug Offence,3
+2022-04-01,2022,4,A003,South,Fraud,4
+2022-04-01,2022,4,A003,South,Harassment,2
+2022-04-01,2022,4,A003,South,Robbery,1
+2022-04-01,2022,4,A003,South,Theft,10
+2022-04-01,2022,4,A003,South,Vandalism,1
+2022-04-01,2022,4,A004,East,Assault,6
+2022-04-01,2022,4,A004,East,Burglary,7
+2022-04-01,2022,4,A004,East,Drug Offence,2
+2022-04-01,2022,4,A004,East,Fraud,6
+2022-04-01,2022,4,A004,East,Harassment,3
+2022-04-01,2022,4,A004,East,Robbery,4
+2022-04-01,2022,4,A004,East,Theft,8
+2022-04-01,2022,4,A004,East,Vandalism,7
+2022-04-01,2022,4,A005,West,Assault,5
+2022-04-01,2022,4,A005,West,Burglary,4
+2022-04-01,2022,4,A005,West,Drug Offence,5
+2022-04-01,2022,4,A005,West,Fraud,6
+2022-04-01,2022,4,A005,West,Robbery,6
+2022-04-01,2022,4,A005,West,Theft,6
+2022-04-01,2022,4,A005,West,Vandalism,5
+2022-04-01,2022,4,A006,Harbour,Assault,6
+2022-04-01,2022,4,A006,Harbour,Burglary,5
+2022-04-01,2022,4,A006,Harbour,Drug Offence,5
+2022-04-01,2022,4,A006,Harbour,Fraud,4
+2022-04-01,2022,4,A006,Harbour,Harassment,4
+2022-04-01,2022,4,A006,Harbour,Robbery,1
+2022-04-01,2022,4,A006,Harbour,Theft,9
+2022-04-01,2022,4,A006,Harbour,Vandalism,4
+2022-04-01,2022,4,A007,Industrial,Assault,4
+2022-04-01,2022,4,A007,Industrial,Burglary,4
+2022-04-01,2022,4,A007,Industrial,Drug Offence,2
+2022-04-01,2022,4,A007,Industrial,Fraud,4
+2022-04-01,2022,4,A007,Industrial,Harassment,1
+2022-04-01,2022,4,A007,Industrial,Robbery,2
+2022-04-01,2022,4,A007,Industrial,Theft,4
+2022-04-01,2022,4,A007,Industrial,Vandalism,1
+2022-04-01,2022,4,A008,University,Assault,3
+2022-04-01,2022,4,A008,University,Burglary,3
+2022-04-01,2022,4,A008,University,Fraud,5
+2022-04-01,2022,4,A008,University,Harassment,3
+2022-04-01,2022,4,A008,University,Robbery,1
+2022-04-01,2022,4,A008,University,Theft,6
+2022-04-01,2022,4,A008,University,Vandalism,2
+2022-04-01,2022,4,A009,Market,Assault,4
+2022-04-01,2022,4,A009,Market,Burglary,3
+2022-04-01,2022,4,A009,Market,Drug Offence,1
+2022-04-01,2022,4,A009,Market,Fraud,5
+2022-04-01,2022,4,A009,Market,Harassment,5
+2022-04-01,2022,4,A009,Market,Robbery,3
+2022-04-01,2022,4,A009,Market,Theft,3
+2022-04-01,2022,4,A009,Market,Vandalism,3
+2022-04-01,2022,4,A010,Suburban,Assault,1
+2022-04-01,2022,4,A010,Suburban,Burglary,1
+2022-04-01,2022,4,A010,Suburban,Drug Offence,1
+2022-04-01,2022,4,A010,Suburban,Fraud,2
+2022-04-01,2022,4,A010,Suburban,Harassment,3
+2022-04-01,2022,4,A010,Suburban,Robbery,2
+2022-04-01,2022,4,A010,Suburban,Theft,3
+2022-04-01,2022,4,A010,Suburban,Vandalism,1
+2022-05-01,2022,5,A001,Central,Assault,9
+2022-05-01,2022,5,A001,Central,Burglary,8
+2022-05-01,2022,5,A001,Central,Drug Offence,2
+2022-05-01,2022,5,A001,Central,Fraud,4
+2022-05-01,2022,5,A001,Central,Harassment,5
+2022-05-01,2022,5,A001,Central,Robbery,6
+2022-05-01,2022,5,A001,Central,Theft,10
+2022-05-01,2022,5,A001,Central,Vandalism,1
+2022-05-01,2022,5,A002,North,Assault,8
+2022-05-01,2022,5,A002,North,Burglary,8
+2022-05-01,2022,5,A002,North,Drug Offence,1
+2022-05-01,2022,5,A002,North,Fraud,8
+2022-05-01,2022,5,A002,North,Harassment,3
+2022-05-01,2022,5,A002,North,Robbery,8
+2022-05-01,2022,5,A002,North,Theft,10
+2022-05-01,2022,5,A002,North,Vandalism,4
+2022-05-01,2022,5,A003,South,Assault,6
+2022-05-01,2022,5,A003,South,Burglary,4
+2022-05-01,2022,5,A003,South,Drug Offence,3
+2022-05-01,2022,5,A003,South,Fraud,5
+2022-05-01,2022,5,A003,South,Harassment,6
+2022-05-01,2022,5,A003,South,Robbery,5
+2022-05-01,2022,5,A003,South,Theft,4
+2022-05-01,2022,5,A003,South,Vandalism,1
+2022-05-01,2022,5,A004,East,Assault,5
+2022-05-01,2022,5,A004,East,Burglary,4
+2022-05-01,2022,5,A004,East,Drug Offence,1
+2022-05-01,2022,5,A004,East,Fraud,7
+2022-05-01,2022,5,A004,East,Harassment,3
+2022-05-01,2022,5,A004,East,Robbery,7
+2022-05-01,2022,5,A004,East,Theft,9
+2022-05-01,2022,5,A004,East,Vandalism,4
+2022-05-01,2022,5,A005,West,Assault,2
+2022-05-01,2022,5,A005,West,Burglary,6
+2022-05-01,2022,5,A005,West,Drug Offence,5
+2022-05-01,2022,5,A005,West,Fraud,4
+2022-05-01,2022,5,A005,West,Harassment,3
+2022-05-01,2022,5,A005,West,Robbery,3
+2022-05-01,2022,5,A005,West,Theft,15
+2022-05-01,2022,5,A005,West,Vandalism,5
+2022-05-01,2022,5,A006,Harbour,Assault,7
+2022-05-01,2022,5,A006,Harbour,Burglary,1
+2022-05-01,2022,5,A006,Harbour,Drug Offence,2
+2022-05-01,2022,5,A006,Harbour,Fraud,3
+2022-05-01,2022,5,A006,Harbour,Harassment,2
+2022-05-01,2022,5,A006,Harbour,Theft,9
+2022-05-01,2022,5,A006,Harbour,Vandalism,3
+2022-05-01,2022,5,A007,Industrial,Assault,5
+2022-05-01,2022,5,A007,Industrial,Burglary,4
+2022-05-01,2022,5,A007,Industrial,Drug Offence,2
+2022-05-01,2022,5,A007,Industrial,Fraud,7
+2022-05-01,2022,5,A007,Industrial,Harassment,2
+2022-05-01,2022,5,A007,Industrial,Robbery,3
+2022-05-01,2022,5,A007,Industrial,Theft,5
+2022-05-01,2022,5,A007,Industrial,Vandalism,1
+2022-05-01,2022,5,A008,University,Assault,9
+2022-05-01,2022,5,A008,University,Burglary,4
+2022-05-01,2022,5,A008,University,Drug Offence,4
+2022-05-01,2022,5,A008,University,Fraud,3
+2022-05-01,2022,5,A008,University,Harassment,4
+2022-05-01,2022,5,A008,University,Robbery,4
+2022-05-01,2022,5,A008,University,Theft,8
+2022-05-01,2022,5,A008,University,Vandalism,4
+2022-05-01,2022,5,A009,Market,Assault,4
+2022-05-01,2022,5,A009,Market,Burglary,7
+2022-05-01,2022,5,A009,Market,Fraud,2
+2022-05-01,2022,5,A009,Market,Harassment,4
+2022-05-01,2022,5,A009,Market,Robbery,6
+2022-05-01,2022,5,A009,Market,Theft,11
+2022-05-01,2022,5,A009,Market,Vandalism,2
+2022-05-01,2022,5,A010,Suburban,Assault,4
+2022-05-01,2022,5,A010,Suburban,Burglary,3
+2022-05-01,2022,5,A010,Suburban,Drug Offence,1
+2022-05-01,2022,5,A010,Suburban,Harassment,2
+2022-05-01,2022,5,A010,Suburban,Robbery,1
+2022-05-01,2022,5,A010,Suburban,Theft,6
+2022-05-01,2022,5,A010,Suburban,Vandalism,2
+2022-06-01,2022,6,A001,Central,Assault,8
+2022-06-01,2022,6,A001,Central,Burglary,6
+2022-06-01,2022,6,A001,Central,Drug Offence,3
+2022-06-01,2022,6,A001,Central,Fraud,6
+2022-06-01,2022,6,A001,Central,Harassment,2
+2022-06-01,2022,6,A001,Central,Robbery,1
+2022-06-01,2022,6,A001,Central,Theft,13
+2022-06-01,2022,6,A001,Central,Vandalism,3
+2022-06-01,2022,6,A002,North,Assault,8
+2022-06-01,2022,6,A002,North,Burglary,5
+2022-06-01,2022,6,A002,North,Drug Offence,5
+2022-06-01,2022,6,A002,North,Fraud,5
+2022-06-01,2022,6,A002,North,Harassment,2
+2022-06-01,2022,6,A002,North,Robbery,1
+2022-06-01,2022,6,A002,North,Theft,19
+2022-06-01,2022,6,A002,North,Vandalism,2
+2022-06-01,2022,6,A003,South,Assault,8
+2022-06-01,2022,6,A003,South,Burglary,5
+2022-06-01,2022,6,A003,South,Drug Offence,6
+2022-06-01,2022,6,A003,South,Fraud,8
+2022-06-01,2022,6,A003,South,Harassment,3
+2022-06-01,2022,6,A003,South,Robbery,3
+2022-06-01,2022,6,A003,South,Theft,8
+2022-06-01,2022,6,A003,South,Vandalism,2
+2022-06-01,2022,6,A004,East,Assault,4
+2022-06-01,2022,6,A004,East,Burglary,6
+2022-06-01,2022,6,A004,East,Drug Offence,3
+2022-06-01,2022,6,A004,East,Fraud,6
+2022-06-01,2022,6,A004,East,Harassment,2
+2022-06-01,2022,6,A004,East,Robbery,2
+2022-06-01,2022,6,A004,East,Theft,9
+2022-06-01,2022,6,A004,East,Vandalism,3
+2022-06-01,2022,6,A005,West,Assault,5
+2022-06-01,2022,6,A005,West,Burglary,3
+2022-06-01,2022,6,A005,West,Drug Offence,4
+2022-06-01,2022,6,A005,West,Fraud,3
+2022-06-01,2022,6,A005,West,Harassment,4
+2022-06-01,2022,6,A005,West,Robbery,2
+2022-06-01,2022,6,A005,West,Theft,8
+2022-06-01,2022,6,A005,West,Vandalism,1
+2022-06-01,2022,6,A006,Harbour,Assault,3
+2022-06-01,2022,6,A006,Harbour,Burglary,3
+2022-06-01,2022,6,A006,Harbour,Fraud,2
+2022-06-01,2022,6,A006,Harbour,Harassment,2
+2022-06-01,2022,6,A006,Harbour,Robbery,2
+2022-06-01,2022,6,A006,Harbour,Theft,3
+2022-06-01,2022,6,A006,Harbour,Vandalism,2
+2022-06-01,2022,6,A007,Industrial,Assault,1
+2022-06-01,2022,6,A007,Industrial,Burglary,7
+2022-06-01,2022,6,A007,Industrial,Drug Offence,3
+2022-06-01,2022,6,A007,Industrial,Fraud,7
+2022-06-01,2022,6,A007,Industrial,Harassment,1
+2022-06-01,2022,6,A007,Industrial,Robbery,1
+2022-06-01,2022,6,A007,Industrial,Theft,11
+2022-06-01,2022,6,A007,Industrial,Vandalism,1
+2022-06-01,2022,6,A008,University,Assault,7
+2022-06-01,2022,6,A008,University,Burglary,5
+2022-06-01,2022,6,A008,University,Drug Offence,2
+2022-06-01,2022,6,A008,University,Fraud,5
+2022-06-01,2022,6,A008,University,Harassment,6
+2022-06-01,2022,6,A008,University,Robbery,4
+2022-06-01,2022,6,A008,University,Theft,5
+2022-06-01,2022,6,A008,University,Vandalism,4
+2022-06-01,2022,6,A009,Market,Assault,3
+2022-06-01,2022,6,A009,Market,Burglary,7
+2022-06-01,2022,6,A009,Market,Drug Offence,3
+2022-06-01,2022,6,A009,Market,Fraud,7
+2022-06-01,2022,6,A009,Market,Harassment,2
+2022-06-01,2022,6,A009,Market,Robbery,3
+2022-06-01,2022,6,A009,Market,Theft,8
+2022-06-01,2022,6,A009,Market,Vandalism,5
+2022-06-01,2022,6,A010,Suburban,Assault,4
+2022-06-01,2022,6,A010,Suburban,Burglary,4
+2022-06-01,2022,6,A010,Suburban,Drug Offence,2
+2022-06-01,2022,6,A010,Suburban,Fraud,9
+2022-06-01,2022,6,A010,Suburban,Harassment,3
+2022-06-01,2022,6,A010,Suburban,Robbery,1
+2022-06-01,2022,6,A010,Suburban,Theft,6
+2022-06-01,2022,6,A010,Suburban,Vandalism,2
+2022-07-01,2022,7,A001,Central,Assault,4
+2022-07-01,2022,7,A001,Central,Burglary,8
+2022-07-01,2022,7,A001,Central,Drug Offence,2
+2022-07-01,2022,7,A001,Central,Fraud,8
+2022-07-01,2022,7,A001,Central,Harassment,2
+2022-07-01,2022,7,A001,Central,Robbery,3
+2022-07-01,2022,7,A001,Central,Theft,5
+2022-07-01,2022,7,A001,Central,Vandalism,1
+2022-07-01,2022,7,A002,North,Assault,11
+2022-07-01,2022,7,A002,North,Burglary,6
+2022-07-01,2022,7,A002,North,Drug Offence,4
+2022-07-01,2022,7,A002,North,Fraud,6
+2022-07-01,2022,7,A002,North,Harassment,5
+2022-07-01,2022,7,A002,North,Robbery,4
+2022-07-01,2022,7,A002,North,Theft,12
+2022-07-01,2022,7,A002,North,Vandalism,2
+2022-07-01,2022,7,A003,South,Assault,6
+2022-07-01,2022,7,A003,South,Burglary,5
+2022-07-01,2022,7,A003,South,Drug Offence,2
+2022-07-01,2022,7,A003,South,Fraud,4
+2022-07-01,2022,7,A003,South,Harassment,2
+2022-07-01,2022,7,A003,South,Robbery,3
+2022-07-01,2022,7,A003,South,Theft,13
+2022-07-01,2022,7,A003,South,Vandalism,5
+2022-07-01,2022,7,A004,East,Assault,5
+2022-07-01,2022,7,A004,East,Burglary,6
+2022-07-01,2022,7,A004,East,Drug Offence,4
+2022-07-01,2022,7,A004,East,Fraud,10
+2022-07-01,2022,7,A004,East,Harassment,4
+2022-07-01,2022,7,A004,East,Robbery,2
+2022-07-01,2022,7,A004,East,Theft,6
+2022-07-01,2022,7,A004,East,Vandalism,8
+2022-07-01,2022,7,A005,West,Assault,10
+2022-07-01,2022,7,A005,West,Burglary,2
+2022-07-01,2022,7,A005,West,Drug Offence,1
+2022-07-01,2022,7,A005,West,Fraud,6
+2022-07-01,2022,7,A005,West,Harassment,1
+2022-07-01,2022,7,A005,West,Robbery,3
+2022-07-01,2022,7,A005,West,Theft,7
+2022-07-01,2022,7,A005,West,Vandalism,4
+2022-07-01,2022,7,A006,Harbour,Assault,3
+2022-07-01,2022,7,A006,Harbour,Burglary,2
+2022-07-01,2022,7,A006,Harbour,Fraud,4
+2022-07-01,2022,7,A006,Harbour,Harassment,1
+2022-07-01,2022,7,A006,Harbour,Robbery,4
+2022-07-01,2022,7,A006,Harbour,Theft,8
+2022-07-01,2022,7,A006,Harbour,Vandalism,2
+2022-07-01,2022,7,A007,Industrial,Assault,3
+2022-07-01,2022,7,A007,Industrial,Burglary,3
+2022-07-01,2022,7,A007,Industrial,Drug Offence,1
+2022-07-01,2022,7,A007,Industrial,Fraud,2
+2022-07-01,2022,7,A007,Industrial,Harassment,6
+2022-07-01,2022,7,A007,Industrial,Robbery,2
+2022-07-01,2022,7,A007,Industrial,Theft,3
+2022-07-01,2022,7,A007,Industrial,Vandalism,1
+2022-07-01,2022,7,A008,University,Assault,3
+2022-07-01,2022,7,A008,University,Burglary,5
+2022-07-01,2022,7,A008,University,Drug Offence,1
+2022-07-01,2022,7,A008,University,Fraud,3
+2022-07-01,2022,7,A008,University,Robbery,3
+2022-07-01,2022,7,A008,University,Theft,4
+2022-07-01,2022,7,A008,University,Vandalism,3
+2022-07-01,2022,7,A009,Market,Assault,7
+2022-07-01,2022,7,A009,Market,Burglary,7
+2022-07-01,2022,7,A009,Market,Drug Offence,5
+2022-07-01,2022,7,A009,Market,Fraud,4
+2022-07-01,2022,7,A009,Market,Robbery,5
+2022-07-01,2022,7,A009,Market,Theft,7
+2022-07-01,2022,7,A009,Market,Vandalism,1
+2022-07-01,2022,7,A010,Suburban,Assault,3
+2022-07-01,2022,7,A010,Suburban,Burglary,7
+2022-07-01,2022,7,A010,Suburban,Drug Offence,2
+2022-07-01,2022,7,A010,Suburban,Fraud,4
+2022-07-01,2022,7,A010,Suburban,Harassment,3
+2022-07-01,2022,7,A010,Suburban,Robbery,4
+2022-07-01,2022,7,A010,Suburban,Theft,7
+2022-07-01,2022,7,A010,Suburban,Vandalism,2
+2022-08-01,2022,8,A001,Central,Assault,6
+2022-08-01,2022,8,A001,Central,Burglary,7
+2022-08-01,2022,8,A001,Central,Drug Offence,3
+2022-08-01,2022,8,A001,Central,Fraud,2
+2022-08-01,2022,8,A001,Central,Harassment,3
+2022-08-01,2022,8,A001,Central,Robbery,5
+2022-08-01,2022,8,A001,Central,Theft,9
+2022-08-01,2022,8,A001,Central,Vandalism,3
+2022-08-01,2022,8,A002,North,Assault,6
+2022-08-01,2022,8,A002,North,Burglary,6
+2022-08-01,2022,8,A002,North,Drug Offence,3
+2022-08-01,2022,8,A002,North,Fraud,9
+2022-08-01,2022,8,A002,North,Harassment,4
+2022-08-01,2022,8,A002,North,Robbery,5
+2022-08-01,2022,8,A002,North,Theft,8
+2022-08-01,2022,8,A002,North,Vandalism,4
+2022-08-01,2022,8,A003,South,Assault,11
+2022-08-01,2022,8,A003,South,Burglary,6
+2022-08-01,2022,8,A003,South,Fraud,1
+2022-08-01,2022,8,A003,South,Harassment,3
+2022-08-01,2022,8,A003,South,Robbery,6
+2022-08-01,2022,8,A003,South,Theft,8
+2022-08-01,2022,8,A003,South,Vandalism,3
+2022-08-01,2022,8,A004,East,Assault,5
+2022-08-01,2022,8,A004,East,Burglary,5
+2022-08-01,2022,8,A004,East,Drug Offence,4
+2022-08-01,2022,8,A004,East,Fraud,4
+2022-08-01,2022,8,A004,East,Harassment,2
+2022-08-01,2022,8,A004,East,Robbery,3
+2022-08-01,2022,8,A004,East,Theft,11
+2022-08-01,2022,8,A004,East,Vandalism,2
+2022-08-01,2022,8,A005,West,Assault,3
+2022-08-01,2022,8,A005,West,Burglary,2
+2022-08-01,2022,8,A005,West,Drug Offence,2
+2022-08-01,2022,8,A005,West,Fraud,6
+2022-08-01,2022,8,A005,West,Harassment,3
+2022-08-01,2022,8,A005,West,Robbery,4
+2022-08-01,2022,8,A005,West,Theft,3
+2022-08-01,2022,8,A005,West,Vandalism,4
+2022-08-01,2022,8,A006,Harbour,Assault,5
+2022-08-01,2022,8,A006,Harbour,Burglary,6
+2022-08-01,2022,8,A006,Harbour,Drug Offence,3
+2022-08-01,2022,8,A006,Harbour,Fraud,1
+2022-08-01,2022,8,A006,Harbour,Harassment,2
+2022-08-01,2022,8,A006,Harbour,Robbery,5
+2022-08-01,2022,8,A006,Harbour,Theft,5
+2022-08-01,2022,8,A006,Harbour,Vandalism,1
+2022-08-01,2022,8,A007,Industrial,Fraud,7
+2022-08-01,2022,8,A007,Industrial,Harassment,2
+2022-08-01,2022,8,A007,Industrial,Robbery,3
+2022-08-01,2022,8,A007,Industrial,Theft,7
+2022-08-01,2022,8,A007,Industrial,Vandalism,1
+2022-08-01,2022,8,A008,University,Assault,4
+2022-08-01,2022,8,A008,University,Burglary,8
+2022-08-01,2022,8,A008,University,Drug Offence,4
+2022-08-01,2022,8,A008,University,Fraud,5
+2022-08-01,2022,8,A008,University,Harassment,1
+2022-08-01,2022,8,A008,University,Robbery,2
+2022-08-01,2022,8,A008,University,Theft,10
+2022-08-01,2022,8,A008,University,Vandalism,1
+2022-08-01,2022,8,A009,Market,Assault,6
+2022-08-01,2022,8,A009,Market,Burglary,5
+2022-08-01,2022,8,A009,Market,Drug Offence,4
+2022-08-01,2022,8,A009,Market,Fraud,6
+2022-08-01,2022,8,A009,Market,Robbery,2
+2022-08-01,2022,8,A009,Market,Theft,7
+2022-08-01,2022,8,A009,Market,Vandalism,3
+2022-08-01,2022,8,A010,Suburban,Assault,6
+2022-08-01,2022,8,A010,Suburban,Burglary,6
+2022-08-01,2022,8,A010,Suburban,Drug Offence,2
+2022-08-01,2022,8,A010,Suburban,Fraud,7
+2022-08-01,2022,8,A010,Suburban,Harassment,1
+2022-08-01,2022,8,A010,Suburban,Robbery,1
+2022-08-01,2022,8,A010,Suburban,Theft,3
+2022-08-01,2022,8,A010,Suburban,Vandalism,1
+2022-09-01,2022,9,A001,Central,Assault,3
+2022-09-01,2022,9,A001,Central,Burglary,5
+2022-09-01,2022,9,A001,Central,Drug Offence,4
+2022-09-01,2022,9,A001,Central,Fraud,5
+2022-09-01,2022,9,A001,Central,Harassment,2
+2022-09-01,2022,9,A001,Central,Robbery,4
+2022-09-01,2022,9,A001,Central,Theft,11
+2022-09-01,2022,9,A001,Central,Vandalism,6
+2022-09-01,2022,9,A002,North,Assault,2
+2022-09-01,2022,9,A002,North,Burglary,3
+2022-09-01,2022,9,A002,North,Drug Offence,6
+2022-09-01,2022,9,A002,North,Fraud,3
+2022-09-01,2022,9,A002,North,Harassment,2
+2022-09-01,2022,9,A002,North,Robbery,4
+2022-09-01,2022,9,A002,North,Theft,5
+2022-09-01,2022,9,A002,North,Vandalism,5
+2022-09-01,2022,9,A003,South,Assault,7
+2022-09-01,2022,9,A003,South,Burglary,5
+2022-09-01,2022,9,A003,South,Drug Offence,3
+2022-09-01,2022,9,A003,South,Fraud,8
+2022-09-01,2022,9,A003,South,Harassment,4
+2022-09-01,2022,9,A003,South,Robbery,3
+2022-09-01,2022,9,A003,South,Theft,5
+2022-09-01,2022,9,A003,South,Vandalism,2
+2022-09-01,2022,9,A004,East,Assault,5
+2022-09-01,2022,9,A004,East,Burglary,5
+2022-09-01,2022,9,A004,East,Drug Offence,3
+2022-09-01,2022,9,A004,East,Fraud,9
+2022-09-01,2022,9,A004,East,Harassment,4
+2022-09-01,2022,9,A004,East,Robbery,1
+2022-09-01,2022,9,A004,East,Theft,8
+2022-09-01,2022,9,A004,East,Vandalism,4
+2022-09-01,2022,9,A005,West,Assault,5
+2022-09-01,2022,9,A005,West,Burglary,1
+2022-09-01,2022,9,A005,West,Drug Offence,1
+2022-09-01,2022,9,A005,West,Fraud,3
+2022-09-01,2022,9,A005,West,Harassment,3
+2022-09-01,2022,9,A005,West,Theft,6
+2022-09-01,2022,9,A005,West,Vandalism,1
+2022-09-01,2022,9,A006,Harbour,Assault,4
+2022-09-01,2022,9,A006,Harbour,Burglary,3
+2022-09-01,2022,9,A006,Harbour,Drug Offence,2
+2022-09-01,2022,9,A006,Harbour,Fraud,2
+2022-09-01,2022,9,A006,Harbour,Harassment,5
+2022-09-01,2022,9,A006,Harbour,Robbery,1
+2022-09-01,2022,9,A006,Harbour,Theft,4
+2022-09-01,2022,9,A006,Harbour,Vandalism,2
+2022-09-01,2022,9,A007,Industrial,Assault,10
+2022-09-01,2022,9,A007,Industrial,Burglary,2
+2022-09-01,2022,9,A007,Industrial,Drug Offence,3
+2022-09-01,2022,9,A007,Industrial,Fraud,3
+2022-09-01,2022,9,A007,Industrial,Robbery,2
+2022-09-01,2022,9,A007,Industrial,Theft,7
+2022-09-01,2022,9,A007,Industrial,Vandalism,2
+2022-09-01,2022,9,A008,University,Assault,4
+2022-09-01,2022,9,A008,University,Burglary,4
+2022-09-01,2022,9,A008,University,Drug Offence,5
+2022-09-01,2022,9,A008,University,Fraud,4
+2022-09-01,2022,9,A008,University,Harassment,5
+2022-09-01,2022,9,A008,University,Robbery,4
+2022-09-01,2022,9,A008,University,Theft,10
+2022-09-01,2022,9,A008,University,Vandalism,3
+2022-09-01,2022,9,A009,Market,Assault,5
+2022-09-01,2022,9,A009,Market,Burglary,2
+2022-09-01,2022,9,A009,Market,Drug Offence,2
+2022-09-01,2022,9,A009,Market,Fraud,3
+2022-09-01,2022,9,A009,Market,Harassment,2
+2022-09-01,2022,9,A009,Market,Robbery,6
+2022-09-01,2022,9,A009,Market,Theft,7
+2022-09-01,2022,9,A009,Market,Vandalism,4
+2022-09-01,2022,9,A010,Suburban,Assault,5
+2022-09-01,2022,9,A010,Suburban,Burglary,1
+2022-09-01,2022,9,A010,Suburban,Drug Offence,2
+2022-09-01,2022,9,A010,Suburban,Fraud,3
+2022-09-01,2022,9,A010,Suburban,Harassment,1
+2022-09-01,2022,9,A010,Suburban,Robbery,5
+2022-09-01,2022,9,A010,Suburban,Theft,4
+2022-09-01,2022,9,A010,Suburban,Vandalism,2
+2022-10-01,2022,10,A001,Central,Assault,6
+2022-10-01,2022,10,A001,Central,Burglary,4
+2022-10-01,2022,10,A001,Central,Drug Offence,3
+2022-10-01,2022,10,A001,Central,Fraud,5
+2022-10-01,2022,10,A001,Central,Harassment,4
+2022-10-01,2022,10,A001,Central,Robbery,5
+2022-10-01,2022,10,A001,Central,Theft,10
+2022-10-01,2022,10,A001,Central,Vandalism,5
+2022-10-01,2022,10,A002,North,Assault,4
+2022-10-01,2022,10,A002,North,Burglary,6
+2022-10-01,2022,10,A002,North,Drug Offence,1
+2022-10-01,2022,10,A002,North,Fraud,5
+2022-10-01,2022,10,A002,North,Robbery,7
+2022-10-01,2022,10,A002,North,Theft,8
+2022-10-01,2022,10,A002,North,Vandalism,4
+2022-10-01,2022,10,A003,South,Assault,7
+2022-10-01,2022,10,A003,South,Burglary,5
+2022-10-01,2022,10,A003,South,Drug Offence,3
+2022-10-01,2022,10,A003,South,Fraud,8
+2022-10-01,2022,10,A003,South,Harassment,3
+2022-10-01,2022,10,A003,South,Robbery,1
+2022-10-01,2022,10,A003,South,Theft,5
+2022-10-01,2022,10,A003,South,Vandalism,4
+2022-10-01,2022,10,A004,East,Assault,7
+2022-10-01,2022,10,A004,East,Burglary,8
+2022-10-01,2022,10,A004,East,Drug Offence,4
+2022-10-01,2022,10,A004,East,Fraud,5
+2022-10-01,2022,10,A004,East,Harassment,1
+2022-10-01,2022,10,A004,East,Robbery,7
+2022-10-01,2022,10,A004,East,Theft,8
+2022-10-01,2022,10,A004,East,Vandalism,2
+2022-10-01,2022,10,A005,West,Assault,2
+2022-10-01,2022,10,A005,West,Burglary,6
+2022-10-01,2022,10,A005,West,Drug Offence,2
+2022-10-01,2022,10,A005,West,Fraud,4
+2022-10-01,2022,10,A005,West,Harassment,1
+2022-10-01,2022,10,A005,West,Robbery,7
+2022-10-01,2022,10,A005,West,Theft,7
+2022-10-01,2022,10,A005,West,Vandalism,6
+2022-10-01,2022,10,A006,Harbour,Assault,1
+2022-10-01,2022,10,A006,Harbour,Burglary,3
+2022-10-01,2022,10,A006,Harbour,Drug Offence,2
+2022-10-01,2022,10,A006,Harbour,Fraud,5
+2022-10-01,2022,10,A006,Harbour,Harassment,1
+2022-10-01,2022,10,A006,Harbour,Robbery,5
+2022-10-01,2022,10,A006,Harbour,Theft,6
+2022-10-01,2022,10,A006,Harbour,Vandalism,3
+2022-10-01,2022,10,A007,Industrial,Assault,6
+2022-10-01,2022,10,A007,Industrial,Burglary,4
+2022-10-01,2022,10,A007,Industrial,Drug Offence,3
+2022-10-01,2022,10,A007,Industrial,Fraud,3
+2022-10-01,2022,10,A007,Industrial,Harassment,1
+2022-10-01,2022,10,A007,Industrial,Robbery,4
+2022-10-01,2022,10,A007,Industrial,Theft,8
+2022-10-01,2022,10,A007,Industrial,Vandalism,4
+2022-10-01,2022,10,A008,University,Assault,7
+2022-10-01,2022,10,A008,University,Burglary,5
+2022-10-01,2022,10,A008,University,Drug Offence,3
+2022-10-01,2022,10,A008,University,Fraud,5
+2022-10-01,2022,10,A008,University,Robbery,8
+2022-10-01,2022,10,A008,University,Theft,5
+2022-10-01,2022,10,A008,University,Vandalism,3
+2022-10-01,2022,10,A009,Market,Assault,4
+2022-10-01,2022,10,A009,Market,Burglary,5
+2022-10-01,2022,10,A009,Market,Drug Offence,3
+2022-10-01,2022,10,A009,Market,Fraud,5
+2022-10-01,2022,10,A009,Market,Robbery,3
+2022-10-01,2022,10,A009,Market,Theft,3
+2022-10-01,2022,10,A009,Market,Vandalism,3
+2022-10-01,2022,10,A010,Suburban,Assault,5
+2022-10-01,2022,10,A010,Suburban,Burglary,5
+2022-10-01,2022,10,A010,Suburban,Drug Offence,1
+2022-10-01,2022,10,A010,Suburban,Fraud,3
+2022-10-01,2022,10,A010,Suburban,Robbery,7
+2022-10-01,2022,10,A010,Suburban,Theft,4
+2022-10-01,2022,10,A010,Suburban,Vandalism,1
+2022-11-01,2022,11,A001,Central,Assault,4
+2022-11-01,2022,11,A001,Central,Burglary,10
+2022-11-01,2022,11,A001,Central,Drug Offence,2
+2022-11-01,2022,11,A001,Central,Fraud,4
+2022-11-01,2022,11,A001,Central,Harassment,6
+2022-11-01,2022,11,A001,Central,Robbery,6
+2022-11-01,2022,11,A001,Central,Theft,9
+2022-11-01,2022,11,A001,Central,Vandalism,2
+2022-11-01,2022,11,A002,North,Assault,6
+2022-11-01,2022,11,A002,North,Burglary,4
+2022-11-01,2022,11,A002,North,Drug Offence,3
+2022-11-01,2022,11,A002,North,Fraud,4
+2022-11-01,2022,11,A002,North,Harassment,4
+2022-11-01,2022,11,A002,North,Robbery,7
+2022-11-01,2022,11,A002,North,Theft,8
+2022-11-01,2022,11,A002,North,Vandalism,3
+2022-11-01,2022,11,A003,South,Assault,6
+2022-11-01,2022,11,A003,South,Burglary,7
+2022-11-01,2022,11,A003,South,Drug Offence,4
+2022-11-01,2022,11,A003,South,Fraud,1
+2022-11-01,2022,11,A003,South,Harassment,1
+2022-11-01,2022,11,A003,South,Robbery,3
+2022-11-01,2022,11,A003,South,Theft,8
+2022-11-01,2022,11,A003,South,Vandalism,4
+2022-11-01,2022,11,A004,East,Assault,9
+2022-11-01,2022,11,A004,East,Burglary,5
+2022-11-01,2022,11,A004,East,Drug Offence,2
+2022-11-01,2022,11,A004,East,Fraud,10
+2022-11-01,2022,11,A004,East,Harassment,6
+2022-11-01,2022,11,A004,East,Robbery,8
+2022-11-01,2022,11,A004,East,Theft,13
+2022-11-01,2022,11,A004,East,Vandalism,1
+2022-11-01,2022,11,A005,West,Assault,5
+2022-11-01,2022,11,A005,West,Burglary,3
+2022-11-01,2022,11,A005,West,Drug Offence,5
+2022-11-01,2022,11,A005,West,Fraud,7
+2022-11-01,2022,11,A005,West,Harassment,4
+2022-11-01,2022,11,A005,West,Robbery,4
+2022-11-01,2022,11,A005,West,Theft,14
+2022-11-01,2022,11,A005,West,Vandalism,3
+2022-11-01,2022,11,A006,Harbour,Assault,8
+2022-11-01,2022,11,A006,Harbour,Burglary,2
+2022-11-01,2022,11,A006,Harbour,Drug Offence,2
+2022-11-01,2022,11,A006,Harbour,Fraud,4
+2022-11-01,2022,11,A006,Harbour,Robbery,4
+2022-11-01,2022,11,A006,Harbour,Theft,3
+2022-11-01,2022,11,A006,Harbour,Vandalism,3
+2022-11-01,2022,11,A007,Industrial,Assault,6
+2022-11-01,2022,11,A007,Industrial,Burglary,2
+2022-11-01,2022,11,A007,Industrial,Fraud,7
+2022-11-01,2022,11,A007,Industrial,Harassment,4
+2022-11-01,2022,11,A007,Industrial,Robbery,2
+2022-11-01,2022,11,A007,Industrial,Theft,11
+2022-11-01,2022,11,A007,Industrial,Vandalism,2
+2022-11-01,2022,11,A008,University,Assault,5
+2022-11-01,2022,11,A008,University,Burglary,1
+2022-11-01,2022,11,A008,University,Drug Offence,1
+2022-11-01,2022,11,A008,University,Fraud,1
+2022-11-01,2022,11,A008,University,Harassment,1
+2022-11-01,2022,11,A008,University,Robbery,1
+2022-11-01,2022,11,A008,University,Theft,8
+2022-11-01,2022,11,A008,University,Vandalism,1
+2022-11-01,2022,11,A009,Market,Assault,6
+2022-11-01,2022,11,A009,Market,Burglary,4
+2022-11-01,2022,11,A009,Market,Drug Offence,1
+2022-11-01,2022,11,A009,Market,Fraud,5
+2022-11-01,2022,11,A009,Market,Harassment,2
+2022-11-01,2022,11,A009,Market,Robbery,7
+2022-11-01,2022,11,A009,Market,Theft,8
+2022-11-01,2022,11,A009,Market,Vandalism,3
+2022-11-01,2022,11,A010,Suburban,Assault,3
+2022-11-01,2022,11,A010,Suburban,Burglary,5
+2022-11-01,2022,11,A010,Suburban,Drug Offence,2
+2022-11-01,2022,11,A010,Suburban,Fraud,2
+2022-11-01,2022,11,A010,Suburban,Harassment,1
+2022-11-01,2022,11,A010,Suburban,Robbery,2
+2022-11-01,2022,11,A010,Suburban,Theft,5
+2022-11-01,2022,11,A010,Suburban,Vandalism,3
+2022-12-01,2022,12,A001,Central,Assault,8
+2022-12-01,2022,12,A001,Central,Burglary,9
+2022-12-01,2022,12,A001,Central,Drug Offence,4
+2022-12-01,2022,12,A001,Central,Fraud,7
+2022-12-01,2022,12,A001,Central,Harassment,2
+2022-12-01,2022,12,A001,Central,Robbery,2
+2022-12-01,2022,12,A001,Central,Theft,8
+2022-12-01,2022,12,A001,Central,Vandalism,3
+2022-12-01,2022,12,A002,North,Assault,1
+2022-12-01,2022,12,A002,North,Burglary,7
+2022-12-01,2022,12,A002,North,Drug Offence,1
+2022-12-01,2022,12,A002,North,Fraud,6
+2022-12-01,2022,12,A002,North,Robbery,2
+2022-12-01,2022,12,A002,North,Theft,4
+2022-12-01,2022,12,A002,North,Vandalism,1
+2022-12-01,2022,12,A003,South,Assault,8
+2022-12-01,2022,12,A003,South,Burglary,5
+2022-12-01,2022,12,A003,South,Drug Offence,4
+2022-12-01,2022,12,A003,South,Fraud,4
+2022-12-01,2022,12,A003,South,Harassment,4
+2022-12-01,2022,12,A003,South,Robbery,3
+2022-12-01,2022,12,A003,South,Theft,9
+2022-12-01,2022,12,A003,South,Vandalism,4
+2022-12-01,2022,12,A004,East,Assault,8
+2022-12-01,2022,12,A004,East,Burglary,5
+2022-12-01,2022,12,A004,East,Drug Offence,1
+2022-12-01,2022,12,A004,East,Fraud,7
+2022-12-01,2022,12,A004,East,Harassment,6
+2022-12-01,2022,12,A004,East,Robbery,5
+2022-12-01,2022,12,A004,East,Theft,11
+2022-12-01,2022,12,A004,East,Vandalism,6
+2022-12-01,2022,12,A005,West,Assault,6
+2022-12-01,2022,12,A005,West,Burglary,5
+2022-12-01,2022,12,A005,West,Drug Offence,3
+2022-12-01,2022,12,A005,West,Fraud,4
+2022-12-01,2022,12,A005,West,Harassment,4
+2022-12-01,2022,12,A005,West,Robbery,3
+2022-12-01,2022,12,A005,West,Theft,12
+2022-12-01,2022,12,A005,West,Vandalism,3
+2022-12-01,2022,12,A006,Harbour,Assault,2
+2022-12-01,2022,12,A006,Harbour,Burglary,1
+2022-12-01,2022,12,A006,Harbour,Drug Offence,1
+2022-12-01,2022,12,A006,Harbour,Fraud,6
+2022-12-01,2022,12,A006,Harbour,Harassment,3
+2022-12-01,2022,12,A006,Harbour,Robbery,3
+2022-12-01,2022,12,A006,Harbour,Theft,6
+2022-12-01,2022,12,A007,Industrial,Assault,5
+2022-12-01,2022,12,A007,Industrial,Burglary,2
+2022-12-01,2022,12,A007,Industrial,Drug Offence,2
+2022-12-01,2022,12,A007,Industrial,Fraud,3
+2022-12-01,2022,12,A007,Industrial,Harassment,5
+2022-12-01,2022,12,A007,Industrial,Robbery,3
+2022-12-01,2022,12,A007,Industrial,Theft,10
+2022-12-01,2022,12,A007,Industrial,Vandalism,4
+2022-12-01,2022,12,A008,University,Assault,7
+2022-12-01,2022,12,A008,University,Burglary,1
+2022-12-01,2022,12,A008,University,Drug Offence,2
+2022-12-01,2022,12,A008,University,Fraud,3
+2022-12-01,2022,12,A008,University,Harassment,3
+2022-12-01,2022,12,A008,University,Robbery,1
+2022-12-01,2022,12,A008,University,Theft,1
+2022-12-01,2022,12,A008,University,Vandalism,1
+2022-12-01,2022,12,A009,Market,Assault,3
+2022-12-01,2022,12,A009,Market,Burglary,3
+2022-12-01,2022,12,A009,Market,Drug Offence,2
+2022-12-01,2022,12,A009,Market,Fraud,7
+2022-12-01,2022,12,A009,Market,Harassment,1
+2022-12-01,2022,12,A009,Market,Robbery,2
+2022-12-01,2022,12,A009,Market,Theft,3
+2022-12-01,2022,12,A009,Market,Vandalism,3
+2022-12-01,2022,12,A010,Suburban,Assault,6
+2022-12-01,2022,12,A010,Suburban,Burglary,3
+2022-12-01,2022,12,A010,Suburban,Drug Offence,1
+2022-12-01,2022,12,A010,Suburban,Fraud,5
+2022-12-01,2022,12,A010,Suburban,Robbery,6
+2022-12-01,2022,12,A010,Suburban,Theft,3
+2022-12-01,2022,12,A010,Suburban,Vandalism,1
+2023-01-01,2023,1,A001,Central,Assault,6
+2023-01-01,2023,1,A001,Central,Burglary,2
+2023-01-01,2023,1,A001,Central,Drug Offence,7
+2023-01-01,2023,1,A001,Central,Fraud,8
+2023-01-01,2023,1,A001,Central,Harassment,5
+2023-01-01,2023,1,A001,Central,Robbery,5
+2023-01-01,2023,1,A001,Central,Theft,11
+2023-01-01,2023,1,A001,Central,Vandalism,5
+2023-01-01,2023,1,A002,North,Assault,9
+2023-01-01,2023,1,A002,North,Burglary,5
+2023-01-01,2023,1,A002,North,Drug Offence,1
+2023-01-01,2023,1,A002,North,Fraud,6
+2023-01-01,2023,1,A002,North,Harassment,3
+2023-01-01,2023,1,A002,North,Robbery,4
+2023-01-01,2023,1,A002,North,Theft,12
+2023-01-01,2023,1,A002,North,Vandalism,1
+2023-01-01,2023,1,A003,South,Assault,2
+2023-01-01,2023,1,A003,South,Burglary,1
+2023-01-01,2023,1,A003,South,Drug Offence,1
+2023-01-01,2023,1,A003,South,Fraud,7
+2023-01-01,2023,1,A003,South,Harassment,4
+2023-01-01,2023,1,A003,South,Robbery,2
+2023-01-01,2023,1,A003,South,Theft,5
+2023-01-01,2023,1,A004,East,Assault,4
+2023-01-01,2023,1,A004,East,Burglary,9
+2023-01-01,2023,1,A004,East,Drug Offence,1
+2023-01-01,2023,1,A004,East,Fraud,8
+2023-01-01,2023,1,A004,East,Harassment,5
+2023-01-01,2023,1,A004,East,Robbery,3
+2023-01-01,2023,1,A004,East,Theft,7
+2023-01-01,2023,1,A004,East,Vandalism,3
+2023-01-01,2023,1,A005,West,Burglary,4
+2023-01-01,2023,1,A005,West,Drug Offence,2
+2023-01-01,2023,1,A005,West,Fraud,2
+2023-01-01,2023,1,A005,West,Robbery,3
+2023-01-01,2023,1,A005,West,Theft,3
+2023-01-01,2023,1,A005,West,Vandalism,2
+2023-01-01,2023,1,A006,Harbour,Assault,3
+2023-01-01,2023,1,A006,Harbour,Burglary,3
+2023-01-01,2023,1,A006,Harbour,Drug Offence,1
+2023-01-01,2023,1,A006,Harbour,Fraud,6
+2023-01-01,2023,1,A006,Harbour,Harassment,2
+2023-01-01,2023,1,A006,Harbour,Theft,4
+2023-01-01,2023,1,A006,Harbour,Vandalism,1
+2023-01-01,2023,1,A007,Industrial,Assault,8
+2023-01-01,2023,1,A007,Industrial,Burglary,4
+2023-01-01,2023,1,A007,Industrial,Drug Offence,2
+2023-01-01,2023,1,A007,Industrial,Fraud,7
+2023-01-01,2023,1,A007,Industrial,Harassment,3
+2023-01-01,2023,1,A007,Industrial,Robbery,3
+2023-01-01,2023,1,A007,Industrial,Theft,5
+2023-01-01,2023,1,A007,Industrial,Vandalism,2
+2023-01-01,2023,1,A008,University,Assault,6
+2023-01-01,2023,1,A008,University,Burglary,4
+2023-01-01,2023,1,A008,University,Drug Offence,4
+2023-01-01,2023,1,A008,University,Fraud,2
+2023-01-01,2023,1,A008,University,Harassment,4
+2023-01-01,2023,1,A008,University,Robbery,1
+2023-01-01,2023,1,A008,University,Theft,7
+2023-01-01,2023,1,A008,University,Vandalism,2
+2023-01-01,2023,1,A009,Market,Assault,16
+2023-01-01,2023,1,A009,Market,Burglary,6
+2023-01-01,2023,1,A009,Market,Drug Offence,5
+2023-01-01,2023,1,A009,Market,Fraud,7
+2023-01-01,2023,1,A009,Market,Harassment,4
+2023-01-01,2023,1,A009,Market,Robbery,4
+2023-01-01,2023,1,A009,Market,Theft,7
+2023-01-01,2023,1,A009,Market,Vandalism,2
+2023-01-01,2023,1,A010,Suburban,Assault,7
+2023-01-01,2023,1,A010,Suburban,Burglary,1
+2023-01-01,2023,1,A010,Suburban,Drug Offence,1
+2023-01-01,2023,1,A010,Suburban,Fraud,4
+2023-01-01,2023,1,A010,Suburban,Harassment,1
+2023-01-01,2023,1,A010,Suburban,Robbery,4
+2023-01-01,2023,1,A010,Suburban,Theft,8
+2023-01-01,2023,1,A010,Suburban,Vandalism,3
+2023-02-01,2023,2,A001,Central,Assault,7
+2023-02-01,2023,2,A001,Central,Burglary,5
+2023-02-01,2023,2,A001,Central,Drug Offence,3
+2023-02-01,2023,2,A001,Central,Fraud,3
+2023-02-01,2023,2,A001,Central,Harassment,2
+2023-02-01,2023,2,A001,Central,Robbery,3
+2023-02-01,2023,2,A001,Central,Theft,7
+2023-02-01,2023,2,A001,Central,Vandalism,4
+2023-02-01,2023,2,A002,North,Assault,6
+2023-02-01,2023,2,A002,North,Burglary,4
+2023-02-01,2023,2,A002,North,Fraud,10
+2023-02-01,2023,2,A002,North,Harassment,1
+2023-02-01,2023,2,A002,North,Robbery,9
+2023-02-01,2023,2,A002,North,Theft,13
+2023-02-01,2023,2,A002,North,Vandalism,1
+2023-02-01,2023,2,A003,South,Assault,9
+2023-02-01,2023,2,A003,South,Burglary,5
+2023-02-01,2023,2,A003,South,Fraud,1
+2023-02-01,2023,2,A003,South,Harassment,1
+2023-02-01,2023,2,A003,South,Robbery,4
+2023-02-01,2023,2,A003,South,Theft,9
+2023-02-01,2023,2,A003,South,Vandalism,3
+2023-02-01,2023,2,A004,East,Assault,4
+2023-02-01,2023,2,A004,East,Burglary,2
+2023-02-01,2023,2,A004,East,Drug Offence,3
+2023-02-01,2023,2,A004,East,Fraud,6
+2023-02-01,2023,2,A004,East,Harassment,8
+2023-02-01,2023,2,A004,East,Robbery,5
+2023-02-01,2023,2,A004,East,Theft,12
+2023-02-01,2023,2,A004,East,Vandalism,3
+2023-02-01,2023,2,A005,West,Assault,6
+2023-02-01,2023,2,A005,West,Burglary,4
+2023-02-01,2023,2,A005,West,Drug Offence,6
+2023-02-01,2023,2,A005,West,Fraud,6
+2023-02-01,2023,2,A005,West,Harassment,1
+2023-02-01,2023,2,A005,West,Robbery,6
+2023-02-01,2023,2,A005,West,Theft,7
+2023-02-01,2023,2,A005,West,Vandalism,1
+2023-02-01,2023,2,A006,Harbour,Assault,2
+2023-02-01,2023,2,A006,Harbour,Burglary,2
+2023-02-01,2023,2,A006,Harbour,Drug Offence,1
+2023-02-01,2023,2,A006,Harbour,Fraud,4
+2023-02-01,2023,2,A006,Harbour,Harassment,2
+2023-02-01,2023,2,A006,Harbour,Robbery,5
+2023-02-01,2023,2,A006,Harbour,Theft,8
+2023-02-01,2023,2,A006,Harbour,Vandalism,2
+2023-02-01,2023,2,A007,Industrial,Assault,4
+2023-02-01,2023,2,A007,Industrial,Burglary,8
+2023-02-01,2023,2,A007,Industrial,Drug Offence,5
+2023-02-01,2023,2,A007,Industrial,Fraud,10
+2023-02-01,2023,2,A007,Industrial,Harassment,1
+2023-02-01,2023,2,A007,Industrial,Robbery,5
+2023-02-01,2023,2,A007,Industrial,Theft,4
+2023-02-01,2023,2,A007,Industrial,Vandalism,4
+2023-02-01,2023,2,A008,University,Assault,2
+2023-02-01,2023,2,A008,University,Burglary,3
+2023-02-01,2023,2,A008,University,Drug Offence,6
+2023-02-01,2023,2,A008,University,Fraud,4
+2023-02-01,2023,2,A008,University,Harassment,3
+2023-02-01,2023,2,A008,University,Robbery,2
+2023-02-01,2023,2,A008,University,Theft,2
+2023-02-01,2023,2,A008,University,Vandalism,3
+2023-02-01,2023,2,A009,Market,Assault,3
+2023-02-01,2023,2,A009,Market,Burglary,4
+2023-02-01,2023,2,A009,Market,Drug Offence,1
+2023-02-01,2023,2,A009,Market,Fraud,4
+2023-02-01,2023,2,A009,Market,Harassment,3
+2023-02-01,2023,2,A009,Market,Robbery,2
+2023-02-01,2023,2,A009,Market,Theft,9
+2023-02-01,2023,2,A009,Market,Vandalism,3
+2023-02-01,2023,2,A010,Suburban,Drug Offence,5
+2023-02-01,2023,2,A010,Suburban,Fraud,5
+2023-02-01,2023,2,A010,Suburban,Harassment,1
+2023-02-01,2023,2,A010,Suburban,Theft,6
+2023-02-01,2023,2,A010,Suburban,Vandalism,1
+2023-03-01,2023,3,A001,Central,Assault,5
+2023-03-01,2023,3,A001,Central,Burglary,9
+2023-03-01,2023,3,A001,Central,Drug Offence,2
+2023-03-01,2023,3,A001,Central,Fraud,10
+2023-03-01,2023,3,A001,Central,Harassment,2
+2023-03-01,2023,3,A001,Central,Robbery,4
+2023-03-01,2023,3,A001,Central,Theft,8
+2023-03-01,2023,3,A001,Central,Vandalism,2
+2023-03-01,2023,3,A002,North,Assault,9
+2023-03-01,2023,3,A002,North,Burglary,6
+2023-03-01,2023,3,A002,North,Drug Offence,3
+2023-03-01,2023,3,A002,North,Fraud,9
+2023-03-01,2023,3,A002,North,Harassment,3
+2023-03-01,2023,3,A002,North,Robbery,3
+2023-03-01,2023,3,A002,North,Theft,11
+2023-03-01,2023,3,A002,North,Vandalism,1
+2023-03-01,2023,3,A003,South,Assault,4
+2023-03-01,2023,3,A003,South,Burglary,2
+2023-03-01,2023,3,A003,South,Drug Offence,4
+2023-03-01,2023,3,A003,South,Fraud,8
+2023-03-01,2023,3,A003,South,Harassment,2
+2023-03-01,2023,3,A003,South,Robbery,1
+2023-03-01,2023,3,A003,South,Theft,7
+2023-03-01,2023,3,A003,South,Vandalism,8
+2023-03-01,2023,3,A004,East,Assault,4
+2023-03-01,2023,3,A004,East,Burglary,5
+2023-03-01,2023,3,A004,East,Drug Offence,2
+2023-03-01,2023,3,A004,East,Fraud,6
+2023-03-01,2023,3,A004,East,Harassment,2
+2023-03-01,2023,3,A004,East,Robbery,2
+2023-03-01,2023,3,A004,East,Theft,10
+2023-03-01,2023,3,A004,East,Vandalism,2
+2023-03-01,2023,3,A005,West,Assault,1
+2023-03-01,2023,3,A005,West,Burglary,4
+2023-03-01,2023,3,A005,West,Drug Offence,2
+2023-03-01,2023,3,A005,West,Fraud,4
+2023-03-01,2023,3,A005,West,Harassment,3
+2023-03-01,2023,3,A005,West,Robbery,2
+2023-03-01,2023,3,A005,West,Theft,3
+2023-03-01,2023,3,A006,Harbour,Assault,6
+2023-03-01,2023,3,A006,Harbour,Burglary,2
+2023-03-01,2023,3,A006,Harbour,Drug Offence,2
+2023-03-01,2023,3,A006,Harbour,Fraud,3
+2023-03-01,2023,3,A006,Harbour,Theft,8
+2023-03-01,2023,3,A006,Harbour,Vandalism,4
+2023-03-01,2023,3,A007,Industrial,Assault,3
+2023-03-01,2023,3,A007,Industrial,Burglary,7
+2023-03-01,2023,3,A007,Industrial,Drug Offence,1
+2023-03-01,2023,3,A007,Industrial,Harassment,2
+2023-03-01,2023,3,A007,Industrial,Robbery,4
+2023-03-01,2023,3,A007,Industrial,Theft,14
+2023-03-01,2023,3,A007,Industrial,Vandalism,1
+2023-03-01,2023,3,A008,University,Assault,3
+2023-03-01,2023,3,A008,University,Burglary,4
+2023-03-01,2023,3,A008,University,Fraud,7
+2023-03-01,2023,3,A008,University,Harassment,3
+2023-03-01,2023,3,A008,University,Robbery,1
+2023-03-01,2023,3,A008,University,Theft,8
+2023-03-01,2023,3,A008,University,Vandalism,5
+2023-03-01,2023,3,A009,Market,Assault,3
+2023-03-01,2023,3,A009,Market,Burglary,5
+2023-03-01,2023,3,A009,Market,Drug Offence,3
+2023-03-01,2023,3,A009,Market,Fraud,2
+2023-03-01,2023,3,A009,Market,Harassment,2
+2023-03-01,2023,3,A009,Market,Robbery,1
+2023-03-01,2023,3,A009,Market,Theft,11
+2023-03-01,2023,3,A009,Market,Vandalism,3
+2023-03-01,2023,3,A010,Suburban,Assault,5
+2023-03-01,2023,3,A010,Suburban,Burglary,3
+2023-03-01,2023,3,A010,Suburban,Drug Offence,1
+2023-03-01,2023,3,A010,Suburban,Fraud,6
+2023-03-01,2023,3,A010,Suburban,Robbery,3
+2023-03-01,2023,3,A010,Suburban,Theft,10
+2023-03-01,2023,3,A010,Suburban,Vandalism,2
+2023-04-01,2023,4,A001,Central,Assault,9
+2023-04-01,2023,4,A001,Central,Burglary,6
+2023-04-01,2023,4,A001,Central,Drug Offence,3
+2023-04-01,2023,4,A001,Central,Fraud,7
+2023-04-01,2023,4,A001,Central,Harassment,4
+2023-04-01,2023,4,A001,Central,Robbery,4
+2023-04-01,2023,4,A001,Central,Theft,11
+2023-04-01,2023,4,A001,Central,Vandalism,7
+2023-04-01,2023,4,A002,North,Assault,7
+2023-04-01,2023,4,A002,North,Burglary,4
+2023-04-01,2023,4,A002,North,Drug Offence,1
+2023-04-01,2023,4,A002,North,Fraud,4
+2023-04-01,2023,4,A002,North,Harassment,2
+2023-04-01,2023,4,A002,North,Robbery,7
+2023-04-01,2023,4,A002,North,Theft,7
+2023-04-01,2023,4,A002,North,Vandalism,3
+2023-04-01,2023,4,A003,South,Assault,5
+2023-04-01,2023,4,A003,South,Burglary,6
+2023-04-01,2023,4,A003,South,Drug Offence,3
+2023-04-01,2023,4,A003,South,Fraud,8
+2023-04-01,2023,4,A003,South,Harassment,3
+2023-04-01,2023,4,A003,South,Robbery,2
+2023-04-01,2023,4,A003,South,Theft,4
+2023-04-01,2023,4,A003,South,Vandalism,5
+2023-04-01,2023,4,A004,East,Assault,11
+2023-04-01,2023,4,A004,East,Burglary,8
+2023-04-01,2023,4,A004,East,Drug Offence,4
+2023-04-01,2023,4,A004,East,Fraud,7
+2023-04-01,2023,4,A004,East,Harassment,1
+2023-04-01,2023,4,A004,East,Robbery,4
+2023-04-01,2023,4,A004,East,Theft,12
+2023-04-01,2023,4,A004,East,Vandalism,2
+2023-04-01,2023,4,A005,West,Assault,5
+2023-04-01,2023,4,A005,West,Burglary,2
+2023-04-01,2023,4,A005,West,Drug Offence,2
+2023-04-01,2023,4,A005,West,Fraud,7
+2023-04-01,2023,4,A005,West,Harassment,4
+2023-04-01,2023,4,A005,West,Robbery,5
+2023-04-01,2023,4,A005,West,Theft,10
+2023-04-01,2023,4,A005,West,Vandalism,5
+2023-04-01,2023,4,A006,Harbour,Assault,5
+2023-04-01,2023,4,A006,Harbour,Burglary,3
+2023-04-01,2023,4,A006,Harbour,Drug Offence,1
+2023-04-01,2023,4,A006,Harbour,Fraud,6
+2023-04-01,2023,4,A006,Harbour,Harassment,2
+2023-04-01,2023,4,A006,Harbour,Robbery,3
+2023-04-01,2023,4,A006,Harbour,Theft,3
+2023-04-01,2023,4,A006,Harbour,Vandalism,3
+2023-04-01,2023,4,A007,Industrial,Assault,7
+2023-04-01,2023,4,A007,Industrial,Burglary,4
+2023-04-01,2023,4,A007,Industrial,Drug Offence,2
+2023-04-01,2023,4,A007,Industrial,Fraud,5
+2023-04-01,2023,4,A007,Industrial,Harassment,2
+2023-04-01,2023,4,A007,Industrial,Theft,2
+2023-04-01,2023,4,A008,University,Assault,9
+2023-04-01,2023,4,A008,University,Burglary,3
+2023-04-01,2023,4,A008,University,Drug Offence,3
+2023-04-01,2023,4,A008,University,Fraud,3
+2023-04-01,2023,4,A008,University,Harassment,1
+2023-04-01,2023,4,A008,University,Robbery,1
+2023-04-01,2023,4,A008,University,Theft,4
+2023-04-01,2023,4,A008,University,Vandalism,1
+2023-04-01,2023,4,A009,Market,Assault,11
+2023-04-01,2023,4,A009,Market,Burglary,3
+2023-04-01,2023,4,A009,Market,Drug Offence,3
+2023-04-01,2023,4,A009,Market,Fraud,8
+2023-04-01,2023,4,A009,Market,Harassment,3
+2023-04-01,2023,4,A009,Market,Robbery,6
+2023-04-01,2023,4,A009,Market,Theft,2
+2023-04-01,2023,4,A009,Market,Vandalism,2
+2023-04-01,2023,4,A010,Suburban,Assault,4
+2023-04-01,2023,4,A010,Suburban,Burglary,4
+2023-04-01,2023,4,A010,Suburban,Drug Offence,2
+2023-04-01,2023,4,A010,Suburban,Fraud,2
+2023-04-01,2023,4,A010,Suburban,Harassment,3
+2023-04-01,2023,4,A010,Suburban,Robbery,3
+2023-04-01,2023,4,A010,Suburban,Theft,7
+2023-04-01,2023,4,A010,Suburban,Vandalism,5
+2023-05-01,2023,5,A001,Central,Assault,6
+2023-05-01,2023,5,A001,Central,Burglary,4
+2023-05-01,2023,5,A001,Central,Drug Offence,5
+2023-05-01,2023,5,A001,Central,Fraud,8
+2023-05-01,2023,5,A001,Central,Harassment,1
+2023-05-01,2023,5,A001,Central,Robbery,7
+2023-05-01,2023,5,A001,Central,Theft,11
+2023-05-01,2023,5,A001,Central,Vandalism,7
+2023-05-01,2023,5,A002,North,Assault,8
+2023-05-01,2023,5,A002,North,Burglary,5
+2023-05-01,2023,5,A002,North,Drug Offence,1
+2023-05-01,2023,5,A002,North,Fraud,6
+2023-05-01,2023,5,A002,North,Harassment,5
+2023-05-01,2023,5,A002,North,Robbery,2
+2023-05-01,2023,5,A002,North,Theft,14
+2023-05-01,2023,5,A002,North,Vandalism,3
+2023-05-01,2023,5,A003,South,Assault,4
+2023-05-01,2023,5,A003,South,Burglary,1
+2023-05-01,2023,5,A003,South,Drug Offence,1
+2023-05-01,2023,5,A003,South,Fraud,9
+2023-05-01,2023,5,A003,South,Harassment,4
+2023-05-01,2023,5,A003,South,Robbery,4
+2023-05-01,2023,5,A003,South,Theft,6
+2023-05-01,2023,5,A003,South,Vandalism,1
+2023-05-01,2023,5,A004,East,Assault,8
+2023-05-01,2023,5,A004,East,Burglary,5
+2023-05-01,2023,5,A004,East,Drug Offence,2
+2023-05-01,2023,5,A004,East,Fraud,2
+2023-05-01,2023,5,A004,East,Harassment,3
+2023-05-01,2023,5,A004,East,Robbery,5
+2023-05-01,2023,5,A004,East,Theft,8
+2023-05-01,2023,5,A005,West,Assault,6
+2023-05-01,2023,5,A005,West,Burglary,6
+2023-05-01,2023,5,A005,West,Drug Offence,5
+2023-05-01,2023,5,A005,West,Fraud,5
+2023-05-01,2023,5,A005,West,Harassment,4
+2023-05-01,2023,5,A005,West,Robbery,3
+2023-05-01,2023,5,A005,West,Theft,5
+2023-05-01,2023,5,A005,West,Vandalism,3
+2023-05-01,2023,5,A006,Harbour,Assault,5
+2023-05-01,2023,5,A006,Harbour,Burglary,3
+2023-05-01,2023,5,A006,Harbour,Drug Offence,1
+2023-05-01,2023,5,A006,Harbour,Fraud,1
+2023-05-01,2023,5,A006,Harbour,Harassment,3
+2023-05-01,2023,5,A006,Harbour,Robbery,3
+2023-05-01,2023,5,A006,Harbour,Theft,3
+2023-05-01,2023,5,A006,Harbour,Vandalism,4
+2023-05-01,2023,5,A007,Industrial,Assault,3
+2023-05-01,2023,5,A007,Industrial,Burglary,4
+2023-05-01,2023,5,A007,Industrial,Drug Offence,5
+2023-05-01,2023,5,A007,Industrial,Fraud,6
+2023-05-01,2023,5,A007,Industrial,Robbery,3
+2023-05-01,2023,5,A007,Industrial,Theft,3
+2023-05-01,2023,5,A007,Industrial,Vandalism,3
+2023-05-01,2023,5,A008,University,Assault,5
+2023-05-01,2023,5,A008,University,Burglary,1
+2023-05-01,2023,5,A008,University,Drug Offence,4
+2023-05-01,2023,5,A008,University,Fraud,1
+2023-05-01,2023,5,A008,University,Harassment,4
+2023-05-01,2023,5,A008,University,Robbery,3
+2023-05-01,2023,5,A008,University,Theft,4
+2023-05-01,2023,5,A008,University,Vandalism,3
+2023-05-01,2023,5,A009,Market,Assault,4
+2023-05-01,2023,5,A009,Market,Burglary,3
+2023-05-01,2023,5,A009,Market,Drug Offence,3
+2023-05-01,2023,5,A009,Market,Fraud,7
+2023-05-01,2023,5,A009,Market,Harassment,1
+2023-05-01,2023,5,A009,Market,Robbery,10
+2023-05-01,2023,5,A009,Market,Theft,9
+2023-05-01,2023,5,A009,Market,Vandalism,1
+2023-05-01,2023,5,A010,Suburban,Assault,3
+2023-05-01,2023,5,A010,Suburban,Burglary,1
+2023-05-01,2023,5,A010,Suburban,Drug Offence,3
+2023-05-01,2023,5,A010,Suburban,Fraud,2
+2023-05-01,2023,5,A010,Suburban,Harassment,4
+2023-05-01,2023,5,A010,Suburban,Robbery,5
+2023-05-01,2023,5,A010,Suburban,Theft,5
+2023-06-01,2023,6,A001,Central,Assault,10
+2023-06-01,2023,6,A001,Central,Burglary,10
+2023-06-01,2023,6,A001,Central,Drug Offence,5
+2023-06-01,2023,6,A001,Central,Fraud,11
+2023-06-01,2023,6,A001,Central,Harassment,1
+2023-06-01,2023,6,A001,Central,Robbery,4
+2023-06-01,2023,6,A001,Central,Theft,9
+2023-06-01,2023,6,A001,Central,Vandalism,1
+2023-06-01,2023,6,A002,North,Assault,6
+2023-06-01,2023,6,A002,North,Burglary,4
+2023-06-01,2023,6,A002,North,Drug Offence,3
+2023-06-01,2023,6,A002,North,Fraud,6
+2023-06-01,2023,6,A002,North,Harassment,3
+2023-06-01,2023,6,A002,North,Robbery,8
+2023-06-01,2023,6,A002,North,Theft,8
+2023-06-01,2023,6,A002,North,Vandalism,5
+2023-06-01,2023,6,A003,South,Assault,7
+2023-06-01,2023,6,A003,South,Burglary,6
+2023-06-01,2023,6,A003,South,Drug Offence,3
+2023-06-01,2023,6,A003,South,Fraud,6
+2023-06-01,2023,6,A003,South,Harassment,3
+2023-06-01,2023,6,A003,South,Robbery,5
+2023-06-01,2023,6,A003,South,Theft,10
+2023-06-01,2023,6,A003,South,Vandalism,4
+2023-06-01,2023,6,A004,East,Assault,5
+2023-06-01,2023,6,A004,East,Burglary,11
+2023-06-01,2023,6,A004,East,Drug Offence,6
+2023-06-01,2023,6,A004,East,Fraud,12
+2023-06-01,2023,6,A004,East,Harassment,2
+2023-06-01,2023,6,A004,East,Robbery,3
+2023-06-01,2023,6,A004,East,Theft,7
+2023-06-01,2023,6,A004,East,Vandalism,4
+2023-06-01,2023,6,A005,West,Assault,2
+2023-06-01,2023,6,A005,West,Burglary,2
+2023-06-01,2023,6,A005,West,Drug Offence,1
+2023-06-01,2023,6,A005,West,Fraud,8
+2023-06-01,2023,6,A005,West,Harassment,2
+2023-06-01,2023,6,A005,West,Robbery,3
+2023-06-01,2023,6,A005,West,Theft,5
+2023-06-01,2023,6,A005,West,Vandalism,2
+2023-06-01,2023,6,A006,Harbour,Assault,3
+2023-06-01,2023,6,A006,Harbour,Burglary,4
+2023-06-01,2023,6,A006,Harbour,Drug Offence,3
+2023-06-01,2023,6,A006,Harbour,Fraud,4
+2023-06-01,2023,6,A006,Harbour,Harassment,1
+2023-06-01,2023,6,A006,Harbour,Robbery,5
+2023-06-01,2023,6,A006,Harbour,Theft,5
+2023-06-01,2023,6,A006,Harbour,Vandalism,3
+2023-06-01,2023,6,A007,Industrial,Assault,4
+2023-06-01,2023,6,A007,Industrial,Burglary,6
+2023-06-01,2023,6,A007,Industrial,Drug Offence,1
+2023-06-01,2023,6,A007,Industrial,Fraud,5
+2023-06-01,2023,6,A007,Industrial,Harassment,3
+2023-06-01,2023,6,A007,Industrial,Robbery,3
+2023-06-01,2023,6,A007,Industrial,Theft,7
+2023-06-01,2023,6,A007,Industrial,Vandalism,4
+2023-06-01,2023,6,A008,University,Assault,3
+2023-06-01,2023,6,A008,University,Burglary,7
+2023-06-01,2023,6,A008,University,Drug Offence,4
+2023-06-01,2023,6,A008,University,Fraud,6
+2023-06-01,2023,6,A008,University,Harassment,2
+2023-06-01,2023,6,A008,University,Robbery,3
+2023-06-01,2023,6,A008,University,Theft,6
+2023-06-01,2023,6,A008,University,Vandalism,4
+2023-06-01,2023,6,A009,Market,Assault,4
+2023-06-01,2023,6,A009,Market,Burglary,2
+2023-06-01,2023,6,A009,Market,Drug Offence,2
+2023-06-01,2023,6,A009,Market,Fraud,3
+2023-06-01,2023,6,A009,Market,Harassment,4
+2023-06-01,2023,6,A009,Market,Robbery,1
+2023-06-01,2023,6,A009,Market,Theft,6
+2023-06-01,2023,6,A009,Market,Vandalism,2
+2023-06-01,2023,6,A010,Suburban,Assault,5
+2023-06-01,2023,6,A010,Suburban,Burglary,4
+2023-06-01,2023,6,A010,Suburban,Drug Offence,1
+2023-06-01,2023,6,A010,Suburban,Fraud,5
+2023-06-01,2023,6,A010,Suburban,Harassment,2
+2023-06-01,2023,6,A010,Suburban,Robbery,1
+2023-06-01,2023,6,A010,Suburban,Theft,8
+2023-07-01,2023,7,A001,Central,Assault,4
+2023-07-01,2023,7,A001,Central,Burglary,9
+2023-07-01,2023,7,A001,Central,Drug Offence,1
+2023-07-01,2023,7,A001,Central,Fraud,10
+2023-07-01,2023,7,A001,Central,Harassment,6
+2023-07-01,2023,7,A001,Central,Robbery,6
+2023-07-01,2023,7,A001,Central,Theft,10
+2023-07-01,2023,7,A001,Central,Vandalism,3
+2023-07-01,2023,7,A002,North,Assault,4
+2023-07-01,2023,7,A002,North,Burglary,3
+2023-07-01,2023,7,A002,North,Fraud,5
+2023-07-01,2023,7,A002,North,Harassment,5
+2023-07-01,2023,7,A002,North,Robbery,4
+2023-07-01,2023,7,A002,North,Theft,8
+2023-07-01,2023,7,A002,North,Vandalism,7
+2023-07-01,2023,7,A003,South,Assault,3
+2023-07-01,2023,7,A003,South,Burglary,6
+2023-07-01,2023,7,A003,South,Drug Offence,3
+2023-07-01,2023,7,A003,South,Fraud,8
+2023-07-01,2023,7,A003,South,Harassment,3
+2023-07-01,2023,7,A003,South,Robbery,6
+2023-07-01,2023,7,A003,South,Theft,9
+2023-07-01,2023,7,A004,East,Assault,7
+2023-07-01,2023,7,A004,East,Burglary,5
+2023-07-01,2023,7,A004,East,Drug Offence,7
+2023-07-01,2023,7,A004,East,Fraud,6
+2023-07-01,2023,7,A004,East,Harassment,6
+2023-07-01,2023,7,A004,East,Robbery,2
+2023-07-01,2023,7,A004,East,Theft,8
+2023-07-01,2023,7,A004,East,Vandalism,2
+2023-07-01,2023,7,A005,West,Assault,4
+2023-07-01,2023,7,A005,West,Burglary,7
+2023-07-01,2023,7,A005,West,Drug Offence,2
+2023-07-01,2023,7,A005,West,Fraud,5
+2023-07-01,2023,7,A005,West,Harassment,2
+2023-07-01,2023,7,A005,West,Robbery,2
+2023-07-01,2023,7,A005,West,Theft,6
+2023-07-01,2023,7,A005,West,Vandalism,2
+2023-07-01,2023,7,A006,Harbour,Assault,3
+2023-07-01,2023,7,A006,Harbour,Burglary,3
+2023-07-01,2023,7,A006,Harbour,Drug Offence,1
+2023-07-01,2023,7,A006,Harbour,Fraud,3
+2023-07-01,2023,7,A006,Harbour,Robbery,3
+2023-07-01,2023,7,A006,Harbour,Theft,5
+2023-07-01,2023,7,A006,Harbour,Vandalism,3
+2023-07-01,2023,7,A007,Industrial,Assault,5
+2023-07-01,2023,7,A007,Industrial,Burglary,5
+2023-07-01,2023,7,A007,Industrial,Drug Offence,2
+2023-07-01,2023,7,A007,Industrial,Fraud,6
+2023-07-01,2023,7,A007,Industrial,Harassment,1
+2023-07-01,2023,7,A007,Industrial,Robbery,4
+2023-07-01,2023,7,A007,Industrial,Theft,9
+2023-07-01,2023,7,A007,Industrial,Vandalism,1
+2023-07-01,2023,7,A008,University,Assault,8
+2023-07-01,2023,7,A008,University,Burglary,2
+2023-07-01,2023,7,A008,University,Drug Offence,1
+2023-07-01,2023,7,A008,University,Fraud,3
+2023-07-01,2023,7,A008,University,Harassment,4
+2023-07-01,2023,7,A008,University,Robbery,1
+2023-07-01,2023,7,A008,University,Theft,4
+2023-07-01,2023,7,A008,University,Vandalism,1
+2023-07-01,2023,7,A009,Market,Assault,5
+2023-07-01,2023,7,A009,Market,Burglary,5
+2023-07-01,2023,7,A009,Market,Drug Offence,5
+2023-07-01,2023,7,A009,Market,Fraud,7
+2023-07-01,2023,7,A009,Market,Harassment,1
+2023-07-01,2023,7,A009,Market,Robbery,1
+2023-07-01,2023,7,A009,Market,Theft,9
+2023-07-01,2023,7,A009,Market,Vandalism,7
+2023-07-01,2023,7,A010,Suburban,Assault,6
+2023-07-01,2023,7,A010,Suburban,Burglary,5
+2023-07-01,2023,7,A010,Suburban,Drug Offence,1
+2023-07-01,2023,7,A010,Suburban,Fraud,2
+2023-07-01,2023,7,A010,Suburban,Harassment,3
+2023-07-01,2023,7,A010,Suburban,Robbery,2
+2023-07-01,2023,7,A010,Suburban,Theft,6
+2023-07-01,2023,7,A010,Suburban,Vandalism,1
+2023-08-01,2023,8,A001,Central,Assault,8
+2023-08-01,2023,8,A001,Central,Burglary,7
+2023-08-01,2023,8,A001,Central,Drug Offence,1
+2023-08-01,2023,8,A001,Central,Fraud,4
+2023-08-01,2023,8,A001,Central,Harassment,2
+2023-08-01,2023,8,A001,Central,Robbery,3
+2023-08-01,2023,8,A001,Central,Theft,12
+2023-08-01,2023,8,A001,Central,Vandalism,3
+2023-08-01,2023,8,A002,North,Assault,8
+2023-08-01,2023,8,A002,North,Burglary,3
+2023-08-01,2023,8,A002,North,Drug Offence,4
+2023-08-01,2023,8,A002,North,Fraud,5
+2023-08-01,2023,8,A002,North,Harassment,2
+2023-08-01,2023,8,A002,North,Theft,11
+2023-08-01,2023,8,A002,North,Vandalism,6
+2023-08-01,2023,8,A003,South,Assault,2
+2023-08-01,2023,8,A003,South,Burglary,6
+2023-08-01,2023,8,A003,South,Drug Offence,2
+2023-08-01,2023,8,A003,South,Fraud,7
+2023-08-01,2023,8,A003,South,Harassment,1
+2023-08-01,2023,8,A003,South,Robbery,1
+2023-08-01,2023,8,A003,South,Theft,16
+2023-08-01,2023,8,A003,South,Vandalism,6
+2023-08-01,2023,8,A004,East,Assault,9
+2023-08-01,2023,8,A004,East,Burglary,1
+2023-08-01,2023,8,A004,East,Drug Offence,2
+2023-08-01,2023,8,A004,East,Fraud,3
+2023-08-01,2023,8,A004,East,Robbery,2
+2023-08-01,2023,8,A004,East,Theft,7
+2023-08-01,2023,8,A004,East,Vandalism,1
+2023-08-01,2023,8,A005,West,Assault,8
+2023-08-01,2023,8,A005,West,Burglary,6
+2023-08-01,2023,8,A005,West,Drug Offence,2
+2023-08-01,2023,8,A005,West,Fraud,8
+2023-08-01,2023,8,A005,West,Harassment,4
+2023-08-01,2023,8,A005,West,Robbery,4
+2023-08-01,2023,8,A005,West,Theft,5
+2023-08-01,2023,8,A005,West,Vandalism,2
+2023-08-01,2023,8,A006,Harbour,Assault,2
+2023-08-01,2023,8,A006,Harbour,Burglary,3
+2023-08-01,2023,8,A006,Harbour,Drug Offence,1
+2023-08-01,2023,8,A006,Harbour,Fraud,2
+2023-08-01,2023,8,A006,Harbour,Harassment,4
+2023-08-01,2023,8,A006,Harbour,Robbery,1
+2023-08-01,2023,8,A006,Harbour,Theft,10
+2023-08-01,2023,8,A006,Harbour,Vandalism,2
+2023-08-01,2023,8,A007,Industrial,Assault,3
+2023-08-01,2023,8,A007,Industrial,Burglary,4
+2023-08-01,2023,8,A007,Industrial,Drug Offence,1
+2023-08-01,2023,8,A007,Industrial,Fraud,6
+2023-08-01,2023,8,A007,Industrial,Harassment,4
+2023-08-01,2023,8,A007,Industrial,Robbery,4
+2023-08-01,2023,8,A007,Industrial,Theft,9
+2023-08-01,2023,8,A007,Industrial,Vandalism,4
+2023-08-01,2023,8,A008,University,Assault,4
+2023-08-01,2023,8,A008,University,Burglary,5
+2023-08-01,2023,8,A008,University,Drug Offence,1
+2023-08-01,2023,8,A008,University,Fraud,3
+2023-08-01,2023,8,A008,University,Harassment,1
+2023-08-01,2023,8,A008,University,Robbery,4
+2023-08-01,2023,8,A008,University,Theft,3
+2023-08-01,2023,8,A009,Market,Assault,4
+2023-08-01,2023,8,A009,Market,Burglary,6
+2023-08-01,2023,8,A009,Market,Drug Offence,2
+2023-08-01,2023,8,A009,Market,Fraud,8
+2023-08-01,2023,8,A009,Market,Harassment,7
+2023-08-01,2023,8,A009,Market,Robbery,3
+2023-08-01,2023,8,A009,Market,Theft,6
+2023-08-01,2023,8,A009,Market,Vandalism,2
+2023-08-01,2023,8,A010,Suburban,Assault,6
+2023-08-01,2023,8,A010,Suburban,Burglary,5
+2023-08-01,2023,8,A010,Suburban,Drug Offence,3
+2023-08-01,2023,8,A010,Suburban,Fraud,3
+2023-08-01,2023,8,A010,Suburban,Harassment,3
+2023-08-01,2023,8,A010,Suburban,Robbery,4
+2023-08-01,2023,8,A010,Suburban,Theft,4
+2023-08-01,2023,8,A010,Suburban,Vandalism,2
+2023-09-01,2023,9,A001,Central,Assault,9
+2023-09-01,2023,9,A001,Central,Burglary,1
+2023-09-01,2023,9,A001,Central,Fraud,13
+2023-09-01,2023,9,A001,Central,Harassment,6
+2023-09-01,2023,9,A001,Central,Robbery,6
+2023-09-01,2023,9,A001,Central,Theft,9
+2023-09-01,2023,9,A001,Central,Vandalism,2
+2023-09-01,2023,9,A002,North,Assault,9
+2023-09-01,2023,9,A002,North,Burglary,7
+2023-09-01,2023,9,A002,North,Drug Offence,5
+2023-09-01,2023,9,A002,North,Fraud,6
+2023-09-01,2023,9,A002,North,Harassment,3
+2023-09-01,2023,9,A002,North,Robbery,3
+2023-09-01,2023,9,A002,North,Theft,4
+2023-09-01,2023,9,A002,North,Vandalism,2
+2023-09-01,2023,9,A003,South,Assault,2
+2023-09-01,2023,9,A003,South,Burglary,1
+2023-09-01,2023,9,A003,South,Drug Offence,2
+2023-09-01,2023,9,A003,South,Fraud,6
+2023-09-01,2023,9,A003,South,Harassment,4
+2023-09-01,2023,9,A003,South,Robbery,7
+2023-09-01,2023,9,A003,South,Theft,11
+2023-09-01,2023,9,A003,South,Vandalism,6
+2023-09-01,2023,9,A004,East,Assault,6
+2023-09-01,2023,9,A004,East,Burglary,9
+2023-09-01,2023,9,A004,East,Drug Offence,4
+2023-09-01,2023,9,A004,East,Fraud,5
+2023-09-01,2023,9,A004,East,Harassment,1
+2023-09-01,2023,9,A004,East,Robbery,2
+2023-09-01,2023,9,A004,East,Theft,12
+2023-09-01,2023,9,A004,East,Vandalism,4
+2023-09-01,2023,9,A005,West,Assault,5
+2023-09-01,2023,9,A005,West,Burglary,6
+2023-09-01,2023,9,A005,West,Fraud,1
+2023-09-01,2023,9,A005,West,Harassment,2
+2023-09-01,2023,9,A005,West,Robbery,2
+2023-09-01,2023,9,A005,West,Theft,12
+2023-09-01,2023,9,A005,West,Vandalism,7
+2023-09-01,2023,9,A006,Harbour,Assault,2
+2023-09-01,2023,9,A006,Harbour,Burglary,4
+2023-09-01,2023,9,A006,Harbour,Drug Offence,2
+2023-09-01,2023,9,A006,Harbour,Fraud,7
+2023-09-01,2023,9,A006,Harbour,Harassment,2
+2023-09-01,2023,9,A006,Harbour,Robbery,2
+2023-09-01,2023,9,A006,Harbour,Theft,4
+2023-09-01,2023,9,A006,Harbour,Vandalism,4
+2023-09-01,2023,9,A007,Industrial,Assault,6
+2023-09-01,2023,9,A007,Industrial,Burglary,3
+2023-09-01,2023,9,A007,Industrial,Drug Offence,3
+2023-09-01,2023,9,A007,Industrial,Fraud,7
+2023-09-01,2023,9,A007,Industrial,Harassment,2
+2023-09-01,2023,9,A007,Industrial,Robbery,3
+2023-09-01,2023,9,A007,Industrial,Theft,3
+2023-09-01,2023,9,A007,Industrial,Vandalism,1
+2023-09-01,2023,9,A008,University,Assault,4
+2023-09-01,2023,9,A008,University,Burglary,3
+2023-09-01,2023,9,A008,University,Fraud,1
+2023-09-01,2023,9,A008,University,Harassment,2
+2023-09-01,2023,9,A008,University,Robbery,2
+2023-09-01,2023,9,A008,University,Theft,6
+2023-09-01,2023,9,A009,Market,Assault,4
+2023-09-01,2023,9,A009,Market,Burglary,4
+2023-09-01,2023,9,A009,Market,Drug Offence,7
+2023-09-01,2023,9,A009,Market,Fraud,6
+2023-09-01,2023,9,A009,Market,Harassment,3
+2023-09-01,2023,9,A009,Market,Robbery,3
+2023-09-01,2023,9,A009,Market,Theft,4
+2023-09-01,2023,9,A009,Market,Vandalism,1
+2023-09-01,2023,9,A010,Suburban,Assault,4
+2023-09-01,2023,9,A010,Suburban,Burglary,5
+2023-09-01,2023,9,A010,Suburban,Fraud,2
+2023-09-01,2023,9,A010,Suburban,Harassment,2
+2023-09-01,2023,9,A010,Suburban,Robbery,2
+2023-09-01,2023,9,A010,Suburban,Theft,4
+2023-09-01,2023,9,A010,Suburban,Vandalism,7
+2023-10-01,2023,10,A001,Central,Assault,9
+2023-10-01,2023,10,A001,Central,Burglary,2
+2023-10-01,2023,10,A001,Central,Drug Offence,5
+2023-10-01,2023,10,A001,Central,Fraud,6
+2023-10-01,2023,10,A001,Central,Harassment,10
+2023-10-01,2023,10,A001,Central,Robbery,3
+2023-10-01,2023,10,A001,Central,Theft,6
+2023-10-01,2023,10,A001,Central,Vandalism,3
+2023-10-01,2023,10,A002,North,Assault,6
+2023-10-01,2023,10,A002,North,Burglary,5
+2023-10-01,2023,10,A002,North,Drug Offence,5
+2023-10-01,2023,10,A002,North,Fraud,4
+2023-10-01,2023,10,A002,North,Harassment,6
+2023-10-01,2023,10,A002,North,Robbery,5
+2023-10-01,2023,10,A002,North,Theft,10
+2023-10-01,2023,10,A002,North,Vandalism,2
+2023-10-01,2023,10,A003,South,Assault,5
+2023-10-01,2023,10,A003,South,Burglary,7
+2023-10-01,2023,10,A003,South,Drug Offence,3
+2023-10-01,2023,10,A003,South,Fraud,4
+2023-10-01,2023,10,A003,South,Harassment,3
+2023-10-01,2023,10,A003,South,Robbery,4
+2023-10-01,2023,10,A003,South,Theft,7
+2023-10-01,2023,10,A004,East,Assault,5
+2023-10-01,2023,10,A004,East,Burglary,6
+2023-10-01,2023,10,A004,East,Drug Offence,5
+2023-10-01,2023,10,A004,East,Fraud,6
+2023-10-01,2023,10,A004,East,Harassment,2
+2023-10-01,2023,10,A004,East,Robbery,3
+2023-10-01,2023,10,A004,East,Theft,5
+2023-10-01,2023,10,A004,East,Vandalism,3
+2023-10-01,2023,10,A005,West,Assault,5
+2023-10-01,2023,10,A005,West,Burglary,7
+2023-10-01,2023,10,A005,West,Drug Offence,1
+2023-10-01,2023,10,A005,West,Fraud,3
+2023-10-01,2023,10,A005,West,Harassment,3
+2023-10-01,2023,10,A005,West,Robbery,3
+2023-10-01,2023,10,A005,West,Theft,6
+2023-10-01,2023,10,A005,West,Vandalism,1
+2023-10-01,2023,10,A006,Harbour,Assault,2
+2023-10-01,2023,10,A006,Harbour,Burglary,6
+2023-10-01,2023,10,A006,Harbour,Fraud,5
+2023-10-01,2023,10,A006,Harbour,Harassment,2
+2023-10-01,2023,10,A006,Harbour,Robbery,2
+2023-10-01,2023,10,A006,Harbour,Theft,1
+2023-10-01,2023,10,A006,Harbour,Vandalism,1
+2023-10-01,2023,10,A007,Industrial,Assault,5
+2023-10-01,2023,10,A007,Industrial,Burglary,5
+2023-10-01,2023,10,A007,Industrial,Fraud,4
+2023-10-01,2023,10,A007,Industrial,Harassment,3
+2023-10-01,2023,10,A007,Industrial,Robbery,3
+2023-10-01,2023,10,A007,Industrial,Theft,11
+2023-10-01,2023,10,A007,Industrial,Vandalism,1
+2023-10-01,2023,10,A008,University,Assault,3
+2023-10-01,2023,10,A008,University,Burglary,2
+2023-10-01,2023,10,A008,University,Drug Offence,2
+2023-10-01,2023,10,A008,University,Fraud,2
+2023-10-01,2023,10,A008,University,Harassment,1
+2023-10-01,2023,10,A008,University,Robbery,2
+2023-10-01,2023,10,A008,University,Theft,7
+2023-10-01,2023,10,A008,University,Vandalism,5
+2023-10-01,2023,10,A009,Market,Assault,6
+2023-10-01,2023,10,A009,Market,Burglary,6
+2023-10-01,2023,10,A009,Market,Robbery,6
+2023-10-01,2023,10,A009,Market,Theft,3
+2023-10-01,2023,10,A009,Market,Vandalism,1
+2023-10-01,2023,10,A010,Suburban,Assault,4
+2023-10-01,2023,10,A010,Suburban,Burglary,7
+2023-10-01,2023,10,A010,Suburban,Drug Offence,2
+2023-10-01,2023,10,A010,Suburban,Fraud,5
+2023-10-01,2023,10,A010,Suburban,Harassment,2
+2023-10-01,2023,10,A010,Suburban,Robbery,4
+2023-10-01,2023,10,A010,Suburban,Theft,3
+2023-10-01,2023,10,A010,Suburban,Vandalism,3
+2023-11-01,2023,11,A001,Central,Assault,5
+2023-11-01,2023,11,A001,Central,Burglary,5
+2023-11-01,2023,11,A001,Central,Drug Offence,1
+2023-11-01,2023,11,A001,Central,Fraud,11
+2023-11-01,2023,11,A001,Central,Harassment,1
+2023-11-01,2023,11,A001,Central,Robbery,5
+2023-11-01,2023,11,A001,Central,Theft,8
+2023-11-01,2023,11,A001,Central,Vandalism,4
+2023-11-01,2023,11,A002,North,Assault,5
+2023-11-01,2023,11,A002,North,Burglary,4
+2023-11-01,2023,11,A002,North,Drug Offence,2
+2023-11-01,2023,11,A002,North,Fraud,8
+2023-11-01,2023,11,A002,North,Harassment,5
+2023-11-01,2023,11,A002,North,Robbery,5
+2023-11-01,2023,11,A002,North,Theft,3
+2023-11-01,2023,11,A002,North,Vandalism,2
+2023-11-01,2023,11,A003,South,Assault,7
+2023-11-01,2023,11,A003,South,Burglary,3
+2023-11-01,2023,11,A003,South,Drug Offence,4
+2023-11-01,2023,11,A003,South,Fraud,6
+2023-11-01,2023,11,A003,South,Robbery,5
+2023-11-01,2023,11,A003,South,Theft,5
+2023-11-01,2023,11,A003,South,Vandalism,2
+2023-11-01,2023,11,A004,East,Assault,5
+2023-11-01,2023,11,A004,East,Burglary,8
+2023-11-01,2023,11,A004,East,Drug Offence,3
+2023-11-01,2023,11,A004,East,Fraud,1
+2023-11-01,2023,11,A004,East,Harassment,5
+2023-11-01,2023,11,A004,East,Robbery,3
+2023-11-01,2023,11,A004,East,Theft,11
+2023-11-01,2023,11,A004,East,Vandalism,2
+2023-11-01,2023,11,A005,West,Assault,6
+2023-11-01,2023,11,A005,West,Burglary,8
+2023-11-01,2023,11,A005,West,Drug Offence,1
+2023-11-01,2023,11,A005,West,Fraud,7
+2023-11-01,2023,11,A005,West,Harassment,5
+2023-11-01,2023,11,A005,West,Robbery,2
+2023-11-01,2023,11,A005,West,Theft,6
+2023-11-01,2023,11,A005,West,Vandalism,3
+2023-11-01,2023,11,A006,Harbour,Assault,2
+2023-11-01,2023,11,A006,Harbour,Burglary,3
+2023-11-01,2023,11,A006,Harbour,Drug Offence,2
+2023-11-01,2023,11,A006,Harbour,Fraud,4
+2023-11-01,2023,11,A006,Harbour,Harassment,2
+2023-11-01,2023,11,A006,Harbour,Robbery,2
+2023-11-01,2023,11,A006,Harbour,Theft,10
+2023-11-01,2023,11,A006,Harbour,Vandalism,4
+2023-11-01,2023,11,A007,Industrial,Assault,5
+2023-11-01,2023,11,A007,Industrial,Burglary,2
+2023-11-01,2023,11,A007,Industrial,Drug Offence,4
+2023-11-01,2023,11,A007,Industrial,Fraud,4
+2023-11-01,2023,11,A007,Industrial,Harassment,1
+2023-11-01,2023,11,A007,Industrial,Robbery,5
+2023-11-01,2023,11,A007,Industrial,Theft,8
+2023-11-01,2023,11,A007,Industrial,Vandalism,5
+2023-11-01,2023,11,A008,University,Assault,3
+2023-11-01,2023,11,A008,University,Burglary,2
+2023-11-01,2023,11,A008,University,Drug Offence,1
+2023-11-01,2023,11,A008,University,Fraud,6
+2023-11-01,2023,11,A008,University,Harassment,3
+2023-11-01,2023,11,A008,University,Robbery,3
+2023-11-01,2023,11,A008,University,Theft,7
+2023-11-01,2023,11,A008,University,Vandalism,2
+2023-11-01,2023,11,A009,Market,Assault,6
+2023-11-01,2023,11,A009,Market,Burglary,7
+2023-11-01,2023,11,A009,Market,Drug Offence,4
+2023-11-01,2023,11,A009,Market,Fraud,2
+2023-11-01,2023,11,A009,Market,Harassment,3
+2023-11-01,2023,11,A009,Market,Robbery,4
+2023-11-01,2023,11,A009,Market,Theft,7
+2023-11-01,2023,11,A009,Market,Vandalism,1
+2023-11-01,2023,11,A010,Suburban,Assault,1
+2023-11-01,2023,11,A010,Suburban,Burglary,4
+2023-11-01,2023,11,A010,Suburban,Drug Offence,1
+2023-11-01,2023,11,A010,Suburban,Harassment,2
+2023-11-01,2023,11,A010,Suburban,Robbery,1
+2023-11-01,2023,11,A010,Suburban,Theft,4
+2023-11-01,2023,11,A010,Suburban,Vandalism,1
+2023-12-01,2023,12,A001,Central,Assault,6
+2023-12-01,2023,12,A001,Central,Burglary,8
+2023-12-01,2023,12,A001,Central,Drug Offence,4
+2023-12-01,2023,12,A001,Central,Fraud,3
+2023-12-01,2023,12,A001,Central,Harassment,1
+2023-12-01,2023,12,A001,Central,Robbery,2
+2023-12-01,2023,12,A001,Central,Theft,4
+2023-12-01,2023,12,A001,Central,Vandalism,4
+2023-12-01,2023,12,A002,North,Assault,6
+2023-12-01,2023,12,A002,North,Burglary,7
+2023-12-01,2023,12,A002,North,Drug Offence,2
+2023-12-01,2023,12,A002,North,Fraud,4
+2023-12-01,2023,12,A002,North,Harassment,3
+2023-12-01,2023,12,A002,North,Robbery,2
+2023-12-01,2023,12,A002,North,Theft,17
+2023-12-01,2023,12,A002,North,Vandalism,2
+2023-12-01,2023,12,A003,South,Assault,10
+2023-12-01,2023,12,A003,South,Burglary,7
+2023-12-01,2023,12,A003,South,Drug Offence,1
+2023-12-01,2023,12,A003,South,Fraud,4
+2023-12-01,2023,12,A003,South,Harassment,5
+2023-12-01,2023,12,A003,South,Robbery,4
+2023-12-01,2023,12,A003,South,Theft,6
+2023-12-01,2023,12,A003,South,Vandalism,2
+2023-12-01,2023,12,A004,East,Assault,8
+2023-12-01,2023,12,A004,East,Burglary,3
+2023-12-01,2023,12,A004,East,Drug Offence,4
+2023-12-01,2023,12,A004,East,Fraud,5
+2023-12-01,2023,12,A004,East,Harassment,1
+2023-12-01,2023,12,A004,East,Robbery,3
+2023-12-01,2023,12,A004,East,Theft,9
+2023-12-01,2023,12,A004,East,Vandalism,3
+2023-12-01,2023,12,A005,West,Assault,7
+2023-12-01,2023,12,A005,West,Burglary,7
+2023-12-01,2023,12,A005,West,Drug Offence,2
+2023-12-01,2023,12,A005,West,Fraud,4
+2023-12-01,2023,12,A005,West,Harassment,6
+2023-12-01,2023,12,A005,West,Robbery,6
+2023-12-01,2023,12,A005,West,Theft,5
+2023-12-01,2023,12,A005,West,Vandalism,2
+2023-12-01,2023,12,A006,Harbour,Assault,3
+2023-12-01,2023,12,A006,Harbour,Burglary,3
+2023-12-01,2023,12,A006,Harbour,Drug Offence,1
+2023-12-01,2023,12,A006,Harbour,Fraud,4
+2023-12-01,2023,12,A006,Harbour,Harassment,3
+2023-12-01,2023,12,A006,Harbour,Robbery,4
+2023-12-01,2023,12,A006,Harbour,Theft,2
+2023-12-01,2023,12,A007,Industrial,Assault,6
+2023-12-01,2023,12,A007,Industrial,Burglary,2
+2023-12-01,2023,12,A007,Industrial,Drug Offence,3
+2023-12-01,2023,12,A007,Industrial,Fraud,6
+2023-12-01,2023,12,A007,Industrial,Harassment,4
+2023-12-01,2023,12,A007,Industrial,Robbery,1
+2023-12-01,2023,12,A007,Industrial,Theft,8
+2023-12-01,2023,12,A007,Industrial,Vandalism,1
+2023-12-01,2023,12,A008,University,Assault,1
+2023-12-01,2023,12,A008,University,Burglary,1
+2023-12-01,2023,12,A008,University,Drug Offence,2
+2023-12-01,2023,12,A008,University,Fraud,3
+2023-12-01,2023,12,A008,University,Harassment,4
+2023-12-01,2023,12,A008,University,Robbery,2
+2023-12-01,2023,12,A008,University,Theft,7
+2023-12-01,2023,12,A008,University,Vandalism,4
+2023-12-01,2023,12,A009,Market,Assault,4
+2023-12-01,2023,12,A009,Market,Burglary,6
+2023-12-01,2023,12,A009,Market,Drug Offence,4
+2023-12-01,2023,12,A009,Market,Fraud,5
+2023-12-01,2023,12,A009,Market,Harassment,1
+2023-12-01,2023,12,A009,Market,Robbery,3
+2023-12-01,2023,12,A009,Market,Theft,6
+2023-12-01,2023,12,A009,Market,Vandalism,1
+2023-12-01,2023,12,A010,Suburban,Assault,5
+2023-12-01,2023,12,A010,Suburban,Burglary,3
+2023-12-01,2023,12,A010,Suburban,Fraud,3
+2023-12-01,2023,12,A010,Suburban,Harassment,3
+2023-12-01,2023,12,A010,Suburban,Robbery,2
+2023-12-01,2023,12,A010,Suburban,Theft,8
+2023-12-01,2023,12,A010,Suburban,Vandalism,1
+2024-01-01,2024,1,A001,Central,Assault,10
+2024-01-01,2024,1,A001,Central,Burglary,6
+2024-01-01,2024,1,A001,Central,Drug Offence,5
+2024-01-01,2024,1,A001,Central,Fraud,7
+2024-01-01,2024,1,A001,Central,Harassment,3
+2024-01-01,2024,1,A001,Central,Robbery,3
+2024-01-01,2024,1,A001,Central,Theft,4
+2024-01-01,2024,1,A001,Central,Vandalism,2
+2024-01-01,2024,1,A002,North,Assault,6
+2024-01-01,2024,1,A002,North,Burglary,3
+2024-01-01,2024,1,A002,North,Drug Offence,2
+2024-01-01,2024,1,A002,North,Fraud,4
+2024-01-01,2024,1,A002,North,Harassment,5
+2024-01-01,2024,1,A002,North,Robbery,1
+2024-01-01,2024,1,A002,North,Theft,9
+2024-01-01,2024,1,A002,North,Vandalism,3
+2024-01-01,2024,1,A003,South,Assault,6
+2024-01-01,2024,1,A003,South,Burglary,7
+2024-01-01,2024,1,A003,South,Fraud,3
+2024-01-01,2024,1,A003,South,Harassment,4
+2024-01-01,2024,1,A003,South,Robbery,8
+2024-01-01,2024,1,A003,South,Theft,4
+2024-01-01,2024,1,A003,South,Vandalism,5
+2024-01-01,2024,1,A004,East,Assault,6
+2024-01-01,2024,1,A004,East,Burglary,7
+2024-01-01,2024,1,A004,East,Drug Offence,3
+2024-01-01,2024,1,A004,East,Fraud,10
+2024-01-01,2024,1,A004,East,Harassment,2
+2024-01-01,2024,1,A004,East,Robbery,5
+2024-01-01,2024,1,A004,East,Theft,9
+2024-01-01,2024,1,A004,East,Vandalism,6
+2024-01-01,2024,1,A005,West,Assault,7
+2024-01-01,2024,1,A005,West,Burglary,4
+2024-01-01,2024,1,A005,West,Drug Offence,1
+2024-01-01,2024,1,A005,West,Fraud,6
+2024-01-01,2024,1,A005,West,Harassment,1
+2024-01-01,2024,1,A005,West,Robbery,2
+2024-01-01,2024,1,A005,West,Theft,4
+2024-01-01,2024,1,A005,West,Vandalism,7
+2024-01-01,2024,1,A006,Harbour,Assault,4
+2024-01-01,2024,1,A006,Harbour,Burglary,11
+2024-01-01,2024,1,A006,Harbour,Fraud,9
+2024-01-01,2024,1,A006,Harbour,Harassment,1
+2024-01-01,2024,1,A006,Harbour,Robbery,1
+2024-01-01,2024,1,A006,Harbour,Theft,4
+2024-01-01,2024,1,A006,Harbour,Vandalism,2
+2024-01-01,2024,1,A007,Industrial,Assault,2
+2024-01-01,2024,1,A007,Industrial,Burglary,2
+2024-01-01,2024,1,A007,Industrial,Drug Offence,4
+2024-01-01,2024,1,A007,Industrial,Fraud,8
+2024-01-01,2024,1,A007,Industrial,Harassment,1
+2024-01-01,2024,1,A007,Industrial,Robbery,6
+2024-01-01,2024,1,A007,Industrial,Theft,5
+2024-01-01,2024,1,A007,Industrial,Vandalism,1
+2024-01-01,2024,1,A008,University,Assault,4
+2024-01-01,2024,1,A008,University,Burglary,5
+2024-01-01,2024,1,A008,University,Drug Offence,4
+2024-01-01,2024,1,A008,University,Fraud,3
+2024-01-01,2024,1,A008,University,Harassment,5
+2024-01-01,2024,1,A008,University,Robbery,1
+2024-01-01,2024,1,A008,University,Theft,6
+2024-01-01,2024,1,A009,Market,Assault,6
+2024-01-01,2024,1,A009,Market,Burglary,3
+2024-01-01,2024,1,A009,Market,Drug Offence,2
+2024-01-01,2024,1,A009,Market,Fraud,3
+2024-01-01,2024,1,A009,Market,Harassment,3
+2024-01-01,2024,1,A009,Market,Robbery,3
+2024-01-01,2024,1,A009,Market,Theft,4
+2024-01-01,2024,1,A009,Market,Vandalism,2
+2024-01-01,2024,1,A010,Suburban,Assault,6
+2024-01-01,2024,1,A010,Suburban,Burglary,7
+2024-01-01,2024,1,A010,Suburban,Fraud,5
+2024-01-01,2024,1,A010,Suburban,Harassment,4
+2024-01-01,2024,1,A010,Suburban,Robbery,2
+2024-01-01,2024,1,A010,Suburban,Theft,7
+2024-01-01,2024,1,A010,Suburban,Vandalism,1
+2024-02-01,2024,2,A001,Central,Assault,7
+2024-02-01,2024,2,A001,Central,Burglary,4
+2024-02-01,2024,2,A001,Central,Drug Offence,3
+2024-02-01,2024,2,A001,Central,Fraud,9
+2024-02-01,2024,2,A001,Central,Harassment,3
+2024-02-01,2024,2,A001,Central,Robbery,3
+2024-02-01,2024,2,A001,Central,Theft,10
+2024-02-01,2024,2,A001,Central,Vandalism,2
+2024-02-01,2024,2,A002,North,Assault,6
+2024-02-01,2024,2,A002,North,Burglary,4
+2024-02-01,2024,2,A002,North,Drug Offence,2
+2024-02-01,2024,2,A002,North,Fraud,7
+2024-02-01,2024,2,A002,North,Harassment,6
+2024-02-01,2024,2,A002,North,Robbery,3
+2024-02-01,2024,2,A002,North,Theft,10
+2024-02-01,2024,2,A002,North,Vandalism,2
+2024-02-01,2024,2,A003,South,Assault,9
+2024-02-01,2024,2,A003,South,Burglary,5
+2024-02-01,2024,2,A003,South,Drug Offence,1
+2024-02-01,2024,2,A003,South,Fraud,3
+2024-02-01,2024,2,A003,South,Harassment,1
+2024-02-01,2024,2,A003,South,Robbery,5
+2024-02-01,2024,2,A003,South,Theft,4
+2024-02-01,2024,2,A003,South,Vandalism,4
+2024-02-01,2024,2,A004,East,Assault,5
+2024-02-01,2024,2,A004,East,Burglary,4
+2024-02-01,2024,2,A004,East,Drug Offence,5
+2024-02-01,2024,2,A004,East,Fraud,8
+2024-02-01,2024,2,A004,East,Harassment,5
+2024-02-01,2024,2,A004,East,Robbery,4
+2024-02-01,2024,2,A004,East,Theft,6
+2024-02-01,2024,2,A004,East,Vandalism,4
+2024-02-01,2024,2,A005,West,Assault,4
+2024-02-01,2024,2,A005,West,Burglary,3
+2024-02-01,2024,2,A005,West,Fraud,4
+2024-02-01,2024,2,A005,West,Harassment,7
+2024-02-01,2024,2,A005,West,Theft,11
+2024-02-01,2024,2,A005,West,Vandalism,1
+2024-02-01,2024,2,A006,Harbour,Assault,5
+2024-02-01,2024,2,A006,Harbour,Burglary,1
+2024-02-01,2024,2,A006,Harbour,Drug Offence,3
+2024-02-01,2024,2,A006,Harbour,Fraud,3
+2024-02-01,2024,2,A006,Harbour,Harassment,1
+2024-02-01,2024,2,A006,Harbour,Robbery,2
+2024-02-01,2024,2,A006,Harbour,Theft,6
+2024-02-01,2024,2,A006,Harbour,Vandalism,2
+2024-02-01,2024,2,A007,Industrial,Assault,3
+2024-02-01,2024,2,A007,Industrial,Burglary,4
+2024-02-01,2024,2,A007,Industrial,Drug Offence,4
+2024-02-01,2024,2,A007,Industrial,Fraud,5
+2024-02-01,2024,2,A007,Industrial,Harassment,4
+2024-02-01,2024,2,A007,Industrial,Robbery,5
+2024-02-01,2024,2,A007,Industrial,Theft,8
+2024-02-01,2024,2,A007,Industrial,Vandalism,2
+2024-02-01,2024,2,A008,University,Assault,5
+2024-02-01,2024,2,A008,University,Burglary,4
+2024-02-01,2024,2,A008,University,Drug Offence,2
+2024-02-01,2024,2,A008,University,Fraud,3
+2024-02-01,2024,2,A008,University,Robbery,2
+2024-02-01,2024,2,A008,University,Theft,7
+2024-02-01,2024,2,A008,University,Vandalism,2
+2024-02-01,2024,2,A009,Market,Assault,7
+2024-02-01,2024,2,A009,Market,Burglary,6
+2024-02-01,2024,2,A009,Market,Drug Offence,1
+2024-02-01,2024,2,A009,Market,Fraud,4
+2024-02-01,2024,2,A009,Market,Harassment,4
+2024-02-01,2024,2,A009,Market,Robbery,2
+2024-02-01,2024,2,A009,Market,Theft,3
+2024-02-01,2024,2,A009,Market,Vandalism,2
+2024-02-01,2024,2,A010,Suburban,Assault,1
+2024-02-01,2024,2,A010,Suburban,Burglary,9
+2024-02-01,2024,2,A010,Suburban,Drug Offence,1
+2024-02-01,2024,2,A010,Suburban,Fraud,5
+2024-02-01,2024,2,A010,Suburban,Harassment,5
+2024-02-01,2024,2,A010,Suburban,Robbery,4
+2024-02-01,2024,2,A010,Suburban,Vandalism,4
+2024-03-01,2024,3,A001,Central,Assault,4
+2024-03-01,2024,3,A001,Central,Burglary,12
+2024-03-01,2024,3,A001,Central,Drug Offence,6
+2024-03-01,2024,3,A001,Central,Fraud,6
+2024-03-01,2024,3,A001,Central,Robbery,4
+2024-03-01,2024,3,A001,Central,Theft,11
+2024-03-01,2024,3,A001,Central,Vandalism,4
+2024-03-01,2024,3,A002,North,Assault,4
+2024-03-01,2024,3,A002,North,Burglary,2
+2024-03-01,2024,3,A002,North,Drug Offence,3
+2024-03-01,2024,3,A002,North,Fraud,9
+2024-03-01,2024,3,A002,North,Harassment,3
+2024-03-01,2024,3,A002,North,Robbery,4
+2024-03-01,2024,3,A002,North,Theft,10
+2024-03-01,2024,3,A002,North,Vandalism,5
+2024-03-01,2024,3,A003,South,Assault,6
+2024-03-01,2024,3,A003,South,Burglary,8
+2024-03-01,2024,3,A003,South,Drug Offence,6
+2024-03-01,2024,3,A003,South,Fraud,6
+2024-03-01,2024,3,A003,South,Harassment,1
+2024-03-01,2024,3,A003,South,Robbery,5
+2024-03-01,2024,3,A003,South,Theft,9
+2024-03-01,2024,3,A003,South,Vandalism,3
+2024-03-01,2024,3,A004,East,Assault,7
+2024-03-01,2024,3,A004,East,Burglary,4
+2024-03-01,2024,3,A004,East,Drug Offence,2
+2024-03-01,2024,3,A004,East,Fraud,6
+2024-03-01,2024,3,A004,East,Harassment,1
+2024-03-01,2024,3,A004,East,Robbery,5
+2024-03-01,2024,3,A004,East,Theft,10
+2024-03-01,2024,3,A004,East,Vandalism,6
+2024-03-01,2024,3,A005,West,Assault,11
+2024-03-01,2024,3,A005,West,Burglary,1
+2024-03-01,2024,3,A005,West,Drug Offence,3
+2024-03-01,2024,3,A005,West,Fraud,1
+2024-03-01,2024,3,A005,West,Robbery,4
+2024-03-01,2024,3,A005,West,Theft,8
+2024-03-01,2024,3,A005,West,Vandalism,1
+2024-03-01,2024,3,A006,Harbour,Assault,4
+2024-03-01,2024,3,A006,Harbour,Burglary,4
+2024-03-01,2024,3,A006,Harbour,Drug Offence,5
+2024-03-01,2024,3,A006,Harbour,Fraud,9
+2024-03-01,2024,3,A006,Harbour,Robbery,3
+2024-03-01,2024,3,A006,Harbour,Theft,11
+2024-03-01,2024,3,A007,Industrial,Assault,3
+2024-03-01,2024,3,A007,Industrial,Burglary,6
+2024-03-01,2024,3,A007,Industrial,Drug Offence,2
+2024-03-01,2024,3,A007,Industrial,Fraud,2
+2024-03-01,2024,3,A007,Industrial,Harassment,5
+2024-03-01,2024,3,A007,Industrial,Robbery,4
+2024-03-01,2024,3,A007,Industrial,Theft,13
+2024-03-01,2024,3,A008,University,Assault,3
+2024-03-01,2024,3,A008,University,Burglary,4
+2024-03-01,2024,3,A008,University,Fraud,5
+2024-03-01,2024,3,A008,University,Harassment,1
+2024-03-01,2024,3,A008,University,Robbery,3
+2024-03-01,2024,3,A008,University,Theft,5
+2024-03-01,2024,3,A008,University,Vandalism,1
+2024-03-01,2024,3,A009,Market,Assault,5
+2024-03-01,2024,3,A009,Market,Burglary,4
+2024-03-01,2024,3,A009,Market,Drug Offence,1
+2024-03-01,2024,3,A009,Market,Fraud,4
+2024-03-01,2024,3,A009,Market,Harassment,3
+2024-03-01,2024,3,A009,Market,Robbery,5
+2024-03-01,2024,3,A009,Market,Theft,8
+2024-03-01,2024,3,A009,Market,Vandalism,4
+2024-03-01,2024,3,A010,Suburban,Assault,4
+2024-03-01,2024,3,A010,Suburban,Burglary,6
+2024-03-01,2024,3,A010,Suburban,Drug Offence,2
+2024-03-01,2024,3,A010,Suburban,Fraud,6
+2024-03-01,2024,3,A010,Suburban,Harassment,2
+2024-03-01,2024,3,A010,Suburban,Robbery,3
+2024-03-01,2024,3,A010,Suburban,Theft,7
+2024-03-01,2024,3,A010,Suburban,Vandalism,1
+2024-04-01,2024,4,A001,Central,Assault,1
+2024-04-01,2024,4,A001,Central,Burglary,3
+2024-04-01,2024,4,A001,Central,Drug Offence,1
+2024-04-01,2024,4,A001,Central,Fraud,12
+2024-04-01,2024,4,A001,Central,Harassment,3
+2024-04-01,2024,4,A001,Central,Robbery,4
+2024-04-01,2024,4,A001,Central,Theft,7
+2024-04-01,2024,4,A001,Central,Vandalism,3
+2024-04-01,2024,4,A002,North,Assault,10
+2024-04-01,2024,4,A002,North,Drug Offence,3
+2024-04-01,2024,4,A002,North,Fraud,6
+2024-04-01,2024,4,A002,North,Harassment,6
+2024-04-01,2024,4,A002,North,Robbery,5
+2024-04-01,2024,4,A002,North,Theft,8
+2024-04-01,2024,4,A002,North,Vandalism,2
+2024-04-01,2024,4,A003,South,Assault,6
+2024-04-01,2024,4,A003,South,Burglary,6
+2024-04-01,2024,4,A003,South,Drug Offence,4
+2024-04-01,2024,4,A003,South,Fraud,3
+2024-04-01,2024,4,A003,South,Harassment,5
+2024-04-01,2024,4,A003,South,Robbery,1
+2024-04-01,2024,4,A003,South,Theft,7
+2024-04-01,2024,4,A003,South,Vandalism,2
+2024-04-01,2024,4,A004,East,Assault,11
+2024-04-01,2024,4,A004,East,Burglary,5
+2024-04-01,2024,4,A004,East,Drug Offence,3
+2024-04-01,2024,4,A004,East,Fraud,8
+2024-04-01,2024,4,A004,East,Harassment,3
+2024-04-01,2024,4,A004,East,Robbery,7
+2024-04-01,2024,4,A004,East,Theft,10
+2024-04-01,2024,4,A004,East,Vandalism,3
+2024-04-01,2024,4,A005,West,Assault,3
+2024-04-01,2024,4,A005,West,Burglary,3
+2024-04-01,2024,4,A005,West,Drug Offence,2
+2024-04-01,2024,4,A005,West,Fraud,6
+2024-04-01,2024,4,A005,West,Harassment,3
+2024-04-01,2024,4,A005,West,Robbery,4
+2024-04-01,2024,4,A005,West,Theft,5
+2024-04-01,2024,4,A005,West,Vandalism,2
+2024-04-01,2024,4,A006,Harbour,Assault,8
+2024-04-01,2024,4,A006,Harbour,Burglary,2
+2024-04-01,2024,4,A006,Harbour,Drug Offence,1
+2024-04-01,2024,4,A006,Harbour,Fraud,5
+2024-04-01,2024,4,A006,Harbour,Harassment,1
+2024-04-01,2024,4,A006,Harbour,Robbery,3
+2024-04-01,2024,4,A006,Harbour,Theft,3
+2024-04-01,2024,4,A006,Harbour,Vandalism,1
+2024-04-01,2024,4,A007,Industrial,Assault,4
+2024-04-01,2024,4,A007,Industrial,Burglary,6
+2024-04-01,2024,4,A007,Industrial,Fraud,5
+2024-04-01,2024,4,A007,Industrial,Harassment,3
+2024-04-01,2024,4,A007,Industrial,Robbery,5
+2024-04-01,2024,4,A007,Industrial,Theft,6
+2024-04-01,2024,4,A007,Industrial,Vandalism,5
+2024-04-01,2024,4,A008,University,Assault,6
+2024-04-01,2024,4,A008,University,Burglary,3
+2024-04-01,2024,4,A008,University,Drug Offence,3
+2024-04-01,2024,4,A008,University,Fraud,5
+2024-04-01,2024,4,A008,University,Harassment,2
+2024-04-01,2024,4,A008,University,Robbery,2
+2024-04-01,2024,4,A008,University,Theft,6
+2024-04-01,2024,4,A008,University,Vandalism,4
+2024-04-01,2024,4,A009,Market,Assault,8
+2024-04-01,2024,4,A009,Market,Burglary,5
+2024-04-01,2024,4,A009,Market,Drug Offence,1
+2024-04-01,2024,4,A009,Market,Fraud,9
+2024-04-01,2024,4,A009,Market,Harassment,1
+2024-04-01,2024,4,A009,Market,Robbery,2
+2024-04-01,2024,4,A009,Market,Theft,10
+2024-04-01,2024,4,A009,Market,Vandalism,1
+2024-04-01,2024,4,A010,Suburban,Assault,4
+2024-04-01,2024,4,A010,Suburban,Burglary,2
+2024-04-01,2024,4,A010,Suburban,Drug Offence,4
+2024-04-01,2024,4,A010,Suburban,Fraud,4
+2024-04-01,2024,4,A010,Suburban,Harassment,1
+2024-04-01,2024,4,A010,Suburban,Robbery,1
+2024-04-01,2024,4,A010,Suburban,Theft,5
+2024-04-01,2024,4,A010,Suburban,Vandalism,3
+2024-05-01,2024,5,A001,Central,Assault,3
+2024-05-01,2024,5,A001,Central,Burglary,5
+2024-05-01,2024,5,A001,Central,Drug Offence,3
+2024-05-01,2024,5,A001,Central,Fraud,6
+2024-05-01,2024,5,A001,Central,Harassment,5
+2024-05-01,2024,5,A001,Central,Robbery,6
+2024-05-01,2024,5,A001,Central,Theft,5
+2024-05-01,2024,5,A001,Central,Vandalism,5
+2024-05-01,2024,5,A002,North,Assault,5
+2024-05-01,2024,5,A002,North,Burglary,5
+2024-05-01,2024,5,A002,North,Fraud,4
+2024-05-01,2024,5,A002,North,Harassment,5
+2024-05-01,2024,5,A002,North,Robbery,5
+2024-05-01,2024,5,A002,North,Theft,6
+2024-05-01,2024,5,A002,North,Vandalism,6
+2024-05-01,2024,5,A003,South,Assault,7
+2024-05-01,2024,5,A003,South,Burglary,7
+2024-05-01,2024,5,A003,South,Drug Offence,4
+2024-05-01,2024,5,A003,South,Fraud,8
+2024-05-01,2024,5,A003,South,Harassment,4
+2024-05-01,2024,5,A003,South,Robbery,7
+2024-05-01,2024,5,A003,South,Theft,1
+2024-05-01,2024,5,A003,South,Vandalism,5
+2024-05-01,2024,5,A004,East,Assault,10
+2024-05-01,2024,5,A004,East,Burglary,6
+2024-05-01,2024,5,A004,East,Drug Offence,3
+2024-05-01,2024,5,A004,East,Fraud,5
+2024-05-01,2024,5,A004,East,Harassment,6
+2024-05-01,2024,5,A004,East,Robbery,4
+2024-05-01,2024,5,A004,East,Theft,6
+2024-05-01,2024,5,A004,East,Vandalism,1
+2024-05-01,2024,5,A005,West,Assault,6
+2024-05-01,2024,5,A005,West,Burglary,3
+2024-05-01,2024,5,A005,West,Drug Offence,2
+2024-05-01,2024,5,A005,West,Fraud,3
+2024-05-01,2024,5,A005,West,Harassment,3
+2024-05-01,2024,5,A005,West,Robbery,4
+2024-05-01,2024,5,A005,West,Theft,6
+2024-05-01,2024,5,A006,Harbour,Assault,5
+2024-05-01,2024,5,A006,Harbour,Burglary,1
+2024-05-01,2024,5,A006,Harbour,Drug Offence,2
+2024-05-01,2024,5,A006,Harbour,Fraud,4
+2024-05-01,2024,5,A006,Harbour,Harassment,3
+2024-05-01,2024,5,A006,Harbour,Robbery,2
+2024-05-01,2024,5,A006,Harbour,Theft,10
+2024-05-01,2024,5,A006,Harbour,Vandalism,3
+2024-05-01,2024,5,A007,Industrial,Assault,3
+2024-05-01,2024,5,A007,Industrial,Burglary,6
+2024-05-01,2024,5,A007,Industrial,Drug Offence,2
+2024-05-01,2024,5,A007,Industrial,Fraud,3
+2024-05-01,2024,5,A007,Industrial,Harassment,2
+2024-05-01,2024,5,A007,Industrial,Robbery,2
+2024-05-01,2024,5,A007,Industrial,Theft,5
+2024-05-01,2024,5,A007,Industrial,Vandalism,1
+2024-05-01,2024,5,A008,University,Assault,4
+2024-05-01,2024,5,A008,University,Burglary,1
+2024-05-01,2024,5,A008,University,Drug Offence,4
+2024-05-01,2024,5,A008,University,Fraud,3
+2024-05-01,2024,5,A008,University,Harassment,2
+2024-05-01,2024,5,A008,University,Robbery,3
+2024-05-01,2024,5,A008,University,Theft,3
+2024-05-01,2024,5,A008,University,Vandalism,2
+2024-05-01,2024,5,A009,Market,Assault,2
+2024-05-01,2024,5,A009,Market,Burglary,5
+2024-05-01,2024,5,A009,Market,Drug Offence,4
+2024-05-01,2024,5,A009,Market,Fraud,6
+2024-05-01,2024,5,A009,Market,Harassment,5
+2024-05-01,2024,5,A009,Market,Robbery,4
+2024-05-01,2024,5,A009,Market,Theft,4
+2024-05-01,2024,5,A009,Market,Vandalism,2
+2024-05-01,2024,5,A010,Suburban,Assault,2
+2024-05-01,2024,5,A010,Suburban,Burglary,2
+2024-05-01,2024,5,A010,Suburban,Drug Offence,3
+2024-05-01,2024,5,A010,Suburban,Fraud,1
+2024-05-01,2024,5,A010,Suburban,Harassment,4
+2024-05-01,2024,5,A010,Suburban,Robbery,5
+2024-05-01,2024,5,A010,Suburban,Theft,5
+2024-05-01,2024,5,A010,Suburban,Vandalism,3
+2024-06-01,2024,6,A001,Central,Assault,6
+2024-06-01,2024,6,A001,Central,Burglary,6
+2024-06-01,2024,6,A001,Central,Drug Offence,4
+2024-06-01,2024,6,A001,Central,Fraud,12
+2024-06-01,2024,6,A001,Central,Harassment,3
+2024-06-01,2024,6,A001,Central,Robbery,1
+2024-06-01,2024,6,A001,Central,Theft,9
+2024-06-01,2024,6,A001,Central,Vandalism,2
+2024-06-01,2024,6,A002,North,Assault,6
+2024-06-01,2024,6,A002,North,Burglary,7
+2024-06-01,2024,6,A002,North,Drug Offence,2
+2024-06-01,2024,6,A002,North,Fraud,5
+2024-06-01,2024,6,A002,North,Harassment,6
+2024-06-01,2024,6,A002,North,Robbery,8
+2024-06-01,2024,6,A002,North,Theft,7
+2024-06-01,2024,6,A002,North,Vandalism,2
+2024-06-01,2024,6,A003,South,Assault,7
+2024-06-01,2024,6,A003,South,Burglary,3
+2024-06-01,2024,6,A003,South,Drug Offence,4
+2024-06-01,2024,6,A003,South,Fraud,2
+2024-06-01,2024,6,A003,South,Harassment,1
+2024-06-01,2024,6,A003,South,Robbery,2
+2024-06-01,2024,6,A003,South,Theft,6
+2024-06-01,2024,6,A004,East,Assault,5
+2024-06-01,2024,6,A004,East,Burglary,5
+2024-06-01,2024,6,A004,East,Drug Offence,1
+2024-06-01,2024,6,A004,East,Fraud,4
+2024-06-01,2024,6,A004,East,Harassment,2
+2024-06-01,2024,6,A004,East,Robbery,7
+2024-06-01,2024,6,A004,East,Theft,10
+2024-06-01,2024,6,A004,East,Vandalism,6
+2024-06-01,2024,6,A005,West,Assault,6
+2024-06-01,2024,6,A005,West,Burglary,3
+2024-06-01,2024,6,A005,West,Drug Offence,3
+2024-06-01,2024,6,A005,West,Fraud,4
+2024-06-01,2024,6,A005,West,Harassment,1
+2024-06-01,2024,6,A005,West,Robbery,3
+2024-06-01,2024,6,A005,West,Theft,7
+2024-06-01,2024,6,A005,West,Vandalism,4
+2024-06-01,2024,6,A006,Harbour,Assault,1
+2024-06-01,2024,6,A006,Harbour,Burglary,3
+2024-06-01,2024,6,A006,Harbour,Drug Offence,2
+2024-06-01,2024,6,A006,Harbour,Fraud,3
+2024-06-01,2024,6,A006,Harbour,Harassment,3
+2024-06-01,2024,6,A006,Harbour,Robbery,2
+2024-06-01,2024,6,A006,Harbour,Theft,4
+2024-06-01,2024,6,A006,Harbour,Vandalism,1
+2024-06-01,2024,6,A007,Industrial,Assault,7
+2024-06-01,2024,6,A007,Industrial,Burglary,7
+2024-06-01,2024,6,A007,Industrial,Drug Offence,3
+2024-06-01,2024,6,A007,Industrial,Fraud,6
+2024-06-01,2024,6,A007,Industrial,Harassment,1
+2024-06-01,2024,6,A007,Industrial,Robbery,4
+2024-06-01,2024,6,A007,Industrial,Theft,7
+2024-06-01,2024,6,A007,Industrial,Vandalism,1
+2024-06-01,2024,6,A008,University,Assault,2
+2024-06-01,2024,6,A008,University,Burglary,2
+2024-06-01,2024,6,A008,University,Drug Offence,4
+2024-06-01,2024,6,A008,University,Fraud,5
+2024-06-01,2024,6,A008,University,Harassment,1
+2024-06-01,2024,6,A008,University,Robbery,3
+2024-06-01,2024,6,A008,University,Theft,2
+2024-06-01,2024,6,A008,University,Vandalism,3
+2024-06-01,2024,6,A009,Market,Assault,5
+2024-06-01,2024,6,A009,Market,Burglary,4
+2024-06-01,2024,6,A009,Market,Drug Offence,3
+2024-06-01,2024,6,A009,Market,Fraud,8
+2024-06-01,2024,6,A009,Market,Harassment,4
+2024-06-01,2024,6,A009,Market,Robbery,2
+2024-06-01,2024,6,A009,Market,Theft,11
+2024-06-01,2024,6,A009,Market,Vandalism,3
+2024-06-01,2024,6,A010,Suburban,Assault,4
+2024-06-01,2024,6,A010,Suburban,Burglary,4
+2024-06-01,2024,6,A010,Suburban,Fraud,5
+2024-06-01,2024,6,A010,Suburban,Harassment,1
+2024-06-01,2024,6,A010,Suburban,Robbery,2
+2024-06-01,2024,6,A010,Suburban,Theft,6
+2024-07-01,2024,7,A001,Central,Assault,6
+2024-07-01,2024,7,A001,Central,Burglary,5
+2024-07-01,2024,7,A001,Central,Drug Offence,3
+2024-07-01,2024,7,A001,Central,Fraud,9
+2024-07-01,2024,7,A001,Central,Harassment,1
+2024-07-01,2024,7,A001,Central,Robbery,1
+2024-07-01,2024,7,A001,Central,Theft,14
+2024-07-01,2024,7,A001,Central,Vandalism,6
+2024-07-01,2024,7,A002,North,Assault,6
+2024-07-01,2024,7,A002,North,Burglary,5
+2024-07-01,2024,7,A002,North,Drug Offence,4
+2024-07-01,2024,7,A002,North,Fraud,8
+2024-07-01,2024,7,A002,North,Harassment,6
+2024-07-01,2024,7,A002,North,Robbery,4
+2024-07-01,2024,7,A002,North,Theft,10
+2024-07-01,2024,7,A002,North,Vandalism,4
+2024-07-01,2024,7,A003,South,Assault,7
+2024-07-01,2024,7,A003,South,Burglary,12
+2024-07-01,2024,7,A003,South,Drug Offence,4
+2024-07-01,2024,7,A003,South,Fraud,5
+2024-07-01,2024,7,A003,South,Harassment,3
+2024-07-01,2024,7,A003,South,Robbery,5
+2024-07-01,2024,7,A003,South,Theft,8
+2024-07-01,2024,7,A003,South,Vandalism,4
+2024-07-01,2024,7,A004,East,Assault,10
+2024-07-01,2024,7,A004,East,Burglary,3
+2024-07-01,2024,7,A004,East,Drug Offence,3
+2024-07-01,2024,7,A004,East,Fraud,12
+2024-07-01,2024,7,A004,East,Harassment,3
+2024-07-01,2024,7,A004,East,Robbery,4
+2024-07-01,2024,7,A004,East,Theft,6
+2024-07-01,2024,7,A004,East,Vandalism,2
+2024-07-01,2024,7,A005,West,Assault,7
+2024-07-01,2024,7,A005,West,Burglary,5
+2024-07-01,2024,7,A005,West,Drug Offence,1
+2024-07-01,2024,7,A005,West,Fraud,9
+2024-07-01,2024,7,A005,West,Harassment,2
+2024-07-01,2024,7,A005,West,Robbery,5
+2024-07-01,2024,7,A005,West,Theft,11
+2024-07-01,2024,7,A005,West,Vandalism,4
+2024-07-01,2024,7,A006,Harbour,Assault,4
+2024-07-01,2024,7,A006,Harbour,Burglary,5
+2024-07-01,2024,7,A006,Harbour,Drug Offence,5
+2024-07-01,2024,7,A006,Harbour,Fraud,2
+2024-07-01,2024,7,A006,Harbour,Harassment,3
+2024-07-01,2024,7,A006,Harbour,Robbery,6
+2024-07-01,2024,7,A006,Harbour,Theft,6
+2024-07-01,2024,7,A006,Harbour,Vandalism,4
+2024-07-01,2024,7,A007,Industrial,Assault,2
+2024-07-01,2024,7,A007,Industrial,Burglary,3
+2024-07-01,2024,7,A007,Industrial,Drug Offence,4
+2024-07-01,2024,7,A007,Industrial,Fraud,7
+2024-07-01,2024,7,A007,Industrial,Harassment,2
+2024-07-01,2024,7,A007,Industrial,Robbery,3
+2024-07-01,2024,7,A007,Industrial,Theft,9
+2024-07-01,2024,7,A007,Industrial,Vandalism,3
+2024-07-01,2024,7,A008,University,Assault,3
+2024-07-01,2024,7,A008,University,Burglary,6
+2024-07-01,2024,7,A008,University,Drug Offence,1
+2024-07-01,2024,7,A008,University,Fraud,1
+2024-07-01,2024,7,A008,University,Harassment,1
+2024-07-01,2024,7,A008,University,Robbery,1
+2024-07-01,2024,7,A008,University,Theft,5
+2024-07-01,2024,7,A008,University,Vandalism,4
+2024-07-01,2024,7,A009,Market,Assault,5
+2024-07-01,2024,7,A009,Market,Burglary,9
+2024-07-01,2024,7,A009,Market,Drug Offence,1
+2024-07-01,2024,7,A009,Market,Fraud,3
+2024-07-01,2024,7,A009,Market,Harassment,2
+2024-07-01,2024,7,A009,Market,Robbery,5
+2024-07-01,2024,7,A009,Market,Theft,12
+2024-07-01,2024,7,A009,Market,Vandalism,5
+2024-07-01,2024,7,A010,Suburban,Assault,4
+2024-07-01,2024,7,A010,Suburban,Burglary,3
+2024-07-01,2024,7,A010,Suburban,Drug Offence,4
+2024-07-01,2024,7,A010,Suburban,Fraud,3
+2024-07-01,2024,7,A010,Suburban,Robbery,3
+2024-07-01,2024,7,A010,Suburban,Theft,4
+2024-07-01,2024,7,A010,Suburban,Vandalism,2
+2024-08-01,2024,8,A001,Central,Assault,7
+2024-08-01,2024,8,A001,Central,Burglary,6
+2024-08-01,2024,8,A001,Central,Drug Offence,7
+2024-08-01,2024,8,A001,Central,Fraud,7
+2024-08-01,2024,8,A001,Central,Harassment,3
+2024-08-01,2024,8,A001,Central,Robbery,5
+2024-08-01,2024,8,A001,Central,Theft,11
+2024-08-01,2024,8,A001,Central,Vandalism,7
+2024-08-01,2024,8,A002,North,Assault,8
+2024-08-01,2024,8,A002,North,Burglary,4
+2024-08-01,2024,8,A002,North,Drug Offence,3
+2024-08-01,2024,8,A002,North,Fraud,5
+2024-08-01,2024,8,A002,North,Harassment,4
+2024-08-01,2024,8,A002,North,Robbery,5
+2024-08-01,2024,8,A002,North,Theft,14
+2024-08-01,2024,8,A002,North,Vandalism,3
+2024-08-01,2024,8,A003,South,Assault,4
+2024-08-01,2024,8,A003,South,Burglary,4
+2024-08-01,2024,8,A003,South,Drug Offence,5
+2024-08-01,2024,8,A003,South,Fraud,7
+2024-08-01,2024,8,A003,South,Robbery,4
+2024-08-01,2024,8,A003,South,Theft,8
+2024-08-01,2024,8,A003,South,Vandalism,3
+2024-08-01,2024,8,A004,East,Assault,3
+2024-08-01,2024,8,A004,East,Burglary,1
+2024-08-01,2024,8,A004,East,Drug Offence,4
+2024-08-01,2024,8,A004,East,Fraud,5
+2024-08-01,2024,8,A004,East,Harassment,5
+2024-08-01,2024,8,A004,East,Robbery,8
+2024-08-01,2024,8,A004,East,Theft,3
+2024-08-01,2024,8,A004,East,Vandalism,8
+2024-08-01,2024,8,A005,West,Assault,9
+2024-08-01,2024,8,A005,West,Burglary,6
+2024-08-01,2024,8,A005,West,Drug Offence,1
+2024-08-01,2024,8,A005,West,Fraud,3
+2024-08-01,2024,8,A005,West,Harassment,2
+2024-08-01,2024,8,A005,West,Robbery,2
+2024-08-01,2024,8,A005,West,Theft,6
+2024-08-01,2024,8,A005,West,Vandalism,3
+2024-08-01,2024,8,A006,Harbour,Assault,1
+2024-08-01,2024,8,A006,Harbour,Burglary,2
+2024-08-01,2024,8,A006,Harbour,Drug Offence,1
+2024-08-01,2024,8,A006,Harbour,Fraud,1
+2024-08-01,2024,8,A006,Harbour,Harassment,1
+2024-08-01,2024,8,A006,Harbour,Robbery,2
+2024-08-01,2024,8,A006,Harbour,Theft,2
+2024-08-01,2024,8,A006,Harbour,Vandalism,1
+2024-08-01,2024,8,A007,Industrial,Assault,7
+2024-08-01,2024,8,A007,Industrial,Burglary,4
+2024-08-01,2024,8,A007,Industrial,Drug Offence,3
+2024-08-01,2024,8,A007,Industrial,Fraud,10
+2024-08-01,2024,8,A007,Industrial,Harassment,3
+2024-08-01,2024,8,A007,Industrial,Robbery,4
+2024-08-01,2024,8,A007,Industrial,Theft,5
+2024-08-01,2024,8,A007,Industrial,Vandalism,2
+2024-08-01,2024,8,A008,University,Assault,6
+2024-08-01,2024,8,A008,University,Burglary,5
+2024-08-01,2024,8,A008,University,Drug Offence,1
+2024-08-01,2024,8,A008,University,Fraud,3
+2024-08-01,2024,8,A008,University,Harassment,1
+2024-08-01,2024,8,A008,University,Robbery,3
+2024-08-01,2024,8,A008,University,Theft,6
+2024-08-01,2024,8,A008,University,Vandalism,5
+2024-08-01,2024,8,A009,Market,Assault,8
+2024-08-01,2024,8,A009,Market,Burglary,4
+2024-08-01,2024,8,A009,Market,Drug Offence,1
+2024-08-01,2024,8,A009,Market,Fraud,5
+2024-08-01,2024,8,A009,Market,Harassment,3
+2024-08-01,2024,8,A009,Market,Robbery,4
+2024-08-01,2024,8,A009,Market,Theft,5
+2024-08-01,2024,8,A009,Market,Vandalism,6
+2024-08-01,2024,8,A010,Suburban,Assault,2
+2024-08-01,2024,8,A010,Suburban,Burglary,5
+2024-08-01,2024,8,A010,Suburban,Drug Offence,2
+2024-08-01,2024,8,A010,Suburban,Fraud,6
+2024-08-01,2024,8,A010,Suburban,Harassment,4
+2024-08-01,2024,8,A010,Suburban,Theft,4
+2024-08-01,2024,8,A010,Suburban,Vandalism,1
+2024-09-01,2024,9,A001,Central,Assault,5
+2024-09-01,2024,9,A001,Central,Burglary,3
+2024-09-01,2024,9,A001,Central,Drug Offence,1
+2024-09-01,2024,9,A001,Central,Fraud,10
+2024-09-01,2024,9,A001,Central,Harassment,1
+2024-09-01,2024,9,A001,Central,Robbery,3
+2024-09-01,2024,9,A001,Central,Theft,2
+2024-09-01,2024,9,A001,Central,Vandalism,4
+2024-09-01,2024,9,A002,North,Assault,7
+2024-09-01,2024,9,A002,North,Burglary,7
+2024-09-01,2024,9,A002,North,Fraud,4
+2024-09-01,2024,9,A002,North,Harassment,2
+2024-09-01,2024,9,A002,North,Robbery,5
+2024-09-01,2024,9,A002,North,Theft,10
+2024-09-01,2024,9,A002,North,Vandalism,5
+2024-09-01,2024,9,A003,South,Assault,7
+2024-09-01,2024,9,A003,South,Burglary,4
+2024-09-01,2024,9,A003,South,Drug Offence,3
+2024-09-01,2024,9,A003,South,Fraud,7
+2024-09-01,2024,9,A003,South,Harassment,3
+2024-09-01,2024,9,A003,South,Robbery,5
+2024-09-01,2024,9,A003,South,Theft,7
+2024-09-01,2024,9,A003,South,Vandalism,2
+2024-09-01,2024,9,A004,East,Assault,13
+2024-09-01,2024,9,A004,East,Burglary,3
+2024-09-01,2024,9,A004,East,Drug Offence,1
+2024-09-01,2024,9,A004,East,Fraud,6
+2024-09-01,2024,9,A004,East,Harassment,4
+2024-09-01,2024,9,A004,East,Robbery,6
+2024-09-01,2024,9,A004,East,Theft,5
+2024-09-01,2024,9,A004,East,Vandalism,1
+2024-09-01,2024,9,A005,West,Assault,8
+2024-09-01,2024,9,A005,West,Burglary,1
+2024-09-01,2024,9,A005,West,Drug Offence,4
+2024-09-01,2024,9,A005,West,Fraud,5
+2024-09-01,2024,9,A005,West,Harassment,2
+2024-09-01,2024,9,A005,West,Robbery,2
+2024-09-01,2024,9,A005,West,Theft,10
+2024-09-01,2024,9,A005,West,Vandalism,7
+2024-09-01,2024,9,A006,Harbour,Assault,5
+2024-09-01,2024,9,A006,Harbour,Burglary,6
+2024-09-01,2024,9,A006,Harbour,Drug Offence,3
+2024-09-01,2024,9,A006,Harbour,Fraud,6
+2024-09-01,2024,9,A006,Harbour,Robbery,4
+2024-09-01,2024,9,A006,Harbour,Theft,5
+2024-09-01,2024,9,A006,Harbour,Vandalism,2
+2024-09-01,2024,9,A007,Industrial,Assault,8
+2024-09-01,2024,9,A007,Industrial,Burglary,4
+2024-09-01,2024,9,A007,Industrial,Drug Offence,2
+2024-09-01,2024,9,A007,Industrial,Fraud,5
+2024-09-01,2024,9,A007,Industrial,Harassment,2
+2024-09-01,2024,9,A007,Industrial,Robbery,2
+2024-09-01,2024,9,A007,Industrial,Theft,6
+2024-09-01,2024,9,A007,Industrial,Vandalism,4
+2024-09-01,2024,9,A008,University,Assault,7
+2024-09-01,2024,9,A008,University,Burglary,4
+2024-09-01,2024,9,A008,University,Drug Offence,2
+2024-09-01,2024,9,A008,University,Fraud,5
+2024-09-01,2024,9,A008,University,Harassment,1
+2024-09-01,2024,9,A008,University,Robbery,2
+2024-09-01,2024,9,A008,University,Theft,2
+2024-09-01,2024,9,A008,University,Vandalism,1
+2024-09-01,2024,9,A009,Market,Assault,8
+2024-09-01,2024,9,A009,Market,Burglary,5
+2024-09-01,2024,9,A009,Market,Drug Offence,1
+2024-09-01,2024,9,A009,Market,Fraud,5
+2024-09-01,2024,9,A009,Market,Harassment,2
+2024-09-01,2024,9,A009,Market,Robbery,3
+2024-09-01,2024,9,A009,Market,Theft,4
+2024-09-01,2024,9,A009,Market,Vandalism,3
+2024-09-01,2024,9,A010,Suburban,Assault,2
+2024-09-01,2024,9,A010,Suburban,Burglary,4
+2024-09-01,2024,9,A010,Suburban,Fraud,5
+2024-09-01,2024,9,A010,Suburban,Harassment,1
+2024-09-01,2024,9,A010,Suburban,Robbery,3
+2024-09-01,2024,9,A010,Suburban,Theft,6
+2024-09-01,2024,9,A010,Suburban,Vandalism,1
+2024-10-01,2024,10,A001,Central,Assault,4
+2024-10-01,2024,10,A001,Central,Burglary,5
+2024-10-01,2024,10,A001,Central,Drug Offence,2
+2024-10-01,2024,10,A001,Central,Fraud,7
+2024-10-01,2024,10,A001,Central,Harassment,8
+2024-10-01,2024,10,A001,Central,Robbery,4
+2024-10-01,2024,10,A001,Central,Theft,7
+2024-10-01,2024,10,A001,Central,Vandalism,5
+2024-10-01,2024,10,A002,North,Assault,6
+2024-10-01,2024,10,A002,North,Burglary,9
+2024-10-01,2024,10,A002,North,Drug Offence,4
+2024-10-01,2024,10,A002,North,Fraud,7
+2024-10-01,2024,10,A002,North,Harassment,1
+2024-10-01,2024,10,A002,North,Robbery,10
+2024-10-01,2024,10,A002,North,Theft,15
+2024-10-01,2024,10,A002,North,Vandalism,3
+2024-10-01,2024,10,A003,South,Assault,8
+2024-10-01,2024,10,A003,South,Burglary,3
+2024-10-01,2024,10,A003,South,Drug Offence,1
+2024-10-01,2024,10,A003,South,Fraud,5
+2024-10-01,2024,10,A003,South,Harassment,5
+2024-10-01,2024,10,A003,South,Robbery,3
+2024-10-01,2024,10,A003,South,Theft,6
+2024-10-01,2024,10,A003,South,Vandalism,3
+2024-10-01,2024,10,A004,East,Assault,2
+2024-10-01,2024,10,A004,East,Burglary,3
+2024-10-01,2024,10,A004,East,Drug Offence,2
+2024-10-01,2024,10,A004,East,Fraud,9
+2024-10-01,2024,10,A004,East,Harassment,2
+2024-10-01,2024,10,A004,East,Robbery,6
+2024-10-01,2024,10,A004,East,Theft,8
+2024-10-01,2024,10,A004,East,Vandalism,5
+2024-10-01,2024,10,A005,West,Assault,7
+2024-10-01,2024,10,A005,West,Burglary,7
+2024-10-01,2024,10,A005,West,Drug Offence,1
+2024-10-01,2024,10,A005,West,Fraud,3
+2024-10-01,2024,10,A005,West,Harassment,2
+2024-10-01,2024,10,A005,West,Robbery,3
+2024-10-01,2024,10,A005,West,Theft,6
+2024-10-01,2024,10,A005,West,Vandalism,3
+2024-10-01,2024,10,A006,Harbour,Assault,2
+2024-10-01,2024,10,A006,Harbour,Burglary,4
+2024-10-01,2024,10,A006,Harbour,Drug Offence,3
+2024-10-01,2024,10,A006,Harbour,Fraud,3
+2024-10-01,2024,10,A006,Harbour,Harassment,1
+2024-10-01,2024,10,A006,Harbour,Robbery,3
+2024-10-01,2024,10,A006,Harbour,Theft,8
+2024-10-01,2024,10,A006,Harbour,Vandalism,1
+2024-10-01,2024,10,A007,Industrial,Assault,4
+2024-10-01,2024,10,A007,Industrial,Burglary,3
+2024-10-01,2024,10,A007,Industrial,Drug Offence,1
+2024-10-01,2024,10,A007,Industrial,Fraud,7
+2024-10-01,2024,10,A007,Industrial,Harassment,2
+2024-10-01,2024,10,A007,Industrial,Robbery,6
+2024-10-01,2024,10,A007,Industrial,Theft,7
+2024-10-01,2024,10,A007,Industrial,Vandalism,2
+2024-10-01,2024,10,A008,University,Assault,2
+2024-10-01,2024,10,A008,University,Burglary,6
+2024-10-01,2024,10,A008,University,Drug Offence,1
+2024-10-01,2024,10,A008,University,Fraud,4
+2024-10-01,2024,10,A008,University,Harassment,2
+2024-10-01,2024,10,A008,University,Robbery,2
+2024-10-01,2024,10,A008,University,Theft,7
+2024-10-01,2024,10,A008,University,Vandalism,2
+2024-10-01,2024,10,A009,Market,Assault,1
+2024-10-01,2024,10,A009,Market,Burglary,4
+2024-10-01,2024,10,A009,Market,Fraud,5
+2024-10-01,2024,10,A009,Market,Harassment,3
+2024-10-01,2024,10,A009,Market,Robbery,5
+2024-10-01,2024,10,A009,Market,Theft,9
+2024-10-01,2024,10,A009,Market,Vandalism,2
+2024-10-01,2024,10,A010,Suburban,Assault,2
+2024-10-01,2024,10,A010,Suburban,Burglary,5
+2024-10-01,2024,10,A010,Suburban,Drug Offence,1
+2024-10-01,2024,10,A010,Suburban,Fraud,5
+2024-10-01,2024,10,A010,Suburban,Harassment,2
+2024-10-01,2024,10,A010,Suburban,Robbery,2
+2024-10-01,2024,10,A010,Suburban,Theft,5
+2024-10-01,2024,10,A010,Suburban,Vandalism,2
+2024-11-01,2024,11,A001,Central,Assault,8
+2024-11-01,2024,11,A001,Central,Burglary,6
+2024-11-01,2024,11,A001,Central,Drug Offence,3
+2024-11-01,2024,11,A001,Central,Fraud,7
+2024-11-01,2024,11,A001,Central,Harassment,7
+2024-11-01,2024,11,A001,Central,Robbery,4
+2024-11-01,2024,11,A001,Central,Theft,9
+2024-11-01,2024,11,A001,Central,Vandalism,2
+2024-11-01,2024,11,A002,North,Assault,12
+2024-11-01,2024,11,A002,North,Burglary,4
+2024-11-01,2024,11,A002,North,Drug Offence,6
+2024-11-01,2024,11,A002,North,Fraud,2
+2024-11-01,2024,11,A002,North,Harassment,2
+2024-11-01,2024,11,A002,North,Robbery,5
+2024-11-01,2024,11,A002,North,Theft,13
+2024-11-01,2024,11,A002,North,Vandalism,5
+2024-11-01,2024,11,A003,South,Assault,3
+2024-11-01,2024,11,A003,South,Burglary,4
+2024-11-01,2024,11,A003,South,Drug Offence,2
+2024-11-01,2024,11,A003,South,Fraud,6
+2024-11-01,2024,11,A003,South,Harassment,3
+2024-11-01,2024,11,A003,South,Robbery,2
+2024-11-01,2024,11,A003,South,Theft,9
+2024-11-01,2024,11,A003,South,Vandalism,1
+2024-11-01,2024,11,A004,East,Assault,9
+2024-11-01,2024,11,A004,East,Burglary,6
+2024-11-01,2024,11,A004,East,Drug Offence,2
+2024-11-01,2024,11,A004,East,Fraud,3
+2024-11-01,2024,11,A004,East,Harassment,4
+2024-11-01,2024,11,A004,East,Robbery,6
+2024-11-01,2024,11,A004,East,Theft,11
+2024-11-01,2024,11,A004,East,Vandalism,4
+2024-11-01,2024,11,A005,West,Assault,4
+2024-11-01,2024,11,A005,West,Burglary,1
+2024-11-01,2024,11,A005,West,Drug Offence,3
+2024-11-01,2024,11,A005,West,Fraud,8
+2024-11-01,2024,11,A005,West,Harassment,2
+2024-11-01,2024,11,A005,West,Robbery,6
+2024-11-01,2024,11,A005,West,Theft,8
+2024-11-01,2024,11,A005,West,Vandalism,4
+2024-11-01,2024,11,A006,Harbour,Assault,5
+2024-11-01,2024,11,A006,Harbour,Burglary,4
+2024-11-01,2024,11,A006,Harbour,Drug Offence,1
+2024-11-01,2024,11,A006,Harbour,Fraud,3
+2024-11-01,2024,11,A006,Harbour,Harassment,2
+2024-11-01,2024,11,A006,Harbour,Robbery,5
+2024-11-01,2024,11,A006,Harbour,Theft,6
+2024-11-01,2024,11,A006,Harbour,Vandalism,2
+2024-11-01,2024,11,A007,Industrial,Assault,5
+2024-11-01,2024,11,A007,Industrial,Burglary,3
+2024-11-01,2024,11,A007,Industrial,Drug Offence,3
+2024-11-01,2024,11,A007,Industrial,Fraud,3
+2024-11-01,2024,11,A007,Industrial,Harassment,2
+2024-11-01,2024,11,A007,Industrial,Theft,5
+2024-11-01,2024,11,A007,Industrial,Vandalism,3
+2024-11-01,2024,11,A008,University,Assault,3
+2024-11-01,2024,11,A008,University,Burglary,7
+2024-11-01,2024,11,A008,University,Drug Offence,2
+2024-11-01,2024,11,A008,University,Fraud,3
+2024-11-01,2024,11,A008,University,Harassment,2
+2024-11-01,2024,11,A008,University,Robbery,7
+2024-11-01,2024,11,A008,University,Theft,3
+2024-11-01,2024,11,A008,University,Vandalism,1
+2024-11-01,2024,11,A009,Market,Assault,7
+2024-11-01,2024,11,A009,Market,Burglary,2
+2024-11-01,2024,11,A009,Market,Drug Offence,3
+2024-11-01,2024,11,A009,Market,Fraud,4
+2024-11-01,2024,11,A009,Market,Harassment,1
+2024-11-01,2024,11,A009,Market,Robbery,4
+2024-11-01,2024,11,A009,Market,Theft,4
+2024-11-01,2024,11,A010,Suburban,Assault,3
+2024-11-01,2024,11,A010,Suburban,Burglary,6
+2024-11-01,2024,11,A010,Suburban,Drug Offence,3
+2024-11-01,2024,11,A010,Suburban,Fraud,4
+2024-11-01,2024,11,A010,Suburban,Harassment,2
+2024-11-01,2024,11,A010,Suburban,Robbery,2
+2024-11-01,2024,11,A010,Suburban,Theft,8
+2024-11-01,2024,11,A010,Suburban,Vandalism,4
+2024-12-01,2024,12,A001,Central,Assault,6
+2024-12-01,2024,12,A001,Central,Burglary,6
+2024-12-01,2024,12,A001,Central,Drug Offence,3
+2024-12-01,2024,12,A001,Central,Fraud,7
+2024-12-01,2024,12,A001,Central,Harassment,6
+2024-12-01,2024,12,A001,Central,Robbery,4
+2024-12-01,2024,12,A001,Central,Theft,12
+2024-12-01,2024,12,A001,Central,Vandalism,4
+2024-12-01,2024,12,A002,North,Assault,8
+2024-12-01,2024,12,A002,North,Burglary,3
+2024-12-01,2024,12,A002,North,Drug Offence,4
+2024-12-01,2024,12,A002,North,Fraud,3
+2024-12-01,2024,12,A002,North,Harassment,3
+2024-12-01,2024,12,A002,North,Robbery,4
+2024-12-01,2024,12,A002,North,Theft,12
+2024-12-01,2024,12,A002,North,Vandalism,5
+2024-12-01,2024,12,A003,South,Assault,2
+2024-12-01,2024,12,A003,South,Burglary,6
+2024-12-01,2024,12,A003,South,Drug Offence,3
+2024-12-01,2024,12,A003,South,Fraud,7
+2024-12-01,2024,12,A003,South,Harassment,7
+2024-12-01,2024,12,A003,South,Robbery,6
+2024-12-01,2024,12,A003,South,Theft,10
+2024-12-01,2024,12,A003,South,Vandalism,1
+2024-12-01,2024,12,A004,East,Assault,3
+2024-12-01,2024,12,A004,East,Burglary,9
+2024-12-01,2024,12,A004,East,Drug Offence,4
+2024-12-01,2024,12,A004,East,Fraud,8
+2024-12-01,2024,12,A004,East,Harassment,2
+2024-12-01,2024,12,A004,East,Robbery,7
+2024-12-01,2024,12,A004,East,Theft,8
+2024-12-01,2024,12,A004,East,Vandalism,7
+2024-12-01,2024,12,A005,West,Assault,4
+2024-12-01,2024,12,A005,West,Burglary,4
+2024-12-01,2024,12,A005,West,Drug Offence,1
+2024-12-01,2024,12,A005,West,Fraud,8
+2024-12-01,2024,12,A005,West,Harassment,3
+2024-12-01,2024,12,A005,West,Robbery,2
+2024-12-01,2024,12,A005,West,Theft,5
+2024-12-01,2024,12,A005,West,Vandalism,1
+2024-12-01,2024,12,A006,Harbour,Assault,5
+2024-12-01,2024,12,A006,Harbour,Burglary,5
+2024-12-01,2024,12,A006,Harbour,Drug Offence,2
+2024-12-01,2024,12,A006,Harbour,Fraud,4
+2024-12-01,2024,12,A006,Harbour,Harassment,3
+2024-12-01,2024,12,A006,Harbour,Robbery,2
+2024-12-01,2024,12,A006,Harbour,Theft,3
+2024-12-01,2024,12,A006,Harbour,Vandalism,3
+2024-12-01,2024,12,A007,Industrial,Assault,5
+2024-12-01,2024,12,A007,Industrial,Burglary,2
+2024-12-01,2024,12,A007,Industrial,Drug Offence,5
+2024-12-01,2024,12,A007,Industrial,Fraud,7
+2024-12-01,2024,12,A007,Industrial,Harassment,1
+2024-12-01,2024,12,A007,Industrial,Theft,5
+2024-12-01,2024,12,A007,Industrial,Vandalism,2
+2024-12-01,2024,12,A008,University,Assault,1
+2024-12-01,2024,12,A008,University,Burglary,6
+2024-12-01,2024,12,A008,University,Drug Offence,3
+2024-12-01,2024,12,A008,University,Fraud,5
+2024-12-01,2024,12,A008,University,Harassment,4
+2024-12-01,2024,12,A008,University,Theft,10
+2024-12-01,2024,12,A009,Market,Assault,4
+2024-12-01,2024,12,A009,Market,Burglary,4
+2024-12-01,2024,12,A009,Market,Drug Offence,1
+2024-12-01,2024,12,A009,Market,Fraud,4
+2024-12-01,2024,12,A009,Market,Harassment,2
+2024-12-01,2024,12,A009,Market,Robbery,5
+2024-12-01,2024,12,A009,Market,Theft,7
+2024-12-01,2024,12,A009,Market,Vandalism,3
+2024-12-01,2024,12,A010,Suburban,Assault,2
+2024-12-01,2024,12,A010,Suburban,Burglary,1
+2024-12-01,2024,12,A010,Suburban,Drug Offence,3
+2024-12-01,2024,12,A010,Suburban,Fraud,2
+2024-12-01,2024,12,A010,Suburban,Robbery,3
+2024-12-01,2024,12,A010,Suburban,Theft,6
+2024-12-01,2024,12,A010,Suburban,Vandalism,3
+2025-01-01,2025,1,A001,Central,Assault,10
+2025-01-01,2025,1,A001,Central,Burglary,7
+2025-01-01,2025,1,A001,Central,Drug Offence,3
+2025-01-01,2025,1,A001,Central,Fraud,8
+2025-01-01,2025,1,A001,Central,Harassment,3
+2025-01-01,2025,1,A001,Central,Robbery,3
+2025-01-01,2025,1,A001,Central,Theft,10
+2025-01-01,2025,1,A001,Central,Vandalism,2
+2025-01-01,2025,1,A002,North,Assault,4
+2025-01-01,2025,1,A002,North,Burglary,3
+2025-01-01,2025,1,A002,North,Drug Offence,1
+2025-01-01,2025,1,A002,North,Fraud,6
+2025-01-01,2025,1,A002,North,Harassment,9
+2025-01-01,2025,1,A002,North,Robbery,2
+2025-01-01,2025,1,A002,North,Theft,7
+2025-01-01,2025,1,A002,North,Vandalism,1
+2025-01-01,2025,1,A003,South,Assault,3
+2025-01-01,2025,1,A003,South,Burglary,4
+2025-01-01,2025,1,A003,South,Drug Offence,4
+2025-01-01,2025,1,A003,South,Fraud,5
+2025-01-01,2025,1,A003,South,Harassment,5
+2025-01-01,2025,1,A003,South,Robbery,1
+2025-01-01,2025,1,A003,South,Theft,13
+2025-01-01,2025,1,A003,South,Vandalism,6
+2025-01-01,2025,1,A004,East,Assault,5
+2025-01-01,2025,1,A004,East,Burglary,10
+2025-01-01,2025,1,A004,East,Drug Offence,4
+2025-01-01,2025,1,A004,East,Fraud,10
+2025-01-01,2025,1,A004,East,Harassment,2
+2025-01-01,2025,1,A004,East,Robbery,2
+2025-01-01,2025,1,A004,East,Theft,7
+2025-01-01,2025,1,A004,East,Vandalism,3
+2025-01-01,2025,1,A005,West,Assault,8
+2025-01-01,2025,1,A005,West,Burglary,8
+2025-01-01,2025,1,A005,West,Drug Offence,2
+2025-01-01,2025,1,A005,West,Fraud,4
+2025-01-01,2025,1,A005,West,Harassment,4
+2025-01-01,2025,1,A005,West,Robbery,3
+2025-01-01,2025,1,A005,West,Theft,9
+2025-01-01,2025,1,A005,West,Vandalism,2
+2025-01-01,2025,1,A006,Harbour,Assault,9
+2025-01-01,2025,1,A006,Harbour,Burglary,5
+2025-01-01,2025,1,A006,Harbour,Fraud,7
+2025-01-01,2025,1,A006,Harbour,Harassment,1
+2025-01-01,2025,1,A006,Harbour,Robbery,1
+2025-01-01,2025,1,A006,Harbour,Theft,4
+2025-01-01,2025,1,A006,Harbour,Vandalism,4
+2025-01-01,2025,1,A007,Industrial,Assault,9
+2025-01-01,2025,1,A007,Industrial,Burglary,2
+2025-01-01,2025,1,A007,Industrial,Drug Offence,1
+2025-01-01,2025,1,A007,Industrial,Fraud,5
+2025-01-01,2025,1,A007,Industrial,Harassment,6
+2025-01-01,2025,1,A007,Industrial,Robbery,6
+2025-01-01,2025,1,A007,Industrial,Theft,7
+2025-01-01,2025,1,A007,Industrial,Vandalism,3
+2025-01-01,2025,1,A008,University,Assault,2
+2025-01-01,2025,1,A008,University,Burglary,4
+2025-01-01,2025,1,A008,University,Drug Offence,5
+2025-01-01,2025,1,A008,University,Fraud,8
+2025-01-01,2025,1,A008,University,Harassment,2
+2025-01-01,2025,1,A008,University,Robbery,2
+2025-01-01,2025,1,A008,University,Theft,4
+2025-01-01,2025,1,A008,University,Vandalism,4
+2025-01-01,2025,1,A009,Market,Assault,7
+2025-01-01,2025,1,A009,Market,Burglary,4
+2025-01-01,2025,1,A009,Market,Drug Offence,2
+2025-01-01,2025,1,A009,Market,Fraud,3
+2025-01-01,2025,1,A009,Market,Harassment,4
+2025-01-01,2025,1,A009,Market,Robbery,2
+2025-01-01,2025,1,A009,Market,Theft,7
+2025-01-01,2025,1,A009,Market,Vandalism,2
+2025-01-01,2025,1,A010,Suburban,Assault,2
+2025-01-01,2025,1,A010,Suburban,Burglary,4
+2025-01-01,2025,1,A010,Suburban,Drug Offence,1
+2025-01-01,2025,1,A010,Suburban,Fraud,3
+2025-01-01,2025,1,A010,Suburban,Harassment,2
+2025-01-01,2025,1,A010,Suburban,Robbery,4
+2025-01-01,2025,1,A010,Suburban,Theft,5
+2025-01-01,2025,1,A010,Suburban,Vandalism,1
+2025-02-01,2025,2,A001,Central,Assault,7
+2025-02-01,2025,2,A001,Central,Burglary,7
+2025-02-01,2025,2,A001,Central,Drug Offence,5
+2025-02-01,2025,2,A001,Central,Fraud,7
+2025-02-01,2025,2,A001,Central,Harassment,3
+2025-02-01,2025,2,A001,Central,Robbery,3
+2025-02-01,2025,2,A001,Central,Theft,9
+2025-02-01,2025,2,A001,Central,Vandalism,4
+2025-02-01,2025,2,A002,North,Assault,2
+2025-02-01,2025,2,A002,North,Burglary,6
+2025-02-01,2025,2,A002,North,Drug Offence,1
+2025-02-01,2025,2,A002,North,Fraud,5
+2025-02-01,2025,2,A002,North,Harassment,3
+2025-02-01,2025,2,A002,North,Robbery,3
+2025-02-01,2025,2,A002,North,Theft,8
+2025-02-01,2025,2,A002,North,Vandalism,2
+2025-02-01,2025,2,A003,South,Assault,4
+2025-02-01,2025,2,A003,South,Burglary,3
+2025-02-01,2025,2,A003,South,Drug Offence,4
+2025-02-01,2025,2,A003,South,Fraud,3
+2025-02-01,2025,2,A003,South,Harassment,6
+2025-02-01,2025,2,A003,South,Robbery,6
+2025-02-01,2025,2,A003,South,Theft,5
+2025-02-01,2025,2,A003,South,Vandalism,2
+2025-02-01,2025,2,A004,East,Assault,5
+2025-02-01,2025,2,A004,East,Burglary,3
+2025-02-01,2025,2,A004,East,Drug Offence,5
+2025-02-01,2025,2,A004,East,Fraud,4
+2025-02-01,2025,2,A004,East,Harassment,2
+2025-02-01,2025,2,A004,East,Robbery,3
+2025-02-01,2025,2,A004,East,Theft,6
+2025-02-01,2025,2,A004,East,Vandalism,4
+2025-02-01,2025,2,A005,West,Assault,7
+2025-02-01,2025,2,A005,West,Burglary,1
+2025-02-01,2025,2,A005,West,Drug Offence,2
+2025-02-01,2025,2,A005,West,Fraud,4
+2025-02-01,2025,2,A005,West,Robbery,4
+2025-02-01,2025,2,A005,West,Theft,8
+2025-02-01,2025,2,A005,West,Vandalism,1
+2025-02-01,2025,2,A006,Harbour,Assault,5
+2025-02-01,2025,2,A006,Harbour,Burglary,3
+2025-02-01,2025,2,A006,Harbour,Drug Offence,3
+2025-02-01,2025,2,A006,Harbour,Fraud,2
+2025-02-01,2025,2,A006,Harbour,Harassment,3
+2025-02-01,2025,2,A006,Harbour,Robbery,1
+2025-02-01,2025,2,A006,Harbour,Theft,13
+2025-02-01,2025,2,A006,Harbour,Vandalism,1
+2025-02-01,2025,2,A007,Industrial,Assault,8
+2025-02-01,2025,2,A007,Industrial,Burglary,3
+2025-02-01,2025,2,A007,Industrial,Fraud,3
+2025-02-01,2025,2,A007,Industrial,Harassment,4
+2025-02-01,2025,2,A007,Industrial,Robbery,4
+2025-02-01,2025,2,A007,Industrial,Theft,5
+2025-02-01,2025,2,A007,Industrial,Vandalism,1
+2025-02-01,2025,2,A008,University,Assault,2
+2025-02-01,2025,2,A008,University,Burglary,2
+2025-02-01,2025,2,A008,University,Drug Offence,2
+2025-02-01,2025,2,A008,University,Fraud,5
+2025-02-01,2025,2,A008,University,Harassment,5
+2025-02-01,2025,2,A008,University,Robbery,5
+2025-02-01,2025,2,A008,University,Theft,7
+2025-02-01,2025,2,A008,University,Vandalism,3
+2025-02-01,2025,2,A009,Market,Assault,3
+2025-02-01,2025,2,A009,Market,Burglary,3
+2025-02-01,2025,2,A009,Market,Fraud,5
+2025-02-01,2025,2,A009,Market,Harassment,3
+2025-02-01,2025,2,A009,Market,Robbery,1
+2025-02-01,2025,2,A009,Market,Theft,8
+2025-02-01,2025,2,A009,Market,Vandalism,5
+2025-02-01,2025,2,A010,Suburban,Assault,6
+2025-02-01,2025,2,A010,Suburban,Burglary,5
+2025-02-01,2025,2,A010,Suburban,Drug Offence,1
+2025-02-01,2025,2,A010,Suburban,Harassment,2
+2025-02-01,2025,2,A010,Suburban,Robbery,7
+2025-02-01,2025,2,A010,Suburban,Theft,6
+2025-02-01,2025,2,A010,Suburban,Vandalism,3
+2025-03-01,2025,3,A001,Central,Assault,8
+2025-03-01,2025,3,A001,Central,Burglary,4
+2025-03-01,2025,3,A001,Central,Drug Offence,2
+2025-03-01,2025,3,A001,Central,Fraud,5
+2025-03-01,2025,3,A001,Central,Harassment,4
+2025-03-01,2025,3,A001,Central,Robbery,9
+2025-03-01,2025,3,A001,Central,Theft,10
+2025-03-01,2025,3,A001,Central,Vandalism,2
+2025-03-01,2025,3,A002,North,Assault,9
+2025-03-01,2025,3,A002,North,Burglary,9
+2025-03-01,2025,3,A002,North,Drug Offence,3
+2025-03-01,2025,3,A002,North,Fraud,3
+2025-03-01,2025,3,A002,North,Robbery,2
+2025-03-01,2025,3,A002,North,Theft,7
+2025-03-01,2025,3,A002,North,Vandalism,4
+2025-03-01,2025,3,A003,South,Assault,5
+2025-03-01,2025,3,A003,South,Burglary,8
+2025-03-01,2025,3,A003,South,Drug Offence,2
+2025-03-01,2025,3,A003,South,Fraud,6
+2025-03-01,2025,3,A003,South,Harassment,1
+2025-03-01,2025,3,A003,South,Robbery,6
+2025-03-01,2025,3,A003,South,Theft,10
+2025-03-01,2025,3,A003,South,Vandalism,6
+2025-03-01,2025,3,A004,East,Assault,9
+2025-03-01,2025,3,A004,East,Burglary,4
+2025-03-01,2025,3,A004,East,Drug Offence,2
+2025-03-01,2025,3,A004,East,Fraud,9
+2025-03-01,2025,3,A004,East,Harassment,2
+2025-03-01,2025,3,A004,East,Robbery,5
+2025-03-01,2025,3,A004,East,Theft,7
+2025-03-01,2025,3,A004,East,Vandalism,3
+2025-03-01,2025,3,A005,West,Assault,4
+2025-03-01,2025,3,A005,West,Burglary,5
+2025-03-01,2025,3,A005,West,Drug Offence,3
+2025-03-01,2025,3,A005,West,Fraud,9
+2025-03-01,2025,3,A005,West,Harassment,3
+2025-03-01,2025,3,A005,West,Robbery,2
+2025-03-01,2025,3,A005,West,Theft,7
+2025-03-01,2025,3,A005,West,Vandalism,3
+2025-03-01,2025,3,A006,Harbour,Assault,10
+2025-03-01,2025,3,A006,Harbour,Burglary,3
+2025-03-01,2025,3,A006,Harbour,Drug Offence,1
+2025-03-01,2025,3,A006,Harbour,Fraud,5
+2025-03-01,2025,3,A006,Harbour,Robbery,5
+2025-03-01,2025,3,A006,Harbour,Theft,4
+2025-03-01,2025,3,A006,Harbour,Vandalism,4
+2025-03-01,2025,3,A007,Industrial,Assault,5
+2025-03-01,2025,3,A007,Industrial,Burglary,3
+2025-03-01,2025,3,A007,Industrial,Drug Offence,3
+2025-03-01,2025,3,A007,Industrial,Fraud,5
+2025-03-01,2025,3,A007,Industrial,Harassment,4
+2025-03-01,2025,3,A007,Industrial,Robbery,2
+2025-03-01,2025,3,A007,Industrial,Theft,6
+2025-03-01,2025,3,A007,Industrial,Vandalism,4
+2025-03-01,2025,3,A008,University,Assault,4
+2025-03-01,2025,3,A008,University,Burglary,3
+2025-03-01,2025,3,A008,University,Drug Offence,2
+2025-03-01,2025,3,A008,University,Fraud,7
+2025-03-01,2025,3,A008,University,Harassment,3
+2025-03-01,2025,3,A008,University,Robbery,3
+2025-03-01,2025,3,A008,University,Theft,5
+2025-03-01,2025,3,A008,University,Vandalism,3
+2025-03-01,2025,3,A009,Market,Assault,4
+2025-03-01,2025,3,A009,Market,Burglary,8
+2025-03-01,2025,3,A009,Market,Drug Offence,1
+2025-03-01,2025,3,A009,Market,Fraud,3
+2025-03-01,2025,3,A009,Market,Harassment,1
+2025-03-01,2025,3,A009,Market,Robbery,7
+2025-03-01,2025,3,A009,Market,Theft,11
+2025-03-01,2025,3,A009,Market,Vandalism,1
+2025-03-01,2025,3,A010,Suburban,Assault,3
+2025-03-01,2025,3,A010,Suburban,Burglary,4
+2025-03-01,2025,3,A010,Suburban,Fraud,5
+2025-03-01,2025,3,A010,Suburban,Harassment,4
+2025-03-01,2025,3,A010,Suburban,Robbery,1
+2025-03-01,2025,3,A010,Suburban,Theft,4
+2025-03-01,2025,3,A010,Suburban,Vandalism,3
+2025-04-01,2025,4,A001,Central,Assault,7
+2025-04-01,2025,4,A001,Central,Burglary,3
+2025-04-01,2025,4,A001,Central,Drug Offence,2
+2025-04-01,2025,4,A001,Central,Fraud,10
+2025-04-01,2025,4,A001,Central,Harassment,6
+2025-04-01,2025,4,A001,Central,Robbery,6
+2025-04-01,2025,4,A001,Central,Theft,9
+2025-04-01,2025,4,A001,Central,Vandalism,2
+2025-04-01,2025,4,A002,North,Assault,10
+2025-04-01,2025,4,A002,North,Burglary,2
+2025-04-01,2025,4,A002,North,Drug Offence,4
+2025-04-01,2025,4,A002,North,Fraud,5
+2025-04-01,2025,4,A002,North,Harassment,3
+2025-04-01,2025,4,A002,North,Robbery,3
+2025-04-01,2025,4,A002,North,Theft,9
+2025-04-01,2025,4,A002,North,Vandalism,4
+2025-04-01,2025,4,A003,South,Assault,4
+2025-04-01,2025,4,A003,South,Burglary,3
+2025-04-01,2025,4,A003,South,Drug Offence,1
+2025-04-01,2025,4,A003,South,Fraud,4
+2025-04-01,2025,4,A003,South,Harassment,2
+2025-04-01,2025,4,A003,South,Robbery,3
+2025-04-01,2025,4,A003,South,Theft,12
+2025-04-01,2025,4,A003,South,Vandalism,2
+2025-04-01,2025,4,A004,East,Assault,7
+2025-04-01,2025,4,A004,East,Burglary,8
+2025-04-01,2025,4,A004,East,Drug Offence,4
+2025-04-01,2025,4,A004,East,Fraud,2
+2025-04-01,2025,4,A004,East,Harassment,2
+2025-04-01,2025,4,A004,East,Robbery,5
+2025-04-01,2025,4,A004,East,Theft,9
+2025-04-01,2025,4,A004,East,Vandalism,5
+2025-04-01,2025,4,A005,West,Assault,8
+2025-04-01,2025,4,A005,West,Burglary,4
+2025-04-01,2025,4,A005,West,Drug Offence,2
+2025-04-01,2025,4,A005,West,Fraud,5
+2025-04-01,2025,4,A005,West,Harassment,1
+2025-04-01,2025,4,A005,West,Robbery,4
+2025-04-01,2025,4,A005,West,Theft,6
+2025-04-01,2025,4,A005,West,Vandalism,1
+2025-04-01,2025,4,A006,Harbour,Assault,3
+2025-04-01,2025,4,A006,Harbour,Burglary,1
+2025-04-01,2025,4,A006,Harbour,Fraud,3
+2025-04-01,2025,4,A006,Harbour,Harassment,1
+2025-04-01,2025,4,A006,Harbour,Robbery,3
+2025-04-01,2025,4,A006,Harbour,Theft,4
+2025-04-01,2025,4,A007,Industrial,Assault,6
+2025-04-01,2025,4,A007,Industrial,Burglary,3
+2025-04-01,2025,4,A007,Industrial,Drug Offence,3
+2025-04-01,2025,4,A007,Industrial,Fraud,5
+2025-04-01,2025,4,A007,Industrial,Harassment,3
+2025-04-01,2025,4,A007,Industrial,Theft,6
+2025-04-01,2025,4,A007,Industrial,Vandalism,2
+2025-04-01,2025,4,A008,University,Assault,6
+2025-04-01,2025,4,A008,University,Burglary,4
+2025-04-01,2025,4,A008,University,Drug Offence,1
+2025-04-01,2025,4,A008,University,Fraud,4
+2025-04-01,2025,4,A008,University,Robbery,4
+2025-04-01,2025,4,A008,University,Theft,3
+2025-04-01,2025,4,A008,University,Vandalism,1
+2025-04-01,2025,4,A009,Market,Assault,2
+2025-04-01,2025,4,A009,Market,Burglary,4
+2025-04-01,2025,4,A009,Market,Drug Offence,2
+2025-04-01,2025,4,A009,Market,Fraud,7
+2025-04-01,2025,4,A009,Market,Harassment,7
+2025-04-01,2025,4,A009,Market,Robbery,4
+2025-04-01,2025,4,A009,Market,Theft,6
+2025-04-01,2025,4,A009,Market,Vandalism,2
+2025-04-01,2025,4,A010,Suburban,Assault,6
+2025-04-01,2025,4,A010,Suburban,Burglary,2
+2025-04-01,2025,4,A010,Suburban,Drug Offence,2
+2025-04-01,2025,4,A010,Suburban,Fraud,5
+2025-04-01,2025,4,A010,Suburban,Harassment,1
+2025-04-01,2025,4,A010,Suburban,Robbery,3
+2025-04-01,2025,4,A010,Suburban,Theft,4
+2025-05-01,2025,5,A001,Central,Assault,10
+2025-05-01,2025,5,A001,Central,Burglary,4
+2025-05-01,2025,5,A001,Central,Fraud,6
+2025-05-01,2025,5,A001,Central,Harassment,2
+2025-05-01,2025,5,A001,Central,Robbery,1
+2025-05-01,2025,5,A001,Central,Theft,6
+2025-05-01,2025,5,A001,Central,Vandalism,2
+2025-05-01,2025,5,A002,North,Assault,3
+2025-05-01,2025,5,A002,North,Burglary,5
+2025-05-01,2025,5,A002,North,Drug Offence,8
+2025-05-01,2025,5,A002,North,Fraud,6
+2025-05-01,2025,5,A002,North,Harassment,2
+2025-05-01,2025,5,A002,North,Robbery,2
+2025-05-01,2025,5,A002,North,Theft,9
+2025-05-01,2025,5,A002,North,Vandalism,4
+2025-05-01,2025,5,A003,South,Assault,4
+2025-05-01,2025,5,A003,South,Burglary,4
+2025-05-01,2025,5,A003,South,Drug Offence,3
+2025-05-01,2025,5,A003,South,Fraud,7
+2025-05-01,2025,5,A003,South,Harassment,4
+2025-05-01,2025,5,A003,South,Robbery,3
+2025-05-01,2025,5,A003,South,Theft,9
+2025-05-01,2025,5,A003,South,Vandalism,3
+2025-05-01,2025,5,A004,East,Assault,5
+2025-05-01,2025,5,A004,East,Burglary,4
+2025-05-01,2025,5,A004,East,Drug Offence,3
+2025-05-01,2025,5,A004,East,Fraud,4
+2025-05-01,2025,5,A004,East,Harassment,3
+2025-05-01,2025,5,A004,East,Theft,11
+2025-05-01,2025,5,A004,East,Vandalism,2
+2025-05-01,2025,5,A005,West,Assault,6
+2025-05-01,2025,5,A005,West,Burglary,4
+2025-05-01,2025,5,A005,West,Drug Offence,1
+2025-05-01,2025,5,A005,West,Fraud,7
+2025-05-01,2025,5,A005,West,Harassment,3
+2025-05-01,2025,5,A005,West,Robbery,4
+2025-05-01,2025,5,A005,West,Theft,8
+2025-05-01,2025,5,A005,West,Vandalism,1
+2025-05-01,2025,5,A006,Harbour,Assault,5
+2025-05-01,2025,5,A006,Harbour,Burglary,4
+2025-05-01,2025,5,A006,Harbour,Fraud,5
+2025-05-01,2025,5,A006,Harbour,Harassment,4
+2025-05-01,2025,5,A006,Harbour,Robbery,2
+2025-05-01,2025,5,A006,Harbour,Theft,7
+2025-05-01,2025,5,A007,Industrial,Assault,3
+2025-05-01,2025,5,A007,Industrial,Burglary,3
+2025-05-01,2025,5,A007,Industrial,Drug Offence,2
+2025-05-01,2025,5,A007,Industrial,Fraud,7
+2025-05-01,2025,5,A007,Industrial,Harassment,1
+2025-05-01,2025,5,A007,Industrial,Robbery,2
+2025-05-01,2025,5,A007,Industrial,Theft,9
+2025-05-01,2025,5,A007,Industrial,Vandalism,3
+2025-05-01,2025,5,A008,University,Assault,5
+2025-05-01,2025,5,A008,University,Burglary,5
+2025-05-01,2025,5,A008,University,Drug Offence,2
+2025-05-01,2025,5,A008,University,Fraud,3
+2025-05-01,2025,5,A008,University,Harassment,1
+2025-05-01,2025,5,A008,University,Robbery,1
+2025-05-01,2025,5,A008,University,Theft,5
+2025-05-01,2025,5,A008,University,Vandalism,3
+2025-05-01,2025,5,A009,Market,Assault,7
+2025-05-01,2025,5,A009,Market,Burglary,2
+2025-05-01,2025,5,A009,Market,Drug Offence,1
+2025-05-01,2025,5,A009,Market,Fraud,2
+2025-05-01,2025,5,A009,Market,Harassment,2
+2025-05-01,2025,5,A009,Market,Robbery,4
+2025-05-01,2025,5,A009,Market,Theft,5
+2025-05-01,2025,5,A009,Market,Vandalism,2
+2025-05-01,2025,5,A010,Suburban,Assault,7
+2025-05-01,2025,5,A010,Suburban,Burglary,1
+2025-05-01,2025,5,A010,Suburban,Fraud,3
+2025-05-01,2025,5,A010,Suburban,Harassment,2
+2025-05-01,2025,5,A010,Suburban,Robbery,1
+2025-05-01,2025,5,A010,Suburban,Theft,3
+2025-05-01,2025,5,A010,Suburban,Vandalism,2
+2025-06-01,2025,6,A001,Central,Assault,6
+2025-06-01,2025,6,A001,Central,Burglary,6
+2025-06-01,2025,6,A001,Central,Drug Offence,5
+2025-06-01,2025,6,A001,Central,Fraud,8
+2025-06-01,2025,6,A001,Central,Harassment,5
+2025-06-01,2025,6,A001,Central,Robbery,3
+2025-06-01,2025,6,A001,Central,Theft,17
+2025-06-01,2025,6,A001,Central,Vandalism,2
+2025-06-01,2025,6,A002,North,Assault,9
+2025-06-01,2025,6,A002,North,Burglary,7
+2025-06-01,2025,6,A002,North,Drug Offence,1
+2025-06-01,2025,6,A002,North,Fraud,4
+2025-06-01,2025,6,A002,North,Harassment,4
+2025-06-01,2025,6,A002,North,Robbery,4
+2025-06-01,2025,6,A002,North,Theft,8
+2025-06-01,2025,6,A003,South,Assault,7
+2025-06-01,2025,6,A003,South,Burglary,3
+2025-06-01,2025,6,A003,South,Drug Offence,2
+2025-06-01,2025,6,A003,South,Fraud,5
+2025-06-01,2025,6,A003,South,Harassment,2
+2025-06-01,2025,6,A003,South,Robbery,1
+2025-06-01,2025,6,A003,South,Theft,9
+2025-06-01,2025,6,A003,South,Vandalism,2
+2025-06-01,2025,6,A004,East,Assault,10
+2025-06-01,2025,6,A004,East,Burglary,5
+2025-06-01,2025,6,A004,East,Drug Offence,3
+2025-06-01,2025,6,A004,East,Fraud,5
+2025-06-01,2025,6,A004,East,Harassment,7
+2025-06-01,2025,6,A004,East,Robbery,5
+2025-06-01,2025,6,A004,East,Theft,8
+2025-06-01,2025,6,A004,East,Vandalism,2
+2025-06-01,2025,6,A005,West,Assault,8
+2025-06-01,2025,6,A005,West,Burglary,7
+2025-06-01,2025,6,A005,West,Drug Offence,1
+2025-06-01,2025,6,A005,West,Fraud,2
+2025-06-01,2025,6,A005,West,Harassment,1
+2025-06-01,2025,6,A005,West,Robbery,1
+2025-06-01,2025,6,A005,West,Theft,9
+2025-06-01,2025,6,A005,West,Vandalism,1
+2025-06-01,2025,6,A006,Harbour,Assault,5
+2025-06-01,2025,6,A006,Harbour,Burglary,3
+2025-06-01,2025,6,A006,Harbour,Drug Offence,1
+2025-06-01,2025,6,A006,Harbour,Fraud,4
+2025-06-01,2025,6,A006,Harbour,Harassment,2
+2025-06-01,2025,6,A006,Harbour,Robbery,1
+2025-06-01,2025,6,A006,Harbour,Theft,3
+2025-06-01,2025,6,A006,Harbour,Vandalism,1
+2025-06-01,2025,6,A007,Industrial,Assault,7
+2025-06-01,2025,6,A007,Industrial,Burglary,6
+2025-06-01,2025,6,A007,Industrial,Drug Offence,1
+2025-06-01,2025,6,A007,Industrial,Fraud,2
+2025-06-01,2025,6,A007,Industrial,Harassment,3
+2025-06-01,2025,6,A007,Industrial,Robbery,6
+2025-06-01,2025,6,A007,Industrial,Theft,8
+2025-06-01,2025,6,A007,Industrial,Vandalism,1
+2025-06-01,2025,6,A008,University,Assault,2
+2025-06-01,2025,6,A008,University,Burglary,3
+2025-06-01,2025,6,A008,University,Drug Offence,5
+2025-06-01,2025,6,A008,University,Fraud,5
+2025-06-01,2025,6,A008,University,Harassment,3
+2025-06-01,2025,6,A008,University,Robbery,4
+2025-06-01,2025,6,A008,University,Theft,5
+2025-06-01,2025,6,A008,University,Vandalism,2
+2025-06-01,2025,6,A009,Market,Assault,6
+2025-06-01,2025,6,A009,Market,Burglary,4
+2025-06-01,2025,6,A009,Market,Fraud,6
+2025-06-01,2025,6,A009,Market,Harassment,1
+2025-06-01,2025,6,A009,Market,Robbery,3
+2025-06-01,2025,6,A009,Market,Theft,12
+2025-06-01,2025,6,A009,Market,Vandalism,3
+2025-06-01,2025,6,A010,Suburban,Assault,4
+2025-06-01,2025,6,A010,Suburban,Burglary,4
+2025-06-01,2025,6,A010,Suburban,Fraud,3
+2025-06-01,2025,6,A010,Suburban,Harassment,3
+2025-06-01,2025,6,A010,Suburban,Robbery,1
+2025-06-01,2025,6,A010,Suburban,Theft,6
+2025-06-01,2025,6,A010,Suburban,Vandalism,2
+2025-07-01,2025,7,A001,Central,Assault,6
+2025-07-01,2025,7,A001,Central,Burglary,8
+2025-07-01,2025,7,A001,Central,Drug Offence,2
+2025-07-01,2025,7,A001,Central,Fraud,7
+2025-07-01,2025,7,A001,Central,Harassment,8
+2025-07-01,2025,7,A001,Central,Robbery,5
+2025-07-01,2025,7,A001,Central,Theft,12
+2025-07-01,2025,7,A001,Central,Vandalism,3
+2025-07-01,2025,7,A002,North,Assault,4
+2025-07-01,2025,7,A002,North,Burglary,5
+2025-07-01,2025,7,A002,North,Drug Offence,3
+2025-07-01,2025,7,A002,North,Fraud,5
+2025-07-01,2025,7,A002,North,Harassment,2
+2025-07-01,2025,7,A002,North,Robbery,1
+2025-07-01,2025,7,A002,North,Theft,11
+2025-07-01,2025,7,A002,North,Vandalism,1
+2025-07-01,2025,7,A003,South,Assault,7
+2025-07-01,2025,7,A003,South,Burglary,4
+2025-07-01,2025,7,A003,South,Drug Offence,4
+2025-07-01,2025,7,A003,South,Fraud,6
+2025-07-01,2025,7,A003,South,Harassment,3
+2025-07-01,2025,7,A003,South,Robbery,1
+2025-07-01,2025,7,A003,South,Theft,7
+2025-07-01,2025,7,A003,South,Vandalism,5
+2025-07-01,2025,7,A004,East,Assault,5
+2025-07-01,2025,7,A004,East,Burglary,5
+2025-07-01,2025,7,A004,East,Drug Offence,5
+2025-07-01,2025,7,A004,East,Fraud,9
+2025-07-01,2025,7,A004,East,Harassment,1
+2025-07-01,2025,7,A004,East,Robbery,3
+2025-07-01,2025,7,A004,East,Theft,4
+2025-07-01,2025,7,A004,East,Vandalism,3
+2025-07-01,2025,7,A005,West,Assault,7
+2025-07-01,2025,7,A005,West,Burglary,5
+2025-07-01,2025,7,A005,West,Drug Offence,4
+2025-07-01,2025,7,A005,West,Fraud,7
+2025-07-01,2025,7,A005,West,Harassment,3
+2025-07-01,2025,7,A005,West,Robbery,6
+2025-07-01,2025,7,A005,West,Theft,11
+2025-07-01,2025,7,A005,West,Vandalism,2
+2025-07-01,2025,7,A006,Harbour,Assault,2
+2025-07-01,2025,7,A006,Harbour,Burglary,2
+2025-07-01,2025,7,A006,Harbour,Drug Offence,1
+2025-07-01,2025,7,A006,Harbour,Fraud,2
+2025-07-01,2025,7,A006,Harbour,Harassment,2
+2025-07-01,2025,7,A006,Harbour,Robbery,2
+2025-07-01,2025,7,A006,Harbour,Theft,8
+2025-07-01,2025,7,A006,Harbour,Vandalism,2
+2025-07-01,2025,7,A007,Industrial,Assault,5
+2025-07-01,2025,7,A007,Industrial,Burglary,2
+2025-07-01,2025,7,A007,Industrial,Drug Offence,1
+2025-07-01,2025,7,A007,Industrial,Fraud,2
+2025-07-01,2025,7,A007,Industrial,Robbery,5
+2025-07-01,2025,7,A007,Industrial,Theft,11
+2025-07-01,2025,7,A008,University,Assault,2
+2025-07-01,2025,7,A008,University,Burglary,3
+2025-07-01,2025,7,A008,University,Drug Offence,1
+2025-07-01,2025,7,A008,University,Fraud,3
+2025-07-01,2025,7,A008,University,Harassment,4
+2025-07-01,2025,7,A008,University,Robbery,3
+2025-07-01,2025,7,A008,University,Theft,10
+2025-07-01,2025,7,A008,University,Vandalism,3
+2025-07-01,2025,7,A009,Market,Assault,7
+2025-07-01,2025,7,A009,Market,Burglary,7
+2025-07-01,2025,7,A009,Market,Drug Offence,1
+2025-07-01,2025,7,A009,Market,Fraud,6
+2025-07-01,2025,7,A009,Market,Harassment,7
+2025-07-01,2025,7,A009,Market,Robbery,3
+2025-07-01,2025,7,A009,Market,Theft,6
+2025-07-01,2025,7,A009,Market,Vandalism,1
+2025-07-01,2025,7,A010,Suburban,Assault,4
+2025-07-01,2025,7,A010,Suburban,Burglary,3
+2025-07-01,2025,7,A010,Suburban,Drug Offence,2
+2025-07-01,2025,7,A010,Suburban,Fraud,2
+2025-07-01,2025,7,A010,Suburban,Harassment,4
+2025-07-01,2025,7,A010,Suburban,Robbery,1
+2025-07-01,2025,7,A010,Suburban,Theft,4
+2025-07-01,2025,7,A010,Suburban,Vandalism,1
+2025-08-01,2025,8,A001,Central,Assault,9
+2025-08-01,2025,8,A001,Central,Burglary,5
+2025-08-01,2025,8,A001,Central,Drug Offence,3
+2025-08-01,2025,8,A001,Central,Fraud,4
+2025-08-01,2025,8,A001,Central,Harassment,5
+2025-08-01,2025,8,A001,Central,Robbery,2
+2025-08-01,2025,8,A001,Central,Theft,13
+2025-08-01,2025,8,A001,Central,Vandalism,3
+2025-08-01,2025,8,A002,North,Assault,6
+2025-08-01,2025,8,A002,North,Burglary,6
+2025-08-01,2025,8,A002,North,Drug Offence,2
+2025-08-01,2025,8,A002,North,Fraud,5
+2025-08-01,2025,8,A002,North,Harassment,1
+2025-08-01,2025,8,A002,North,Robbery,3
+2025-08-01,2025,8,A002,North,Theft,10
+2025-08-01,2025,8,A002,North,Vandalism,1
+2025-08-01,2025,8,A003,South,Assault,7
+2025-08-01,2025,8,A003,South,Burglary,5
+2025-08-01,2025,8,A003,South,Drug Offence,2
+2025-08-01,2025,8,A003,South,Fraud,3
+2025-08-01,2025,8,A003,South,Harassment,4
+2025-08-01,2025,8,A003,South,Robbery,3
+2025-08-01,2025,8,A003,South,Theft,5
+2025-08-01,2025,8,A003,South,Vandalism,3
+2025-08-01,2025,8,A004,East,Assault,5
+2025-08-01,2025,8,A004,East,Burglary,5
+2025-08-01,2025,8,A004,East,Drug Offence,1
+2025-08-01,2025,8,A004,East,Fraud,2
+2025-08-01,2025,8,A004,East,Harassment,1
+2025-08-01,2025,8,A004,East,Robbery,4
+2025-08-01,2025,8,A004,East,Theft,13
+2025-08-01,2025,8,A004,East,Vandalism,2
+2025-08-01,2025,8,A005,West,Assault,6
+2025-08-01,2025,8,A005,West,Burglary,6
+2025-08-01,2025,8,A005,West,Drug Offence,2
+2025-08-01,2025,8,A005,West,Fraud,3
+2025-08-01,2025,8,A005,West,Harassment,1
+2025-08-01,2025,8,A005,West,Robbery,2
+2025-08-01,2025,8,A005,West,Theft,11
+2025-08-01,2025,8,A005,West,Vandalism,2
+2025-08-01,2025,8,A006,Harbour,Assault,5
+2025-08-01,2025,8,A006,Harbour,Burglary,9
+2025-08-01,2025,8,A006,Harbour,Drug Offence,1
+2025-08-01,2025,8,A006,Harbour,Fraud,2
+2025-08-01,2025,8,A006,Harbour,Harassment,2
+2025-08-01,2025,8,A006,Harbour,Robbery,4
+2025-08-01,2025,8,A006,Harbour,Theft,3
+2025-08-01,2025,8,A006,Harbour,Vandalism,3
+2025-08-01,2025,8,A007,Industrial,Assault,4
+2025-08-01,2025,8,A007,Industrial,Burglary,10
+2025-08-01,2025,8,A007,Industrial,Drug Offence,1
+2025-08-01,2025,8,A007,Industrial,Fraud,6
+2025-08-01,2025,8,A007,Industrial,Harassment,4
+2025-08-01,2025,8,A007,Industrial,Robbery,2
+2025-08-01,2025,8,A007,Industrial,Theft,10
+2025-08-01,2025,8,A007,Industrial,Vandalism,3
+2025-08-01,2025,8,A008,University,Assault,2
+2025-08-01,2025,8,A008,University,Drug Offence,1
+2025-08-01,2025,8,A008,University,Fraud,4
+2025-08-01,2025,8,A008,University,Harassment,3
+2025-08-01,2025,8,A008,University,Robbery,6
+2025-08-01,2025,8,A008,University,Theft,9
+2025-08-01,2025,8,A008,University,Vandalism,1
+2025-08-01,2025,8,A009,Market,Assault,7
+2025-08-01,2025,8,A009,Market,Burglary,3
+2025-08-01,2025,8,A009,Market,Drug Offence,2
+2025-08-01,2025,8,A009,Market,Fraud,7
+2025-08-01,2025,8,A009,Market,Harassment,2
+2025-08-01,2025,8,A009,Market,Robbery,5
+2025-08-01,2025,8,A009,Market,Theft,9
+2025-08-01,2025,8,A009,Market,Vandalism,6
+2025-08-01,2025,8,A010,Suburban,Assault,4
+2025-08-01,2025,8,A010,Suburban,Burglary,3
+2025-08-01,2025,8,A010,Suburban,Drug Offence,1
+2025-08-01,2025,8,A010,Suburban,Fraud,6
+2025-08-01,2025,8,A010,Suburban,Harassment,2
+2025-08-01,2025,8,A010,Suburban,Robbery,4
+2025-08-01,2025,8,A010,Suburban,Theft,5
+2025-08-01,2025,8,A010,Suburban,Vandalism,3
+2025-09-01,2025,9,A001,Central,Assault,9
+2025-09-01,2025,9,A001,Central,Burglary,6
+2025-09-01,2025,9,A001,Central,Drug Offence,2
+2025-09-01,2025,9,A001,Central,Fraud,6
+2025-09-01,2025,9,A001,Central,Harassment,2
+2025-09-01,2025,9,A001,Central,Robbery,2
+2025-09-01,2025,9,A001,Central,Theft,13
+2025-09-01,2025,9,A001,Central,Vandalism,5
+2025-09-01,2025,9,A002,North,Assault,4
+2025-09-01,2025,9,A002,North,Burglary,11
+2025-09-01,2025,9,A002,North,Drug Offence,1
+2025-09-01,2025,9,A002,North,Fraud,2
+2025-09-01,2025,9,A002,North,Harassment,3
+2025-09-01,2025,9,A002,North,Robbery,7
+2025-09-01,2025,9,A002,North,Theft,5
+2025-09-01,2025,9,A002,North,Vandalism,2
+2025-09-01,2025,9,A003,South,Assault,9
+2025-09-01,2025,9,A003,South,Burglary,6
+2025-09-01,2025,9,A003,South,Drug Offence,2
+2025-09-01,2025,9,A003,South,Fraud,6
+2025-09-01,2025,9,A003,South,Harassment,3
+2025-09-01,2025,9,A003,South,Robbery,6
+2025-09-01,2025,9,A003,South,Theft,5
+2025-09-01,2025,9,A003,South,Vandalism,4
+2025-09-01,2025,9,A004,East,Assault,5
+2025-09-01,2025,9,A004,East,Burglary,5
+2025-09-01,2025,9,A004,East,Fraud,7
+2025-09-01,2025,9,A004,East,Harassment,1
+2025-09-01,2025,9,A004,East,Robbery,3
+2025-09-01,2025,9,A004,East,Theft,12
+2025-09-01,2025,9,A004,East,Vandalism,3
+2025-09-01,2025,9,A005,West,Assault,7
+2025-09-01,2025,9,A005,West,Burglary,6
+2025-09-01,2025,9,A005,West,Drug Offence,2
+2025-09-01,2025,9,A005,West,Fraud,4
+2025-09-01,2025,9,A005,West,Harassment,3
+2025-09-01,2025,9,A005,West,Robbery,7
+2025-09-01,2025,9,A005,West,Theft,3
+2025-09-01,2025,9,A005,West,Vandalism,3
+2025-09-01,2025,9,A006,Harbour,Assault,5
+2025-09-01,2025,9,A006,Harbour,Burglary,4
+2025-09-01,2025,9,A006,Harbour,Drug Offence,1
+2025-09-01,2025,9,A006,Harbour,Fraud,3
+2025-09-01,2025,9,A006,Harbour,Harassment,2
+2025-09-01,2025,9,A006,Harbour,Robbery,1
+2025-09-01,2025,9,A006,Harbour,Theft,6
+2025-09-01,2025,9,A006,Harbour,Vandalism,3
+2025-09-01,2025,9,A007,Industrial,Assault,4
+2025-09-01,2025,9,A007,Industrial,Burglary,4
+2025-09-01,2025,9,A007,Industrial,Drug Offence,1
+2025-09-01,2025,9,A007,Industrial,Fraud,2
+2025-09-01,2025,9,A007,Industrial,Harassment,5
+2025-09-01,2025,9,A007,Industrial,Robbery,3
+2025-09-01,2025,9,A007,Industrial,Theft,10
+2025-09-01,2025,9,A007,Industrial,Vandalism,2
+2025-09-01,2025,9,A008,University,Assault,8
+2025-09-01,2025,9,A008,University,Burglary,2
+2025-09-01,2025,9,A008,University,Drug Offence,3
+2025-09-01,2025,9,A008,University,Fraud,2
+2025-09-01,2025,9,A008,University,Harassment,2
+2025-09-01,2025,9,A008,University,Robbery,4
+2025-09-01,2025,9,A008,University,Theft,2
+2025-09-01,2025,9,A009,Market,Assault,3
+2025-09-01,2025,9,A009,Market,Burglary,2
+2025-09-01,2025,9,A009,Market,Drug Offence,3
+2025-09-01,2025,9,A009,Market,Fraud,6
+2025-09-01,2025,9,A009,Market,Harassment,5
+2025-09-01,2025,9,A009,Market,Robbery,3
+2025-09-01,2025,9,A009,Market,Theft,5
+2025-09-01,2025,9,A009,Market,Vandalism,4
+2025-09-01,2025,9,A010,Suburban,Assault,8
+2025-09-01,2025,9,A010,Suburban,Drug Offence,3
+2025-09-01,2025,9,A010,Suburban,Fraud,2
+2025-09-01,2025,9,A010,Suburban,Harassment,1
+2025-09-01,2025,9,A010,Suburban,Robbery,1
+2025-09-01,2025,9,A010,Suburban,Theft,2
+2025-09-01,2025,9,A010,Suburban,Vandalism,1
+2025-10-01,2025,10,A001,Central,Assault,9
+2025-10-01,2025,10,A001,Central,Burglary,3
+2025-10-01,2025,10,A001,Central,Drug Offence,2
+2025-10-01,2025,10,A001,Central,Fraud,6
+2025-10-01,2025,10,A001,Central,Harassment,3
+2025-10-01,2025,10,A001,Central,Robbery,1
+2025-10-01,2025,10,A001,Central,Theft,7
+2025-10-01,2025,10,A001,Central,Vandalism,5
+2025-10-01,2025,10,A002,North,Assault,2
+2025-10-01,2025,10,A002,North,Burglary,3
+2025-10-01,2025,10,A002,North,Drug Offence,4
+2025-10-01,2025,10,A002,North,Fraud,2
+2025-10-01,2025,10,A002,North,Harassment,7
+2025-10-01,2025,10,A002,North,Robbery,6
+2025-10-01,2025,10,A002,North,Theft,9
+2025-10-01,2025,10,A002,North,Vandalism,3
+2025-10-01,2025,10,A003,South,Assault,5
+2025-10-01,2025,10,A003,South,Burglary,3
+2025-10-01,2025,10,A003,South,Drug Offence,2
+2025-10-01,2025,10,A003,South,Fraud,5
+2025-10-01,2025,10,A003,South,Harassment,6
+2025-10-01,2025,10,A003,South,Robbery,5
+2025-10-01,2025,10,A003,South,Theft,8
+2025-10-01,2025,10,A003,South,Vandalism,8
+2025-10-01,2025,10,A004,East,Assault,7
+2025-10-01,2025,10,A004,East,Burglary,5
+2025-10-01,2025,10,A004,East,Drug Offence,2
+2025-10-01,2025,10,A004,East,Fraud,7
+2025-10-01,2025,10,A004,East,Harassment,3
+2025-10-01,2025,10,A004,East,Robbery,5
+2025-10-01,2025,10,A004,East,Theft,7
+2025-10-01,2025,10,A004,East,Vandalism,1
+2025-10-01,2025,10,A005,West,Assault,5
+2025-10-01,2025,10,A005,West,Burglary,5
+2025-10-01,2025,10,A005,West,Drug Offence,2
+2025-10-01,2025,10,A005,West,Fraud,10
+2025-10-01,2025,10,A005,West,Harassment,2
+2025-10-01,2025,10,A005,West,Robbery,3
+2025-10-01,2025,10,A005,West,Theft,9
+2025-10-01,2025,10,A005,West,Vandalism,1
+2025-10-01,2025,10,A006,Harbour,Assault,5
+2025-10-01,2025,10,A006,Harbour,Burglary,4
+2025-10-01,2025,10,A006,Harbour,Drug Offence,6
+2025-10-01,2025,10,A006,Harbour,Fraud,2
+2025-10-01,2025,10,A006,Harbour,Harassment,5
+2025-10-01,2025,10,A006,Harbour,Robbery,3
+2025-10-01,2025,10,A006,Harbour,Theft,3
+2025-10-01,2025,10,A006,Harbour,Vandalism,1
+2025-10-01,2025,10,A007,Industrial,Assault,3
+2025-10-01,2025,10,A007,Industrial,Burglary,2
+2025-10-01,2025,10,A007,Industrial,Drug Offence,2
+2025-10-01,2025,10,A007,Industrial,Fraud,4
+2025-10-01,2025,10,A007,Industrial,Harassment,1
+2025-10-01,2025,10,A007,Industrial,Robbery,2
+2025-10-01,2025,10,A007,Industrial,Theft,5
+2025-10-01,2025,10,A007,Industrial,Vandalism,1
+2025-10-01,2025,10,A008,University,Assault,4
+2025-10-01,2025,10,A008,University,Burglary,4
+2025-10-01,2025,10,A008,University,Drug Offence,1
+2025-10-01,2025,10,A008,University,Fraud,6
+2025-10-01,2025,10,A008,University,Harassment,1
+2025-10-01,2025,10,A008,University,Robbery,3
+2025-10-01,2025,10,A008,University,Theft,8
+2025-10-01,2025,10,A008,University,Vandalism,2
+2025-10-01,2025,10,A009,Market,Assault,4
+2025-10-01,2025,10,A009,Market,Burglary,4
+2025-10-01,2025,10,A009,Market,Drug Offence,3
+2025-10-01,2025,10,A009,Market,Fraud,6
+2025-10-01,2025,10,A009,Market,Harassment,1
+2025-10-01,2025,10,A009,Market,Robbery,3
+2025-10-01,2025,10,A009,Market,Theft,9
+2025-10-01,2025,10,A009,Market,Vandalism,1
+2025-10-01,2025,10,A010,Suburban,Assault,2
+2025-10-01,2025,10,A010,Suburban,Burglary,4
+2025-10-01,2025,10,A010,Suburban,Drug Offence,1
+2025-10-01,2025,10,A010,Suburban,Harassment,2
+2025-10-01,2025,10,A010,Suburban,Robbery,2
+2025-10-01,2025,10,A010,Suburban,Theft,3
+2025-10-01,2025,10,A010,Suburban,Vandalism,4
+2025-11-01,2025,11,A001,Central,Assault,7
+2025-11-01,2025,11,A001,Central,Burglary,6
+2025-11-01,2025,11,A001,Central,Drug Offence,2
+2025-11-01,2025,11,A001,Central,Fraud,2
+2025-11-01,2025,11,A001,Central,Harassment,3
+2025-11-01,2025,11,A001,Central,Robbery,6
+2025-11-01,2025,11,A001,Central,Theft,7
+2025-11-01,2025,11,A001,Central,Vandalism,5
+2025-11-01,2025,11,A002,North,Assault,3
+2025-11-01,2025,11,A002,North,Burglary,6
+2025-11-01,2025,11,A002,North,Drug Offence,1
+2025-11-01,2025,11,A002,North,Fraud,4
+2025-11-01,2025,11,A002,North,Harassment,3
+2025-11-01,2025,11,A002,North,Robbery,6
+2025-11-01,2025,11,A002,North,Theft,14
+2025-11-01,2025,11,A002,North,Vandalism,2
+2025-11-01,2025,11,A003,South,Assault,5
+2025-11-01,2025,11,A003,South,Burglary,4
+2025-11-01,2025,11,A003,South,Fraud,5
+2025-11-01,2025,11,A003,South,Harassment,3
+2025-11-01,2025,11,A003,South,Robbery,5
+2025-11-01,2025,11,A003,South,Theft,5
+2025-11-01,2025,11,A003,South,Vandalism,2
+2025-11-01,2025,11,A004,East,Assault,7
+2025-11-01,2025,11,A004,East,Burglary,4
+2025-11-01,2025,11,A004,East,Drug Offence,2
+2025-11-01,2025,11,A004,East,Fraud,8
+2025-11-01,2025,11,A004,East,Harassment,3
+2025-11-01,2025,11,A004,East,Robbery,4
+2025-11-01,2025,11,A004,East,Theft,7
+2025-11-01,2025,11,A004,East,Vandalism,3
+2025-11-01,2025,11,A005,West,Assault,5
+2025-11-01,2025,11,A005,West,Burglary,3
+2025-11-01,2025,11,A005,West,Drug Offence,1
+2025-11-01,2025,11,A005,West,Fraud,7
+2025-11-01,2025,11,A005,West,Harassment,4
+2025-11-01,2025,11,A005,West,Robbery,7
+2025-11-01,2025,11,A005,West,Theft,10
+2025-11-01,2025,11,A005,West,Vandalism,2
+2025-11-01,2025,11,A006,Harbour,Assault,11
+2025-11-01,2025,11,A006,Harbour,Burglary,5
+2025-11-01,2025,11,A006,Harbour,Drug Offence,3
+2025-11-01,2025,11,A006,Harbour,Fraud,3
+2025-11-01,2025,11,A006,Harbour,Harassment,3
+2025-11-01,2025,11,A006,Harbour,Robbery,1
+2025-11-01,2025,11,A006,Harbour,Theft,4
+2025-11-01,2025,11,A006,Harbour,Vandalism,2
+2025-11-01,2025,11,A007,Industrial,Assault,1
+2025-11-01,2025,11,A007,Industrial,Burglary,4
+2025-11-01,2025,11,A007,Industrial,Drug Offence,3
+2025-11-01,2025,11,A007,Industrial,Fraud,4
+2025-11-01,2025,11,A007,Industrial,Harassment,3
+2025-11-01,2025,11,A007,Industrial,Robbery,4
+2025-11-01,2025,11,A007,Industrial,Theft,6
+2025-11-01,2025,11,A007,Industrial,Vandalism,1
+2025-11-01,2025,11,A008,University,Assault,4
+2025-11-01,2025,11,A008,University,Burglary,5
+2025-11-01,2025,11,A008,University,Drug Offence,2
+2025-11-01,2025,11,A008,University,Harassment,4
+2025-11-01,2025,11,A008,University,Robbery,3
+2025-11-01,2025,11,A008,University,Theft,7
+2025-11-01,2025,11,A009,Market,Assault,8
+2025-11-01,2025,11,A009,Market,Burglary,1
+2025-11-01,2025,11,A009,Market,Drug Offence,1
+2025-11-01,2025,11,A009,Market,Fraud,6
+2025-11-01,2025,11,A009,Market,Harassment,3
+2025-11-01,2025,11,A009,Market,Robbery,6
+2025-11-01,2025,11,A009,Market,Theft,3
+2025-11-01,2025,11,A009,Market,Vandalism,2
+2025-11-01,2025,11,A010,Suburban,Assault,4
+2025-11-01,2025,11,A010,Suburban,Burglary,2
+2025-11-01,2025,11,A010,Suburban,Harassment,1
+2025-11-01,2025,11,A010,Suburban,Theft,2
+2025-11-01,2025,11,A010,Suburban,Vandalism,1
+2025-12-01,2025,12,A001,Central,Assault,8
+2025-12-01,2025,12,A001,Central,Burglary,8
+2025-12-01,2025,12,A001,Central,Drug Offence,1
+2025-12-01,2025,12,A001,Central,Fraud,6
+2025-12-01,2025,12,A001,Central,Harassment,7
+2025-12-01,2025,12,A001,Central,Robbery,4
+2025-12-01,2025,12,A001,Central,Theft,14
+2025-12-01,2025,12,A001,Central,Vandalism,4
+2025-12-01,2025,12,A002,North,Assault,6
+2025-12-01,2025,12,A002,North,Burglary,8
+2025-12-01,2025,12,A002,North,Drug Offence,2
+2025-12-01,2025,12,A002,North,Fraud,7
+2025-12-01,2025,12,A002,North,Harassment,5
+2025-12-01,2025,12,A002,North,Robbery,4
+2025-12-01,2025,12,A002,North,Theft,10
+2025-12-01,2025,12,A002,North,Vandalism,4
+2025-12-01,2025,12,A003,South,Assault,4
+2025-12-01,2025,12,A003,South,Burglary,7
+2025-12-01,2025,12,A003,South,Drug Offence,2
+2025-12-01,2025,12,A003,South,Fraud,5
+2025-12-01,2025,12,A003,South,Harassment,3
+2025-12-01,2025,12,A003,South,Robbery,3
+2025-12-01,2025,12,A003,South,Theft,7
+2025-12-01,2025,12,A003,South,Vandalism,2
+2025-12-01,2025,12,A004,East,Assault,5
+2025-12-01,2025,12,A004,East,Burglary,10
+2025-12-01,2025,12,A004,East,Drug Offence,2
+2025-12-01,2025,12,A004,East,Fraud,4
+2025-12-01,2025,12,A004,East,Harassment,1
+2025-12-01,2025,12,A004,East,Robbery,1
+2025-12-01,2025,12,A004,East,Theft,6
+2025-12-01,2025,12,A004,East,Vandalism,1
+2025-12-01,2025,12,A005,West,Assault,6
+2025-12-01,2025,12,A005,West,Burglary,2
+2025-12-01,2025,12,A005,West,Drug Offence,2
+2025-12-01,2025,12,A005,West,Fraud,6
+2025-12-01,2025,12,A005,West,Harassment,5
+2025-12-01,2025,12,A005,West,Robbery,1
+2025-12-01,2025,12,A005,West,Theft,10
+2025-12-01,2025,12,A005,West,Vandalism,4
+2025-12-01,2025,12,A006,Harbour,Assault,9
+2025-12-01,2025,12,A006,Harbour,Burglary,2
+2025-12-01,2025,12,A006,Harbour,Drug Offence,1
+2025-12-01,2025,12,A006,Harbour,Fraud,5
+2025-12-01,2025,12,A006,Harbour,Harassment,3
+2025-12-01,2025,12,A006,Harbour,Theft,5
+2025-12-01,2025,12,A006,Harbour,Vandalism,4
+2025-12-01,2025,12,A007,Industrial,Assault,5
+2025-12-01,2025,12,A007,Industrial,Burglary,3
+2025-12-01,2025,12,A007,Industrial,Drug Offence,1
+2025-12-01,2025,12,A007,Industrial,Fraud,1
+2025-12-01,2025,12,A007,Industrial,Harassment,6
+2025-12-01,2025,12,A007,Industrial,Robbery,5
+2025-12-01,2025,12,A007,Industrial,Theft,1
+2025-12-01,2025,12,A007,Industrial,Vandalism,4
+2025-12-01,2025,12,A008,University,Assault,5
+2025-12-01,2025,12,A008,University,Burglary,4
+2025-12-01,2025,12,A008,University,Drug Offence,1
+2025-12-01,2025,12,A008,University,Fraud,5
+2025-12-01,2025,12,A008,University,Harassment,2
+2025-12-01,2025,12,A008,University,Robbery,7
+2025-12-01,2025,12,A008,University,Theft,4
+2025-12-01,2025,12,A008,University,Vandalism,1
+2025-12-01,2025,12,A009,Market,Assault,6
+2025-12-01,2025,12,A009,Market,Burglary,3
+2025-12-01,2025,12,A009,Market,Drug Offence,4
+2025-12-01,2025,12,A009,Market,Fraud,10
+2025-12-01,2025,12,A009,Market,Harassment,3
+2025-12-01,2025,12,A009,Market,Robbery,5
+2025-12-01,2025,12,A009,Market,Theft,7
+2025-12-01,2025,12,A009,Market,Vandalism,3
+2025-12-01,2025,12,A010,Suburban,Assault,5
+2025-12-01,2025,12,A010,Suburban,Burglary,6
+2025-12-01,2025,12,A010,Suburban,Drug Offence,1
+2025-12-01,2025,12,A010,Suburban,Fraud,1
+2025-12-01,2025,12,A010,Suburban,Harassment,2
+2025-12-01,2025,12,A010,Suburban,Robbery,3
+2025-12-01,2025,12,A010,Suburban,Theft,8
+2025-12-01,2025,12,A010,Suburban,Vandalism,2
